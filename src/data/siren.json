@@ -1,0 +1,21 @@
+{
+  "fullName": "Students In Research Empowerment Network",
+  "affiliation": "College of Technology, Purdue University Northwest",
+  "tagline": "Promoting research and connecting students with faculty.",
+  "mission": [
+    "Help students navigate research opportunities and questions at PNW.",
+    "Build community through events, socials, and hands-on challenges.",
+    "Amplify student projects and celebrate what our members build together."
+  ],
+  "socialLinks": [
+    { "label": "Instagram", "url": "https://www.instagram.com/" }
+  ],
+  "events": [
+    {
+      "title": "One Day App Development Challenge",
+      "date": "Annual (spring)",
+      "description": "Our flagship build day: teams ship an app in one day. See the ODADC section for each year’s showcase.",
+      "route": "/odadc"
+    }
+  ]
+}

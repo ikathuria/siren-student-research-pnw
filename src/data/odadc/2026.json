@@ -1,0 +1,26 @@
+{
+  "year": 2026,
+  "title": "One Day App Development Challenge 2026",
+  "description": "Second annual ODADC hosted by SIREN. Below are official resources, event artwork, and the project showcase. Kickoff presentation PDF and video are large files; add hosted URLs in this JSON when you publish them elsewhere.",
+  "resources": [
+    { "label": "Rules", "file": "odadc/2026/rules.pdf" },
+    { "label": "Judging rubric", "file": "odadc/2026/judging-rubric.pdf" }
+  ],
+  "kickoffVideoUrl": null,
+  "kickoffNote": "Full kickoff recording (~40 MB) is omitted from the repo to keep clones small. Upload to YouTube or PNW media and set kickoffVideoUrl in odadc/2026.json, or distribute offline.",
+  "gallery": [
+    "odadc/2026/poster_square.jpg",
+    "odadc/2026/poster_landscape.jpg",
+    "odadc/2026/poster_portrait.jpg"
+  ],
+  "projects": [
+    {
+      "teamName": "Example team",
+      "title": "Project titles coming soon",
+      "description": "Replace this entry in src/data/odadc/2026.json with real teams, repos, and demos as you collect them.",
+      "repoUrl": "",
+      "demoUrl": "",
+      "screenshot": ""
+    }
+  ]
+}

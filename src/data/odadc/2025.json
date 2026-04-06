@@ -1,0 +1,26 @@
+{
+  "year": 2025,
+  "title": "One Day App Development Challenge 2025",
+  "description": "Our first ODADC. Browse the photo gallery from event day. Team projects can be listed below as they are curated.",
+  "resources": [],
+  "kickoffVideoUrl": null,
+  "kickoffNote": "A short recap video (17.mp4) lives in the SIREN archive folder; add a hosted link in this file when you publish it online.",
+  "gallery": [
+    "odadc/2025/1.jpeg",
+    "odadc/2025/2.jpeg",
+    "odadc/2025/3.jpeg",
+    "odadc/2025/4.jpeg",
+    "odadc/2025/5.jpeg",
+    "odadc/2025/7.jpeg",
+    "odadc/2025/8.jpeg",
+    "odadc/2025/9.jpeg",
+    "odadc/2025/10.jpeg",
+    "odadc/2025/11.jpeg",
+    "odadc/2025/12.jpeg",
+    "odadc/2025/13.jpeg",
+    "odadc/2025/14.jpeg",
+    "odadc/2025/15.jpeg",
+    "odadc/2025/16.jpeg"
+  ],
+  "projects": []
+}

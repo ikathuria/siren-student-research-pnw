@@ -1,0 +1,11 @@
+{
+  "intro": "The SIREN Brief is our email newsletter. Past issues open in a new tab (HTML or PDF).",
+  "issues": [
+    {
+      "date": "2026-04-01",
+      "title": "April 2026",
+      "file": "newsletters/2026-04-the-siren-brief.html",
+      "format": "html"
+    }
+  ]
+}
