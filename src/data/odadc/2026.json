@@ -15,10 +15,10 @@
   ],
   "projects": [
     {
-      "teamName": "Example team",
-      "title": "Project titles coming soon",
-      "description": "Replace this entry in src/data/odadc/2026.json with real teams, repos, and demos as you collect them.",
-      "repoUrl": "",
+      "title": "HearMe",
+      "teamMembers": "Nandhu S K",
+      "description": "HearMe is a real-time AI-powered emotional support companion. You speak and it listens, understands, and responds like a present, caring friend. No advice. No platitudes. Just genuine presence.",
+      "repoUrl": "https://github.com/Nsk246/griefpilot",
       "demoUrl": "",
       "screenshot": ""
     }

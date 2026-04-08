@@ -39,6 +39,54 @@ export default function OdadcYearPage() {
       </header>
 
       <main className="page-main">
+        <section className="content-section">
+          <h2>Projects</h2>
+          {!data.projects?.length && (
+            <p className="muted">Project listings will appear here as they are added.</p>
+          )}
+          <ul className="project-grid">
+            {data.projects?.map((p, i) => (
+              <li key={`${p.title || 'project'}-${i}`} className="project-card">
+                {p.screenshot && (
+                  <img src={publicUrl(p.screenshot)} alt="" className="project-card__shot" />
+                )}
+                <div className="project-card__body">
+                  {p.title && <h3>{p.title}</h3>}
+                  {p.teamMembers && <p className="project-card__team">{p.teamMembers}</p>}
+                  <p>{p.description}</p>
+                  <div className="project-card__links">
+                    {p.repoUrl && (
+                      <a href={p.repoUrl} target="_blank" rel="noopener noreferrer">Repository</a>
+                    )}
+                    {p.demoUrl && (
+                      <a href={p.demoUrl} target="_blank" rel="noopener noreferrer">Demo</a>
+                    )}
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        {data.gallery?.length > 0 && (
+          <section className="content-section">
+            <h2>Photos and artwork</h2>
+            <div className="gallery-grid">
+              {data.gallery.map((src) => (
+                <a
+                  key={src}
+                  href={publicUrl(src)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="gallery-item"
+                >
+                  <img src={publicUrl(src)} alt="" loading="lazy" />
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+
         {data.resources?.length > 0 && (
           <section className="content-section">
             <h2>Resources</h2>
@@ -73,54 +121,6 @@ export default function OdadcYearPage() {
             {data.kickoffNote && <p className="prose muted">{data.kickoffNote}</p>}
           </section>
         )}
-
-        {data.gallery?.length > 0 && (
-          <section className="content-section">
-            <h2>Photos and artwork</h2>
-            <div className="gallery-grid">
-              {data.gallery.map((src) => (
-                <a
-                  key={src}
-                  href={publicUrl(src)}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="gallery-item"
-                >
-                  <img src={publicUrl(src)} alt="" loading="lazy" />
-                </a>
-              ))}
-            </div>
-          </section>
-        )}
-
-        <section className="content-section">
-          <h2>Projects</h2>
-          {!data.projects?.length && (
-            <p className="muted">Project listings will appear here as they are added.</p>
-          )}
-          <ul className="project-grid">
-            {data.projects?.map((p, i) => (
-              <li key={`${p.teamName}-${i}`} className="project-card">
-                {p.screenshot && (
-                  <img src={publicUrl(p.screenshot)} alt="" className="project-card__shot" />
-                )}
-                <div className="project-card__body">
-                  <p className="project-card__team">{p.teamName}</p>
-                  <h3>{p.title}</h3>
-                  <p>{p.description}</p>
-                  <div className="project-card__links">
-                    {p.repoUrl && (
-                      <a href={p.repoUrl} target="_blank" rel="noopener noreferrer">Repository</a>
-                    )}
-                    {p.demoUrl && (
-                      <a href={p.demoUrl} target="_blank" rel="noopener noreferrer">Demo</a>
-                    )}
-                  </div>
-                </div>
-              </li>
-            ))}
-          </ul>
-        </section>
 
         <p className="page-back">
           <Link to="/odadc" className="inline-link">← All ODADC years</Link>

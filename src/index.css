@@ -415,7 +415,31 @@ h1, h2, h3, h4, .tag {
   padding: 14px 20px;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px 20px;
+  gap: 12px 24px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-nav__brand {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: clamp(0.85rem, 2vw, 1rem);
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  max-width: min(100%, 22rem);
+  text-align: left;
+}
+
+.site-nav__brand:hover {
+  color: var(--primary);
+}
+
+.site-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;
   justify-content: center;
   align-items: center;
 }

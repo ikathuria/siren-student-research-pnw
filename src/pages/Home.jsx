@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import professorData from '../data/colleges/index.js'
+import { FACULTY_EXPLORER_TITLE } from '../siteMeta.js'
 
 const synonymMap = {
   'ai': ['machine learning', 'artificial intelligence', 'deep learning', 'neural networks', 'data mining'],
@@ -59,8 +60,11 @@ export default function Home() {
     <>
       <header className="hero">
         <div className="hero-content">
-          <h1>PNW Research Radar</h1>
-          <p>Discover the cutting-edge research happening at Purdue University Northwest.</p>
+          <h1>{FACULTY_EXPLORER_TITLE}</h1>
+          <p>
+            Faculty research explorer — search by professor or topic to discover research happening at Purdue
+            University Northwest.
+          </p>
           <div className="search-bar">
             <input
               type="text"
