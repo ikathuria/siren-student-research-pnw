@@ -1,7 +1,6 @@
 [
   {
     "name": "Kwangsoo Park",
-    "title": "Interim Dean of the College of Business",
     "department": "College of Business",
     "email": "park1717@pnw.edu",
     "phone": "(219) 989-2940",
@@ -10,11 +9,17 @@
       "Disability Inclusion",
       "Event Management",
       "Quality of Life"
-    ]
+    ],
+    "designation": [
+      "Interim Dean"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kwangsoo-park/",
+    "other_link": ""
   },
   {
     "name": "Arifin Angriawan",
-    "title": "Department Chair, Managerial Studies",
     "department": "Managerial Studies",
     "email": "angriawan@pnw.edu",
     "phone": "(219) 989-8031",
@@ -22,166 +27,17 @@
     "ongoing_research": [
       "Marketing Strategy",
       "Consumer Behavior"
-    ]
-  },
-  {
-    "name": "Speros Angelos Batistatos",
-    "title": "Visiting Instructor",
-    "department": "Managerial Studies",
-    "email": "sbatista@pnw.edu",
-    "phone": "(219) 669-0590",
-    "room_number": "Hammond, Anderson Building 318",
-    "ongoing_research": [
-      "Management Practices",
-      "Business Strategy"
-    ]
-  },
-  {
-    "name": "Amita Bhadauria",
-    "title": "Assistant Professor, Marketing",
-    "department": "Managerial Studies",
-    "email": "amita.bhadauria@pnw.edu",
-    "phone": "(219) 989-3104",
-    "room_number": "Hammond,  Anderson Building 381",
-    "ongoing_research": [
-      "Marketing Research",
-      "Consumer Psychology"
-    ]
-  },
-  {
-    "name": "Kristin Burton",
-    "title": "Assistant Professor, Entrepreneurship",
-    "department": "Managerial Studies",
-    "email": "burto122@pnw.edu",
-    "phone": "(219) 989-2440",
-    "room_number": "Hammond, Anderson Building 323",
-    "ongoing_research": [
-      "Entrepreneurship",
-      "Innovation Strategies"
-    ]
-  },
-  {
-    "name": "Chenduo Du",
-    "title": "Assistant Professor of Management (Organizational Behavior and Human Resource Management)",
-    "department": "Managerial Studies",
-    "email": "du376@pnw.edu",
-    "phone": "(219) 989-2595",
-    "room_number": "Hammond Campus, Anderson 325",
-    "ongoing_research": [
-      "Organizational Behavior",
-      "Human Resource Management"
-    ]
-  },
-  {
-    "name": "Lawrence O. Hamer",
-    "title": "Professor of Marketing",
-    "department": "Managerial Studies",
-    "email": "Lawrence.Hamer@pnw.edu",
-    "phone": "(219) 989-2606",
-    "room_number": "Hammond, Anderson Building 368",
-    "ongoing_research": [
-      "Marketing Theory",
-      "Consumer Marketing"
-    ]
-  },
-  {
-    "name": "Matthew Hanson",
-    "title": "Clinical Associate Professor of Marketing",
-    "department": "Managerial Studies",
-    "email": "hansonm@pnw.edu",
-    "phone": "(219) 613-8104",
-    "room_number": "Hammond, Anderson Building 372",
-    "ongoing_research": [
-      "Clinical Marketing Practices"
-    ]
-  },
-  {
-    "name": "Wei He",
-    "title": "Associate Professor of Management and Strategy",
-    "department": "Managerial Studies",
-    "email": "weihe@pnw.edu",
-    "phone": "(219) 785-5228",
-    "room_number": "Westville, Technology Building 197",
-    "ongoing_research": [
-      "Management Strategy",
-      "Corporate Leadership"
-    ]
-  },
-  {
-    "name": "Thomas Keon",
-    "title": "Chief Strategist for Roberts Impact Lab",
-    "department": "Managerial Studies",
-    "email": "tkeon@pnw.edu",
-    "phone": "",
-    "room_number": "Roberts Impact Lab, Room 2176",
-    "ongoing_research": [
-      "Strategic Impact",
-      "Institutional Leadership"
-    ]
-  },
-  {
-    "name": "Claudia C. Mich",
-    "title": "Professor of Marketing",
-    "department": "Managerial Studies",
-    "email": "cmich@pnw.edu",
-    "phone": "(219) 989-2776",
-    "room_number": "Hammond, Anderson Building 358",
-    "ongoing_research": [
-      "International Business",
-      "Marketing"
-    ]
-  },
-  {
-    "name": "Alexandra Moran",
-    "title": "Assistant Professor of Practice in Management",
-    "department": "Managerial Studies",
-    "email": "ajmoran@pnw.edu",
-    "phone": "(219) 989-3107",
-    "room_number": "",
-    "ongoing_research": [
-      "Management Practices",
-      "Applied Business Strategy"
-    ]
-  },
-  {
-    "name": "Jane Thomas",
-    "title": "Associate Professor, Human Resource Management and Organizational Behavior",
-    "department": "Managerial Studies",
-    "email": "jane.thomas@pnw.edu",
-    "phone": "(219) 989-2605",
-    "room_number": "",
-    "ongoing_research": [
-      "Human Resource Management",
-      "Organizational Behavior"
-    ]
-  },
-  {
-    "name": "Ceren Ekebas-Turedi",
-    "title": "Associate Professor of Marketing",
-    "department": "Managerial Studies",
-    "email": "cturedi@pnw.edu",
-    "phone": "(219) 785-5496",
-    "room_number": "Hammond, Anderson Building 374",
-    "ongoing_research": [
-      "Consumer Analytics",
-      "Marketing Strategy"
-    ]
-  },
-  {
-    "name": "Robyn L. Wheeler",
-    "title": "Clinical Assistant Professor of Organizational Behavior and Leadership",
-    "department": "Managerial Studies",
-    "email": "wheel142@pnw.edu",
-    "phone": "(219) 989-5257",
-    "room_number": "Hammond, Anderson Building 335B",
-    "ongoing_research": [
-      "Leadership Development",
-      "Organizational Change"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Managerial Studies"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/arifin-angriawan/",
+    "other_link": ""
   },
   {
     "name": "Scott Schaller",
-    "title": "Department Chair, Quantitative Business Studies",
     "department": "Quantitative Business Studies",
     "email": "sschalle@pnw.edu",
     "phone": "(219) 785-5585",
@@ -189,23 +45,35 @@
     "ongoing_research": [
       "Quantitative Business",
       "Accounting"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Quantitative Business Studies"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/scott-schaller/",
+    "other_link": ""
   },
   {
-    "name": "Carin Chuang",
-    "title": "Professor of Management Information Systems",
-    "department": "Quantitative Business Studies",
-    "email": "cchuang@pnw.edu",
-    "phone": "(219) 989-2382",
-    "room_number": "Hammond, Anderson Building 309",
+    "name": "Thomas Keon",
+    "department": "Managerial Studies",
+    "email": "tkeon@pnw.edu",
+    "phone": "",
+    "room_number": "Roberts Impact Lab, Room 2176",
     "ongoing_research": [
-      "Business Analytics",
-      "Information Systems"
-    ]
+      "Strategic Impact",
+      "Institutional Leadership"
+    ],
+    "designation": [
+      "Chief Strategist for Roberts Impact Lab"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/thomas-keon/",
+    "other_link": ""
   },
   {
     "name": "Shontrai Irving",
-    "title": "Clinical Professor of Business Law",
     "department": "Quantitative Business Studies",
     "email": "sdirving@pnw.edu",
     "phone": "(219) 989-2791",
@@ -213,83 +81,71 @@
     "ongoing_research": [
       "Business Law",
       "Ethics"
-    ]
+    ],
+    "designation": [
+      "Clinical Professor of Business Law"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shontrai-irving/",
+    "other_link": ""
   },
   {
-    "name": "Anh Thu Mai",
-    "title": "Assistant Professor",
+    "name": "Carin Chuang",
     "department": "Quantitative Business Studies",
-    "email": "mai30@pnw.edu",
-    "phone": "(219) 989-2389",
-    "room_number": "Hammond, Anderson Building 329",
+    "email": "cchuang@pnw.edu",
+    "phone": "(219) 989-2382",
+    "room_number": "Hammond, Anderson Building 309",
     "ongoing_research": [
-      "Quantitative Business Analysis",
-      "Finance"
-    ]
+      "Business Analytics",
+      "Information Systems"
+    ],
+    "designation": [
+      "Professor of Management Information Systems"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/carin-chuang/",
+    "other_link": ""
   },
   {
-    "name": "Maureen Francis Mascha",
-    "title": "Associate Professor of Accounting",
-    "department": "Quantitative Business Studies",
-    "email": "mmascha@pnw.edu",
-    "phone": "(219) 989-2512",
-    "room_number": "Hammond, Anderson Building 301",
+    "name": "Claudia C. Mich",
+    "department": "Managerial Studies",
+    "email": "cmich@pnw.edu",
+    "phone": "(219) 989-2776",
+    "room_number": "Hammond, Anderson Building 358",
     "ongoing_research": [
-      "Accounting Practices",
-      "Financial Reporting"
-    ]
+      "International Business",
+      "Marketing"
+    ],
+    "designation": [
+      "Professor of Marketing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/claudia-c-mich/",
+    "other_link": ""
   },
   {
-    "name": "Paolo Miranda",
-    "title": "Associate Professor of Finance",
-    "department": "Quantitative Business Studies",
-    "email": "mirandap@pnw.edu",
-    "phone": "(219) 989-3221",
-    "room_number": "Hammond, Anderson Building 326",
+    "name": "Lawrence O. Hamer",
+    "department": "Managerial Studies",
+    "email": "Lawrence.Hamer@pnw.edu",
+    "phone": "(219) 989-2606",
+    "room_number": "Hammond, Anderson Building 368",
     "ongoing_research": [
-      "Corporate Finance",
-      "Investment Analysis"
-    ]
-  },
-  {
-    "name": "Eric Mlynarczyk",
-    "title": "Clinical Associate Professor of Accounting",
-    "department": "Quantitative Business Studies",
-    "email": "eric.mlynarczyk@pnw.edu",
-    "phone": "(219) 989-2607",
-    "room_number": "",
-    "ongoing_research": [
-      "Accounting Regulation",
-      "Auditing"
-    ]
-  },
-  {
-    "name": "Songtao Mo",
-    "title": "Associate Professor of Accounting",
-    "department": "Quantitative Business Studies",
-    "email": "smo@pnw.edu",
-    "phone": "(219) 989-3189",
-    "room_number": "Hammond, Anderson Building 303",
-    "ongoing_research": [
-      "Managerial Accounting",
-      "Financial Economics"
-    ]
-  },
-  {
-    "name": "Russell Mulligan",
-    "title": "Clinical Assistant Professor of Operations Management and Business Analytics",
-    "department": "Quantitative Business Studies",
-    "email": "rmulliga@pnw.edu",
-    "phone": "(219) 989-2746",
-    "room_number": "Hammond, Anderson Building 370",
-    "ongoing_research": [
-      "Operations Management",
-      "Business Analytics"
-    ]
+      "Marketing Theory",
+      "Consumer Marketing"
+    ],
+    "designation": [
+      "Professor of Marketing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lawrence-o-hamer/",
+    "other_link": ""
   },
   {
     "name": "Pat Obi",
-    "title": "White Lodging Professor of Finance",
     "department": "Quantitative Business Studies",
     "email": "obi@pnw.edu",
     "phone": "(219) 989-2747",
@@ -297,47 +153,17 @@
     "ongoing_research": [
       "Financial Markets",
       "Corporate Finance"
-    ]
-  },
-  {
-    "name": "Michael Paz",
-    "title": "Assistant Professor",
-    "department": "Quantitative Business Studies",
-    "email": "paz10@pnw.edu",
-    "phone": "(219) 989-2407",
-    "room_number": "Hammond Campus, Anderson 369",
-    "ongoing_research": [
-      "Business Strategy",
-      "Quantitative Analytics"
-    ]
-  },
-  {
-    "name": "Deanne M. Shimala",
-    "title": "Clinical Assistant Professor of Accounting and Finance",
-    "department": "Quantitative Business Studies",
-    "email": "dshimala@pnw.edu",
-    "phone": "219-989-2381",
-    "room_number": "Hammond, Anderson Building 371",
-    "ongoing_research": [
-      "Accounting Information Systems",
-      "Financial Management"
-    ]
-  },
-  {
-    "name": "Serdar Turedi",
-    "title": "Associate Professor of Business Analytics",
-    "department": "Quantitative Business Studies",
-    "email": "sturedi@pnw.edu",
-    "phone": "(219) 989-2716",
-    "room_number": "Hammond, Anderson Building 376",
-    "ongoing_research": [
-      "Data Mining",
-      "Business Intelligence"
-    ]
+    ],
+    "designation": [
+      "White Lodging Professor of Finance"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/pat-obi/",
+    "other_link": ""
   },
   {
     "name": "Donna L Whitten",
-    "title": "Associate Professor of Accounting",
     "department": "Quantitative Business Studies",
     "email": "dlwhitte@pnw.edu",
     "phone": "219-785-5310",
@@ -345,11 +171,107 @@
     "ongoing_research": [
       "Accounting Pedagogy",
       "Financial Statements"
-    ]
+    ],
+    "designation": [
+      "Associate Professor of Accounting"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/donna-l-whitten/",
+    "other_link": ""
+  },
+  {
+    "name": "Maureen Francis Mascha",
+    "department": "Quantitative Business Studies",
+    "email": "mmascha@pnw.edu",
+    "phone": "(219) 989-2512",
+    "room_number": "Hammond, Anderson Building 301",
+    "ongoing_research": [
+      "Accounting Practices",
+      "Financial Reporting"
+    ],
+    "designation": [
+      "Associate Professor of Accounting"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/maureen-francis-mascha/",
+    "other_link": ""
+  },
+  {
+    "name": "Songtao Mo",
+    "department": "Quantitative Business Studies",
+    "email": "smo@pnw.edu",
+    "phone": "(219) 989-3189",
+    "room_number": "Hammond, Anderson Building 303",
+    "ongoing_research": [
+      "Managerial Accounting",
+      "Financial Economics"
+    ],
+    "designation": [
+      "Associate Professor of Accounting"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/songtao-mo/",
+    "other_link": ""
+  },
+  {
+    "name": "Serdar Turedi",
+    "department": "Quantitative Business Studies",
+    "email": "sturedi@pnw.edu",
+    "phone": "(219) 989-2716",
+    "room_number": "Hammond, Anderson Building 376",
+    "ongoing_research": [
+      "Data Mining",
+      "Business Intelligence"
+    ],
+    "designation": [
+      "Associate Professor of Business Analytics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/serdar-turedi/",
+    "other_link": ""
+  },
+  {
+    "name": "Paolo Miranda",
+    "department": "Quantitative Business Studies",
+    "email": "mirandap@pnw.edu",
+    "phone": "(219) 989-3221",
+    "room_number": "Hammond, Anderson Building 326",
+    "ongoing_research": [
+      "Corporate Finance",
+      "Investment Analysis"
+    ],
+    "designation": [
+      "Associate Professor of Finance"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/paolo-miranda/",
+    "other_link": ""
+  },
+  {
+    "name": "Wei He",
+    "department": "Managerial Studies",
+    "email": "weihe@pnw.edu",
+    "phone": "(219) 785-5228",
+    "room_number": "Westville, Technology Building 197",
+    "ongoing_research": [
+      "Management Strategy",
+      "Corporate Leadership"
+    ],
+    "designation": [
+      "Associate Professor of Management and Strategy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/wei-he/",
+    "other_link": ""
   },
   {
     "name": "Chen Ye",
-    "title": "Associate Professor of Management Information Systems",
     "department": "Quantitative Business Studies",
     "email": "chenye@pnw.edu",
     "phone": "(219) 989-3152",
@@ -357,6 +279,264 @@
     "ongoing_research": [
       "Management Information Systems",
       "Technology Adoption"
-    ]
+    ],
+    "designation": [
+      "Associate Professor of Management Information Systems"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chen-ye/",
+    "other_link": ""
+  },
+  {
+    "name": "Ceren Ekebas-Turedi",
+    "department": "Managerial Studies",
+    "email": "cturedi@pnw.edu",
+    "phone": "(219) 785-5496",
+    "room_number": "Hammond, Anderson Building 374",
+    "ongoing_research": [
+      "Consumer Analytics",
+      "Marketing Strategy"
+    ],
+    "designation": [
+      "Associate Professor of Marketing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ceren-ekebas-turedi/",
+    "other_link": ""
+  },
+  {
+    "name": "Jane Thomas",
+    "department": "Managerial Studies",
+    "email": "jane.thomas@pnw.edu",
+    "phone": "(219) 989-2605",
+    "room_number": "",
+    "ongoing_research": [
+      "Human Resource Management",
+      "Organizational Behavior"
+    ],
+    "designation": [
+      "Associate Professor, Human Resource Management and Organizational Behavior"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jane-thomas/",
+    "other_link": ""
+  },
+  {
+    "name": "Eric Mlynarczyk",
+    "department": "Quantitative Business Studies",
+    "email": "eric.mlynarczyk@pnw.edu",
+    "phone": "(219) 989-2607",
+    "room_number": "",
+    "ongoing_research": [
+      "Accounting Regulation",
+      "Auditing"
+    ],
+    "designation": [
+      "Clinical Associate Professor of Accounting"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/eric-mlynarczyk/",
+    "other_link": ""
+  },
+  {
+    "name": "Matthew Hanson",
+    "department": "Managerial Studies",
+    "email": "hansonm@pnw.edu",
+    "phone": "(219) 613-8104",
+    "room_number": "Hammond, Anderson Building 372",
+    "ongoing_research": [
+      "Clinical Marketing Practices"
+    ],
+    "designation": [
+      "Clinical Associate Professor of Marketing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/matthew-hanson/",
+    "other_link": ""
+  },
+  {
+    "name": "Anh Thu Mai",
+    "department": "Quantitative Business Studies",
+    "email": "mai30@pnw.edu",
+    "phone": "(219) 989-2389",
+    "room_number": "Hammond, Anderson Building 329",
+    "ongoing_research": [
+      "Quantitative Business Analysis",
+      "Finance"
+    ],
+    "designation": [
+      "Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/anh-thu-mai/",
+    "other_link": ""
+  },
+  {
+    "name": "Michael Paz",
+    "department": "Quantitative Business Studies",
+    "email": "paz10@pnw.edu",
+    "phone": "(219) 989-2407",
+    "room_number": "Hammond Campus, Anderson 369",
+    "ongoing_research": [
+      "Business Strategy",
+      "Quantitative Analytics"
+    ],
+    "designation": [
+      "Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-paz/",
+    "other_link": ""
+  },
+  {
+    "name": "Chenduo Du",
+    "department": "Managerial Studies",
+    "email": "du376@pnw.edu",
+    "phone": "(219) 989-2595",
+    "room_number": "Hammond Campus, Anderson 325",
+    "ongoing_research": [
+      "Organizational Behavior",
+      "Human Resource Management"
+    ],
+    "designation": [
+      "Assistant Professor of Management (Organizational Behavior and Human Resource Management)"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chenduo-du/",
+    "other_link": ""
+  },
+  {
+    "name": "Alexandra Moran",
+    "department": "Managerial Studies",
+    "email": "ajmoran@pnw.edu",
+    "phone": "(219) 989-3107",
+    "room_number": "",
+    "ongoing_research": [
+      "Management Practices",
+      "Applied Business Strategy"
+    ],
+    "designation": [
+      "Assistant Professor of Practice in Management"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/alexandra-moran/",
+    "other_link": ""
+  },
+  {
+    "name": "Kristin Burton",
+    "department": "Managerial Studies",
+    "email": "burto122@pnw.edu",
+    "phone": "(219) 989-2440",
+    "room_number": "Hammond, Anderson Building 323",
+    "ongoing_research": [
+      "Entrepreneurship",
+      "Innovation Strategies"
+    ],
+    "designation": [
+      "Assistant Professor, Entrepreneurship"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kristin-burton/",
+    "other_link": ""
+  },
+  {
+    "name": "Amita Bhadauria",
+    "department": "Managerial Studies",
+    "email": "amita.bhadauria@pnw.edu",
+    "phone": "(219) 989-3104",
+    "room_number": "Hammond,  Anderson Building 381",
+    "ongoing_research": [
+      "Marketing Research",
+      "Consumer Psychology"
+    ],
+    "designation": [
+      "Assistant Professor, Marketing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amita-bhadauria/",
+    "other_link": ""
+  },
+  {
+    "name": "Deanne M. Shimala",
+    "department": "Quantitative Business Studies",
+    "email": "dshimala@pnw.edu",
+    "phone": "219-989-2381",
+    "room_number": "Hammond, Anderson Building 371",
+    "ongoing_research": [
+      "Accounting Information Systems",
+      "Financial Management"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Accounting and Finance"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/deanne-m-shimala/",
+    "other_link": ""
+  },
+  {
+    "name": "Russell Mulligan",
+    "department": "Quantitative Business Studies",
+    "email": "rmulliga@pnw.edu",
+    "phone": "(219) 989-2746",
+    "room_number": "Hammond, Anderson Building 370",
+    "ongoing_research": [
+      "Operations Management",
+      "Business Analytics"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Operations Management and Business Analytics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/russell-mulligan/",
+    "other_link": ""
+  },
+  {
+    "name": "Robyn L. Wheeler",
+    "department": "Managerial Studies",
+    "email": "wheel142@pnw.edu",
+    "phone": "(219) 989-5257",
+    "room_number": "Hammond, Anderson Building 335B",
+    "ongoing_research": [
+      "Leadership Development",
+      "Organizational Change"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Organizational Behavior and Leadership"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/robyn-l-wheeler/",
+    "other_link": ""
+  },
+  {
+    "name": "Speros Angelos Batistatos",
+    "department": "Managerial Studies",
+    "email": "sbatista@pnw.edu",
+    "phone": "(219) 669-0590",
+    "room_number": "Hammond, Anderson Building 318",
+    "ongoing_research": [
+      "Management Practices",
+      "Business Strategy"
+    ],
+    "designation": [
+      "Visiting Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/speros-angelos-batistatos/",
+    "other_link": ""
   }
 ]

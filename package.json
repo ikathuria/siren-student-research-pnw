@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "gallery-thumbs": "node scripts/generate-odadc-gallery-thumbs.mjs"
+    "gallery-thumbs": "node scripts/generate-odadc-gallery-thumbs.mjs",
+    "validate-profile-links": "node scripts/validate-profile-links.mjs"
   },
   "dependencies": {
     "react": "^18.2.0",

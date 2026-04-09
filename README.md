@@ -4,10 +4,10 @@ Student-facing site for **Purdue University Northwest**: connect with faculty re
 
 ## What’s on the site
 
-- **Home — “PNW Research Radar”** — Searchable faculty research explorer (by college and topic).
-- **SIREN** — Organization page: mission, constitution, events.
-- **ODADC** — One Day App Development Challenge hub and per-year pages.
-- **SIREN Brief** — Newsletter archive (HTML/PDF).
+- **Home, “PNW Research Radar”**, Searchable faculty research explorer (by college and topic).
+- **SIREN**, Organization page: mission, constitution, events.
+- **ODADC**, One Day App Development Challenge hub and per-year pages.
+- **SIREN Brief**, Newsletter archive (HTML/PDF).
 
 ## Development
 

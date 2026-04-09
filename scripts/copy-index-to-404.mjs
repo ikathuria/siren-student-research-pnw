@@ -12,7 +12,7 @@ const indexHtml = join(dist, 'index.html')
 const notFoundHtml = join(dist, '404.html')
 
 if (!existsSync(indexHtml)) {
-  console.error('copy-index-to-404: dist/index.html missing — run vite build first')
+  console.error('copy-index-to-404: dist/index.html missing, run vite build first')
   process.exit(1)
 }
 copyFileSync(indexHtml, notFoundHtml)

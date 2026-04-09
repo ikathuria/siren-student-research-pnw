@@ -1,11 +1,21 @@
 [
   {
-    "name": "José R. Sánchez",
-    "department": "Electrical and Computer Engineering",
-    "email": "sanch653@pnw.edu",
-    "phone": "(219) 989-2469",
-    "room_number": "Hammond, POT 121",
-    "ongoing_research": ["Electrical Engineering", "Computing Engineering"]
+    "name": "Kenneth C. Holford",
+    "department": "Biology",
+    "email": "cholford@pnw.edu",
+    "phone": "(219) 989-2203",
+    "room_number": "Hammond Campus, LAWS 330",
+    "ongoing_research": [
+      "Biology Education",
+      "Higher Education Leadership"
+    ],
+    "designation": [
+      "Chancellor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kenneth-c-holford/",
+    "other_link": ""
   },
   {
     "name": "Adam W. Rengstorf",
@@ -13,7 +23,37 @@
     "email": "adamwr@pnw.edu",
     "phone": "(219) 989-2327",
     "room_number": "Hammond Campus, GYTE 252",
-    "ongoing_research": ["Astrophysics", "Physics Education"]
+    "ongoing_research": [
+      "Astrophysics",
+      "Physics Education"
+    ],
+    "designation": [
+      "Associate Dean",
+      "Associate Professor of Astrophysics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/adam-w-rengstorf/",
+    "other_link": ""
+  },
+  {
+    "name": "José R. Sánchez",
+    "department": "Electrical and Computer Engineering",
+    "email": "sanch653@pnw.edu",
+    "phone": "(219) 989-2469",
+    "room_number": "Hammond, POT 121",
+    "ongoing_research": [
+      "Electrical Engineering",
+      "Computing Engineering"
+    ],
+    "designation": [
+      "Dean, College of Engineering and Sciences",
+      "Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jose-r-sanchez/",
+    "other_link": ""
   },
   {
     "name": "J. Curtis Creighton",
@@ -21,135 +61,17 @@
     "email": "creighto@pnw.edu",
     "phone": "(219) 989-2617",
     "room_number": "Hammond Campus, NILS 340B",
-    "ongoing_research": ["Evolution of Behavior", "Ecology and Evolution"]
-  },
-  {
-    "name": "Mitchell S. Alix",
-    "department": "Biological Sciences",
-    "email": "malix@pnw.edu",
-    "phone": "(219) 785-5295",
-    "room_number": "Westville Campus, TECH 289",
-    "ongoing_research": ["Aquatic Botany", "Ecology of Aquatic Plants", "Conservation"]
-  },
-  {
-    "name": "Scott T. Bates",
-    "department": "Biological Sciences",
-    "email": "bates43@pnw.edu",
-    "phone": "(219) 785-5577",
-    "room_number": "Westville Campus, TECH 290",
-    "ongoing_research": ["Microbial Ecology", "Bioinformatics", "Mycology"]
-  },
-  {
-    "name": "Young D. Choi",
-    "department": "Biological Sciences",
-    "email": "ydchoi@pnw.edu",
-    "phone": "(219) 989-2325",
-    "room_number": "Hammond Campus, NILS 340F",
-    "ongoing_research": ["Biology", "Ecology"]
-  },
-  {
-    "name": "Edward Draper",
-    "department": "Biological Sciences",
-    "email": "emdraper@pnw.edu",
-    "phone": "(219) 989-2404",
-    "room_number": "Hammond Campus, NILS 340J",
-    "ongoing_research": ["Molecular Biology", "Genetics"]
-  },
-  {
-    "name": "John J. Durocher",
-    "department": "Biological Sciences",
-    "email": "jjduroch@pnw.edu",
-    "phone": "(219) 989-2625",
-    "room_number": "Hammond Campus, Gyte 298",
-    "ongoing_research": ["Integrative Human Health", "Clinical Exercise Physiology"]
-  },
-  {
-    "name": "Lindsay M. Gielda",
-    "department": "Biological Sciences",
-    "email": "lgielda@pnw.edu",
-    "phone": "(219) 785-5318",
-    "room_number": "Westville Campus, TECH 285",
-    "ongoing_research": ["Biological Sciences", "Microbiology"]
-  },
-  {
-    "name": "Kenneth C. Holford",
-    "department": "Biology",
-    "email": "cholford@pnw.edu",
-    "phone": "(219) 989-2203",
-    "room_number": "Hammond Campus, LAWS 330",
-    "ongoing_research": ["Biology Education", "Higher Education Leadership"]
-  },
-  {
-    "name": "Barbara Mania-Farnell",
-    "department": "Biological Sciences",
-    "email": "bmania@pnw.edu",
-    "phone": "(219) 989-2014",
-    "room_number": "Hammond Campus, NILS 340N",
-    "ongoing_research": ["Transcription Factors", "Neural Tube Development"]
-  },
-  {
-    "name": "Matthew A. Ladwig",
-    "department": "Biological Sciences",
-    "email": "mladwig@pnw.edu",
-    "phone": "(219) 989-2738",
-    "room_number": "Hammond Campus, NILS 340B",
-    "ongoing_research": ["Integrative Human Health", "Kinesiology"]
-  },
-  {
-    "name": "Hassan Naji",
-    "department": "Biological Sciences",
-    "email": "hnaji@pnw.edu",
-    "phone": "219-989-3177",
-    "room_number": "Hammond Campus, NILS 340M",
-    "ongoing_research": ["Biological Sciences Practice", "Anatomy"]
-  },
-  {
-    "name": "Andrew Skibski",
-    "department": "Biological Sciences",
-    "email": "askibski@pnw.edu",
-    "phone": "(219) 989-5414",
-    "room_number": "Hammond Campus, NILS 340E",
-    "ongoing_research": ["Integrative Human Health", "Athletic Training"]
-  },
-  {
-    "name": "Michelle Spaulding",
-    "department": "Biological Sciences",
-    "email": "mspauldi@pnw.edu",
-    "phone": "(219) 785-5614",
-    "room_number": "Westville Campus, TECH 131A",
-    "ongoing_research": ["Evolutionary Biology", "Paleontology"]
-  },
-  {
-    "name": "Radmila Sarac Stanic",
-    "department": "Biological Sciences",
-    "email": "saracr@pnw.edu",
-    "phone": "(219) 989-2492",
-    "room_number": "Hammond Campus, NILS 340K",
-    "ongoing_research": ["Cell Biology", "Molecuar Biology"]
-  },
-  {
-    "name": "Ernest Talarico",
-    "department": "Biological Sciences",
-    "email": "etalaric@pnw.edu",
-    "phone": "(219) 989-2490",
-    "room_number": "Hammond Campus, NILS 340C",
-    "ongoing_research": ["Anatomy", "Physiology", "Medical Education"]
-  },
-  {
-    "name": "Feng-Song Wang",
-    "department": "Biological Sciences",
-    "email": "wang73@pnw.edu",
-    "phone": "(219) 989-2152",
-    "room_number": "Hammond Campus, NILS 340H",
-    "ongoing_research": ["Developmental Biology", "Genetics"]
-  },
-  {
-    "name": "Michael I. Zimmer",
-    "department": "Biological Sciences",
-    "email": "mzimmer@pnw.edu",
-    "phone": "(219) 989-2491",
-    "room_number": "Hammond, NILS 340L",
-    "ongoing_research": ["Human Health", "Clinical Research"]
+    "ongoing_research": [
+      "Evolution of Behavior",
+      "Ecology and Evolution"
+    ],
+    "designation": [
+      "Department Chair, Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/j-curtis-creighton/",
+    "other_link": ""
   },
   {
     "name": "Michael W. Pelter",
@@ -157,127 +79,17 @@
     "email": "mwpelter@pnw.edu",
     "phone": "(219) 989-2449",
     "room_number": "Hammond Campus, Gyte 277",
-    "ongoing_research": ["Chemistry Education", "Inorganic Chemistry"]
-  },
-  {
-    "name": "Reynaldo D. Barreto",
-    "department": "Chemistry and Physics",
-    "email": "rbarreto@pnw.edu",
-    "phone": "(219) 785-5475",
-    "room_number": "Westville Campus, SWRZ 311B",
-    "ongoing_research": ["Photocatalysis", "Environmental Remediation"]
-  },
-  {
-    "name": "Khagendra Bhandari",
-    "department": "Chemistry and Physics",
-    "email": "kpbhanda@pnw.edu",
-    "phone": "(219) 989-2618",
-    "room_number": "Hammond Campus, GYTE 262",
-    "ongoing_research": ["Materials Physics", "Condensed Matter"]
-  },
-  {
-    "name": "Glynn E. Bricker",
-    "department": "Chemistry and Physics",
-    "email": "gbricker@pnw.edu",
-    "phone": "(219) 785-5452",
-    "room_number": "Westville Campus, SWRZ 310",
-    "ongoing_research": ["Physics Education", "Applied Physics"]
-  },
-  {
-    "name": "James W. Dolen",
-    "department": "Chemistry and Physics",
-    "email": "jdolen@pnw.edu",
-    "phone": "(219) 989-2260",
-    "room_number": "Hammond Campus, GYTE 259",
-    "ongoing_research": ["Particle Physics", "LHC Experiments"]
-  },
-  {
-    "name": "Nicholas E. Ernst",
-    "department": "Chemistry and Physics",
-    "email": "neernst@pnw.edu",
-    "phone": "(219) 989-2282",
-    "room_number": "Hammond Campus, GYTE 268",
-    "ongoing_research": ["Organic Chemistry", "Synthesis"]
-  },
-  {
-    "name": "Dawit Gizachew",
-    "department": "Chemistry and Physics",
-    "email": "dgizache@pnw.edu",
-    "phone": "(219) 989-2667",
-    "room_number": "Hammond Campus, GYTE 274",
-    "ongoing_research": ["Analytical Chemistry", "Spectroscopy"]
-  },
-  {
-    "name": "Farai C. Gombedza",
-    "department": "Chemistry and Physics",
-    "email": "fgombedz@pnw.edu",
-    "phone": "(219) 989-2914",
-    "room_number": "Hammond Campus, GYTE 270",
-    "ongoing_research": ["Biochemistry", "Molecular Mechanisms"]
-  },
-  {
-    "name": "Mitchell Howell",
-    "department": "Chemistry and Physics",
-    "email": "howell42@pnw.edu",
-    "phone": "(219) 989-2620",
-    "room_number": "Hammond Campus GYTE 267",
-    "ongoing_research": ["Chemistry Education"]
-  },
-  {
-    "name": "Meden F. Isaac-Lam",
-    "department": "Chemistry and Physics",
-    "email": "isaaclam@pnw.edu",
-    "phone": "(219) 785-5776",
-    "room_number": "Westville Campus, SWRZ 311C",
-    "ongoing_research": ["Biochemistry", "Medicinal Chemistry"]
-  },
-  {
-    "name": "Robert A. Kramer",
-    "department": "Chemistry and Physics",
-    "email": "kramerro@pnw.edu",
-    "phone": "(219) 989-2147",
-    "room_number": "Hammond Campus, SAB 069 & GYTE 271",
-    "ongoing_research": ["Energy Systems", "Applied Physics"]
-  },
-  {
-    "name": "Neeti Parashar",
-    "department": "Chemistry and Physics",
-    "email": "parashar@pnw.edu",
-    "phone": "(219) 989-2722",
-    "room_number": "Hammond Campus, POTT 126",
-    "ongoing_research": ["High Energy Physics", "Higgs Boson", "Fundamental Physics"]
-  },
-  {
-    "name": "Libbie S. W. Pelter",
-    "department": "Chemistry and Physics",
-    "email": "pelterl@pnw.edu",
-    "phone": "(219) 989-2780",
-    "room_number": "Hammond Campus, Gyte 265",
-    "ongoing_research": ["Physical Chemistry", "Chemical Education"]
-  },
-  {
-    "name": "Charles A. Steele",
-    "department": "Chemistry and Physics",
-    "email": "steele49@pnw.edu",
-    "phone": "(219) 989-3185",
-    "room_number": "Hammond Campus, GYTE 272",
-    "ongoing_research": ["Forensic Science", "Fingerprint Development"]
-  },
-  {
-    "name": "Daniel Suson",
-    "department": "Chemistry and Physics",
-    "email": "daniel.suson@pnw.edu",
-    "phone": "(219) 989-2375",
-    "room_number": "Hammond Campus, GYTE 269",
-    "ongoing_research": ["Astrophysics", "Particle Physics"]
-  },
-  {
-    "name": "Aaron R. Warren",
-    "department": "Chemistry and Physics",
-    "email": "arwarren@pnw.edu",
-    "phone": "(219) 785-5659",
-    "room_number": "Westville Campus, SWRZ 309",
-    "ongoing_research": ["Physics Education", "Computational Physics"]
+    "ongoing_research": [
+      "Chemistry Education",
+      "Inorganic Chemistry"
+    ],
+    "designation": [
+      "Department Chair, Chemistry and Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-w-pelter/",
+    "other_link": ""
   },
   {
     "name": "Shuhui Grace Yang",
@@ -285,79 +97,17 @@
     "email": "shuhuiyang@pnw.edu",
     "phone": "(219) 989-2697",
     "room_number": "Hammond Campus, GYTE 181",
-    "ongoing_research": ["Wireless Networking", "Mobile Computing"]
-  },
-  {
-    "name": "Shukri Abotteen",
-    "department": "Computer Science",
-    "email": "sabottee@pnw.edu",
-    "phone": "(219) 989-5487",
-    "room_number": "Hammond Campus, CLO 385",
-    "ongoing_research": ["Computer Science Education"]
-  },
-  {
-    "name": "Muhammed Tawfiq Chowdhury",
-    "department": "Computer Science",
-    "email": "mtawfiqc12@pnw.edu",
-    "phone": "(219) 989-2644",
-    "room_number": "Hammond Campus, CLO 330",
-    "ongoing_research": ["Software Engineering", "Systems"]
-  },
-  {
-    "name": "Wei David Dai",
-    "department": "Computer Science",
-    "email": "weidai@pnw.edu",
-    "phone": "(219) 989-2105",
-    "room_number": "Hammond Campus, CLO 384",
-    "ongoing_research": ["Machine Learning", "Data Mining", "Advanced Intelligence"]
-  },
-  {
-    "name": "Victor Guo",
-    "department": "Computer Science",
-    "email": "",
-    "phone": "",
-    "room_number": "Hammond Campus, CLO 332",
-    "ongoing_research": ["Computer Science Fundamentals"]
-  },
-  {
-    "name": "Shafkat Islam",
-    "department": "Computer Science",
-    "email": "islam59@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond, CLO 370",
-    "ongoing_research": ["Cybersecurity", "Network Security"]
-  },
-  {
-    "name": "Yang Ni",
-    "department": "Computer Science",
-    "email": "yangni@pnw.edu",
-    "phone": "(219) 989-2568",
-    "room_number": "Hammond Campus, CLO 384",
-    "ongoing_research": ["Algorithms", "Computational Methods"]
-  },
-  {
-    "name": "Sayanti Roy",
-    "department": "Computer Science",
-    "email": "sayantiroy@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond Campus, CLO 386",
-    "ongoing_research": ["Data Science", "Artificial Intelligence"]
-  },
-  {
-    "name": "Ruijian Zhang",
-    "department": "Computer Science",
-    "email": "zhangrj@pnw.edu",
-    "phone": "(219) 989-2706",
-    "room_number": "Hammond Campus, CLO 372",
-    "ongoing_research": ["Software Engineering", "Databases"]
-  },
-  {
-    "name": "Hairong Zhao",
-    "department": "Computer Science",
-    "email": "hairong@pnw.edu",
-    "phone": "(219) 989-3181",
-    "room_number": "Hammond Campus, CLO 366",
-    "ongoing_research": ["Algorithms", "Networking", "Computer Science Education"]
+    "ongoing_research": [
+      "Wireless Networking",
+      "Mobile Computing"
+    ],
+    "designation": [
+      "Department Chair, Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shuhui-grace-yang/",
+    "other_link": ""
   },
   {
     "name": "Lizhe Tan",
@@ -365,71 +115,17 @@
     "email": "lizhetan@pnw.edu",
     "phone": "(219) 989-2486",
     "room_number": "Hammond Campus, POTT 323",
-    "ongoing_research": ["Digital Signal Processing", "Control Systems"]
-  },
-  {
-    "name": "Rand Abdallah",
-    "department": "Electrical and Computer Engineering",
-    "email": "rkabdall@pnw.edu",
-    "phone": "(219) 989-2681",
-    "room_number": "Hammond Campus, POTT 302",
-    "ongoing_research": ["Engineering Education"]
-  },
-  {
-    "name": "Rehan Ahmad",
-    "department": "Electrical and Computer Engineering",
-    "email": "ahmad108@pnw.edu",
-    "phone": "(219) 989-8374",
-    "room_number": "Hammond Campus, POTT 331",
-    "ongoing_research": ["Computer Engineering", "Embedded Systems"]
-  },
-  {
-    "name": "Khair Al Shamaileh",
-    "department": "Electrical and Computer Engineering",
-    "email": "kalshama@pnw.edu",
-    "phone": "(219) 989-8374",
-    "room_number": "Hammond Campus, POTT 331",
-    "ongoing_research": ["Wireless Communications", "Antenna Design"]
-  },
-  {
-    "name": "Arash Asrari",
-    "department": "Electrical and Computer Engineering",
-    "email": "aasrari@pnw.edu",
-    "phone": "(219) 989-2763",
-    "room_number": "Hammond Campus, POTT 231",
-    "ongoing_research": ["Power Systems", "Smart Grids"]
-  },
-  {
-    "name": "Nasser Houshangi",
-    "department": "Electrical and Computer Engineering",
-    "email": "nhousha@pnw.edu",
-    "phone": "(219) 989-2461",
-    "room_number": "Hammond Campus, POTT 329",
-    "ongoing_research": ["Robotics", "Control Theory"]
-  },
-  {
-    "name": "David Kozel",
-    "department": "Electrical and Computer Engineering",
-    "email": "dkozel@pnw.edu",
-    "phone": "(219) 989-2680",
-    "room_number": "Hammond Campus, POTT 333",
-    "ongoing_research": ["Signal Processing", "Electromagnetics"]
-  },
-  {
-    "name": "Quamar Niyaz",
-    "department": "Electrical and Computer Engineering",
-    "email": "qniyaz@pnw.edu",
-    "phone": "(219) 989-2685",
-    "room_number": "Hammond Campus, POTT 327",
-    "ongoing_research": ["Network Security", "Machine Learning"]
-  },
-  {
-    "name": "Mohsen Saffari",
-    "department": "Electrical and Computer Engineering",
-    "email": "msaffari@pnw.edu",
-    "phone": "(219) 989-2756",
-    "room_number": "Hammond Campus, POTT 225",
-    "ongoing_research": ["Computer Architecture", "VLSI Design"]
+    "ongoing_research": [
+      "Digital Signal Processing",
+      "Control Systems"
+    ],
+    "designation": [
+      "Department Chair, Electrical and Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lizhe-tan/",
+    "other_link": ""
   },
   {
     "name": "Nicoleta E. Tarfulea",
@@ -437,111 +133,17 @@
     "email": "netarful@pnw.edu",
     "phone": "(219) 989-2707",
     "room_number": "Hammond Campus, CLO 344",
-    "ongoing_research": ["Mathematical Biology", "Differential Equations"]
-  },
-  {
-    "name": "Gokarna Aryal",
-    "department": "Mathematics and Statistics",
-    "email": "aryalg@pnw.edu",
-    "phone": "(219) 989-2701",
-    "room_number": "Hammond Campus, CLO 380",
-    "ongoing_research": ["Statistical Modeling", "Probability Distributions"]
-  },
-  {
-    "name": "Thuyen T. Dang",
-    "department": "Mathematics and Statistics",
-    "email": "ttdang@pnw.edu",
-    "phone": "(219) 989-2270",
-    "room_number": "Hammond Campus, CLO 378",
-    "ongoing_research": ["Applied Mathematics", "Optimization"]
-  },
-  {
-    "name": "Anthony D. Elmendorf",
-    "department": "Mathematics and Statistics",
-    "email": "adelmend@pnw.edu",
-    "phone": "(219) 989-2704",
-    "room_number": "Hammond Campus, CLO 374",
-    "ongoing_research": ["Algebraic Topology", "Category Theory"]
-  },
-  {
-    "name": "David Feikes",
-    "department": "Mathematics and Statistics",
-    "email": "feikesd@pnw.edu",
-    "phone": "(219) 785-5489",
-    "room_number": "Westville Campus, TECH 285",
-    "ongoing_research": ["Mathematics Education", "Teacher Preparation"]
-  },
-  {
-    "name": "Harshini Fernando",
-    "department": "Mathematics and Statistics",
-    "email": "hfernando@pnw.edu",
-    "phone": "(219) 785-5471",
-    "room_number": "Westville Campus, TECH 283",
-    "ongoing_research": ["Statistics", "Data Analysis"]
-  },
-  {
-    "name": "Jeff Gregg",
-    "department": "Mathematics and Statistics",
-    "email": "gregg@pnw.edu",
-    "phone": "(219) 989-2705",
-    "room_number": "Hammond Campus, CLO 356",
-    "ongoing_research": ["Mathematics Education", "Pedagogy"]
-  },
-  {
-    "name": "Grethe Hystad",
-    "department": "Mathematics and Statistics",
-    "email": "ghystad@pnw.edu",
-    "phone": "(219) 989-2598",
-    "room_number": "Hammond Campus, CLO 364",
-    "ongoing_research": ["Statistical Mineralogy", "Data Science"]
-  },
-  {
-    "name": "Bir B. Kafle",
-    "department": "Mathematics and Statistics",
-    "email": "bkafle@pnw.edu",
-    "phone": "(219) 785-5774",
-    "room_number": "Hammond Campus, CLO 350",
-    "ongoing_research": ["Number Theory", "Algebra"]
-  },
-  {
-    "name": "Jonathan Kuhn",
-    "department": "Mathematics and Statistics",
-    "email": "jkuhn@pnw.edu",
-    "phone": "(219) 785-5563",
-    "room_number": "Hammond Campus, CLO 383",
-    "ongoing_research": ["Applied Statistics", "Biostatistics"]
-  },
-  {
-    "name": "Weihua Ruan",
-    "department": "Mathematics and Statistics",
-    "email": "wruan@pnw.edu",
-    "phone": "(219) 989-2271",
-    "room_number": "Hammond Campus, CLO 362",
-    "ongoing_research": ["Partial Differential Equations", "Applied Mathematics"]
-  },
-  {
-    "name": "Nicolae Tarfulea",
-    "department": "Mathematics and Statistics",
-    "email": "Tarfulea@pnw.edu",
-    "phone": "(219) 989-2698",
-    "room_number": "Hammond Campus, CLO 376",
-    "ongoing_research": ["Numerical Analysis", "Mathematical Modeling"]
-  },
-  {
-    "name": "Alain Togbe",
-    "department": "Mathematics and Statistics",
-    "email": "atogbe@pnw.edu",
-    "phone": "(219) 785-5458",
-    "room_number": "Hammond Campus, CLO 352",
-    "ongoing_research": ["Number Theory", "Diophantine Equations"]
-  },
-  {
-    "name": "Diana Underwood Gregg",
-    "department": "Mathematics and Statistics",
-    "email": "diana@pnw.edu",
-    "phone": "(219) 989-2274",
-    "room_number": "Hammond Campus, CLO 354",
-    "ongoing_research": ["Mathematics Education", "Assessment"]
+    "ongoing_research": [
+      "Mathematical Biology",
+      "Differential Equations"
+    ],
+    "designation": [
+      "Department Chair, Mathematics and Statistics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nicoleta-e-tarfulea/",
+    "other_link": ""
   },
   {
     "name": "Chandramouli Viswanathan Chandramouli",
@@ -549,111 +151,17 @@
     "email": "cviswana@pnw.edu",
     "phone": "(219) 989-8184",
     "room_number": "Hammond, Powers 211D",
-    "ongoing_research": ["Water Resources", "Environmental Engineering"]
-  },
-  {
-    "name": "Veera Gnaneswar Gude",
-    "department": "Mechanical and Civil Engineering",
-    "email": "vgude@pnw.edu",
-    "phone": "(219) 989-2636",
-    "room_number": "Hammond Campus, PWRS 211E",
-    "ongoing_research": ["Water Treatment", "Desalination", "Biofuels"]
-  },
-  {
-    "name": "Víctor Romero Gómez",
-    "department": "Mechanical and Civil Engineering",
-    "email": "vromerog@pnw.edu",
-    "phone": "(219) 989-2577",
-    "room_number": "Hammond Campus, PWRS 211B",
-    "ongoing_research": ["Fluid Mechanics", "Thermodynamics"]
-  },
-  {
-    "name": "Hansung Kim",
-    "department": "Mechanical and Civil Engineering",
-    "email": "kim886@pnw.edu",
-    "phone": "(219) 989-2684",
-    "room_number": "Hammond Campus, PWRS 211C",
-    "ongoing_research": ["Solid Mechanics", "Materials Engineering"]
-  },
-  {
-    "name": "Yun (Tom) Liu",
-    "department": "Mechanical and Civil Engineering",
-    "email": "liu739@pnw.edu",
-    "phone": "(219) 785-5381",
-    "room_number": "Hammond Campus, PWRS 211G",
-    "ongoing_research": ["Mechatronics", "Vibration Analysis"]
-  },
-  {
-    "name": "Subbarao Venkata Majety",
-    "department": "Mechanical and Civil Engineering",
-    "email": "majety@pnw.edu",
-    "phone": "(219) 989-3232",
-    "room_number": "University Services Building, 31",
-    "ongoing_research": ["Design Engineering", "Manufacturing"]
-  },
-  {
-    "name": "Kimia Mortezaei",
-    "department": "Mechanical and Civil Engineering",
-    "email": "kmorteza@pnw.edu",
-    "phone": "(219) 989-2123",
-    "room_number": "Hammond Campus, PWRS 211K",
-    "ongoing_research": ["Civil Infrastructure", "Structural Engineering"]
-  },
-  {
-    "name": "Prashant K. Sarswat",
-    "department": "Mechanical and Civil Engineering",
-    "email": "psarswat@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond Campus, Gyte 171H",
-    "ongoing_research": ["Materials Science", "Nanotechnology"]
-  },
-  {
-    "name": "Sumedh Sharma",
-    "department": "Mechanical and Civil Engineering",
-    "email": "shar1270@pnw.edu",
-    "phone": "(219) 989-2709",
-    "room_number": "Hammond Campus, GYTE 171D",
-    "ongoing_research": ["Transportation Engineering", "Civil Infrastructure"]
-  },
-  {
-    "name": "Xiuling Wang",
-    "department": "Mechanical and Civil Engineering",
-    "email": "wangx@pnw.edu",
-    "phone": "(219) 989-8065",
-    "room_number": "Hammond Campus, PWRS 211I",
-    "ongoing_research": ["Computational Fluid Dynamics", "Heat Transfer"]
-  },
-  {
-    "name": "Wubeshet Woldemariam",
-    "department": "Mechanical and Civil Engineering",
-    "email": "wwoldema@pnw.edu",
-    "phone": "(219) 989-2901",
-    "room_number": "Hammond Campus, PWRS 211H",
-    "ongoing_research": ["Infrastructure Management", "Transportation Planning"]
-  },
-  {
-    "name": "Aref Yadollahi",
-    "department": "Mechanical and Civil Engineering",
-    "email": "arefy@pnw.edu",
-    "phone": "(219) 989-2016",
-    "room_number": "Hammond Campus, PWRS 211L",
-    "ongoing_research": ["Additive Manufacturing", "Materials Characterization"]
-  },
-  {
-    "name": "Nuri Zeytinoglu",
-    "department": "Mechanical and Civil Engineering",
-    "email": "nz@pnw.edu",
-    "phone": "(219) 785-5391",
-    "room_number": "Hammond Campus, Gyte 171",
-    "ongoing_research": ["Thermodynamics", "Energy Systems"]
-  },
-  {
-    "name": "Shengyong Zhang",
-    "department": "Mechanical and Civil Engineering",
-    "email": "syzhang@pnw.edu",
-    "phone": "(219) 785-5521",
-    "room_number": "Hammond Campus, PWRS 211F",
-    "ongoing_research": ["Solid Mechanics", "Finite Element Analysis"]
+    "ongoing_research": [
+      "Water Resources",
+      "Environmental Engineering"
+    ],
+    "designation": [
+      "Department Chair, Mechanical and Civil Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chandramouli-viswanathan-chandramouli/",
+    "other_link": ""
   },
   {
     "name": "Chenn Zhou",
@@ -661,6 +169,1334 @@
     "email": "czhou@pnw.edu",
     "phone": "(219) 989-2665",
     "room_number": "Hammond Campus, PWRS 121",
-    "ongoing_research": ["Visualization and Simulation", "Computational Fluid Dynamics", "Steel Manufacturing"]
+    "ongoing_research": [
+      "Visualization and Simulation",
+      "Computational Fluid Dynamics",
+      "Steel Manufacturing"
+    ],
+    "designation": [
+      "Distinguished Professor of Engineering Simulation"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chenn-zhou/",
+    "other_link": ""
+  },
+  {
+    "name": "Veera Gnaneswar Gude",
+    "department": "Mechanical and Civil Engineering",
+    "email": "vgude@pnw.edu",
+    "phone": "(219) 989-2636",
+    "room_number": "Hammond Campus, PWRS 211E",
+    "ongoing_research": [
+      "Water Treatment",
+      "Desalination",
+      "Biofuels"
+    ],
+    "designation": [
+      "Endowed Professor of Energy and the Environment"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/veera-gnaneswar-gude/",
+    "other_link": ""
+  },
+  {
+    "name": "John J. Durocher",
+    "department": "Biological Sciences",
+    "email": "jjduroch@pnw.edu",
+    "phone": "(219) 989-2625",
+    "room_number": "Hammond Campus, Gyte 298",
+    "ongoing_research": [
+      "Integrative Human Health",
+      "Clinical Exercise Physiology"
+    ],
+    "designation": [
+      "Endowed Professor of Integrative Human Health"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/john-j-durocher/",
+    "other_link": ""
+  },
+  {
+    "name": "Barbara Mania-Farnell",
+    "department": "Biological Sciences",
+    "email": "bmania@pnw.edu",
+    "phone": "(219) 989-2014",
+    "room_number": "Hammond Campus, NILS 340N",
+    "ongoing_research": [
+      "Transcription Factors",
+      "Neural Tube Development"
+    ],
+    "designation": [
+      "Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/barbara-mania-farnell/",
+    "other_link": ""
+  },
+  {
+    "name": "Young D. Choi",
+    "department": "Biological Sciences",
+    "email": "ydchoi@pnw.edu",
+    "phone": "(219) 989-2325",
+    "room_number": "Hammond Campus, NILS 340F",
+    "ongoing_research": [
+      "Biology",
+      "Ecology"
+    ],
+    "designation": [
+      "Professor of Biology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/young-d-choi/",
+    "other_link": ""
+  },
+  {
+    "name": "Meden F. Isaac-Lam",
+    "department": "Chemistry and Physics",
+    "email": "isaaclam@pnw.edu",
+    "phone": "(219) 785-5776",
+    "room_number": "Westville Campus, SWRZ 311C",
+    "ongoing_research": [
+      "Biochemistry",
+      "Medicinal Chemistry"
+    ],
+    "designation": [
+      "Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/meden-f-isaac-lam/",
+    "other_link": ""
+  },
+  {
+    "name": "Hairong Zhao",
+    "department": "Computer Science",
+    "email": "hairong@pnw.edu",
+    "phone": "(219) 989-3181",
+    "room_number": "Hammond Campus, CLO 366",
+    "ongoing_research": [
+      "Algorithms",
+      "Networking",
+      "Computer Science Education"
+    ],
+    "designation": [
+      "Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/hairong-zhao/",
+    "other_link": ""
+  },
+  {
+    "name": "David Kozel",
+    "department": "Electrical and Computer Engineering",
+    "email": "dkozel@pnw.edu",
+    "phone": "(219) 989-2680",
+    "room_number": "Hammond Campus, POTT 333",
+    "ongoing_research": [
+      "Signal Processing",
+      "Electromagnetics"
+    ],
+    "designation": [
+      "Professor of Electrical and Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/david-kozel/",
+    "other_link": ""
+  },
+  {
+    "name": "Nasser Houshangi",
+    "department": "Electrical and Computer Engineering",
+    "email": "nhousha@pnw.edu",
+    "phone": "(219) 989-2461",
+    "room_number": "Hammond Campus, POTT 329",
+    "ongoing_research": [
+      "Robotics",
+      "Control Theory"
+    ],
+    "designation": [
+      "Professor of Electrical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nasser-houshangi/",
+    "other_link": ""
+  },
+  {
+    "name": "Alain Togbe",
+    "department": "Mathematics and Statistics",
+    "email": "atogbe@pnw.edu",
+    "phone": "(219) 785-5458",
+    "room_number": "Hammond Campus, CLO 352",
+    "ongoing_research": [
+      "Number Theory",
+      "Diophantine Equations"
+    ],
+    "designation": [
+      "Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/alain-togbe/",
+    "other_link": ""
+  },
+  {
+    "name": "Anthony D. Elmendorf",
+    "department": "Mathematics and Statistics",
+    "email": "adelmend@pnw.edu",
+    "phone": "(219) 989-2704",
+    "room_number": "Hammond Campus, CLO 374",
+    "ongoing_research": [
+      "Algebraic Topology",
+      "Category Theory"
+    ],
+    "designation": [
+      "Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/anthony-d-elmendorf/",
+    "other_link": ""
+  },
+  {
+    "name": "David Feikes",
+    "department": "Mathematics and Statistics",
+    "email": "feikesd@pnw.edu",
+    "phone": "(219) 785-5489",
+    "room_number": "Westville Campus, TECH 285",
+    "ongoing_research": [
+      "Mathematics Education",
+      "Teacher Preparation"
+    ],
+    "designation": [
+      "Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/david-feikes/",
+    "other_link": ""
+  },
+  {
+    "name": "Nicolae Tarfulea",
+    "department": "Mathematics and Statistics",
+    "email": "Tarfulea@pnw.edu",
+    "phone": "(219) 989-2698",
+    "room_number": "Hammond Campus, CLO 376",
+    "ongoing_research": [
+      "Numerical Analysis",
+      "Mathematical Modeling"
+    ],
+    "designation": [
+      "Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nicolae-tarfulea/",
+    "other_link": ""
+  },
+  {
+    "name": "Weihua Ruan",
+    "department": "Mathematics and Statistics",
+    "email": "wruan@pnw.edu",
+    "phone": "(219) 989-2271",
+    "room_number": "Hammond Campus, CLO 362",
+    "ongoing_research": [
+      "Partial Differential Equations",
+      "Applied Mathematics"
+    ],
+    "designation": [
+      "Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/weihua-ruan/",
+    "other_link": ""
+  },
+  {
+    "name": "Shengyong Zhang",
+    "department": "Mechanical and Civil Engineering",
+    "email": "syzhang@pnw.edu",
+    "phone": "(219) 785-5521",
+    "room_number": "Hammond Campus, PWRS 211F",
+    "ongoing_research": [
+      "Solid Mechanics",
+      "Finite Element Analysis"
+    ],
+    "designation": [
+      "Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shengyong-zhang/",
+    "other_link": ""
+  },
+  {
+    "name": "Xiuling Wang",
+    "department": "Mechanical and Civil Engineering",
+    "email": "wangx@pnw.edu",
+    "phone": "(219) 989-8065",
+    "room_number": "Hammond Campus, PWRS 211I",
+    "ongoing_research": [
+      "Computational Fluid Dynamics",
+      "Heat Transfer"
+    ],
+    "designation": [
+      "Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/xiuling-wang/",
+    "other_link": ""
+  },
+  {
+    "name": "Daniel Suson",
+    "department": "Chemistry and Physics",
+    "email": "daniel.suson@pnw.edu",
+    "phone": "(219) 989-2375",
+    "room_number": "Hammond Campus, GYTE 269",
+    "ongoing_research": [
+      "Astrophysics",
+      "Particle Physics"
+    ],
+    "designation": [
+      "Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/daniel-suson/",
+    "other_link": ""
+  },
+  {
+    "name": "Neeti Parashar",
+    "department": "Chemistry and Physics",
+    "email": "parashar@pnw.edu",
+    "phone": "(219) 989-2722",
+    "room_number": "Hammond Campus, POTT 126",
+    "ongoing_research": [
+      "High Energy Physics",
+      "Higgs Boson",
+      "Fundamental Physics"
+    ],
+    "designation": [
+      "Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/neeti-parashar/",
+    "other_link": ""
+  },
+  {
+    "name": "Robert A. Kramer",
+    "department": "Chemistry and Physics",
+    "email": "kramerro@pnw.edu",
+    "phone": "(219) 989-2147",
+    "room_number": "Hammond Campus, SAB 069 & GYTE 271",
+    "ongoing_research": [
+      "Energy Systems",
+      "Applied Physics"
+    ],
+    "designation": [
+      "Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/robert-a-kramer/",
+    "other_link": ""
+  },
+  {
+    "name": "Gokarna Aryal",
+    "department": "Mathematics and Statistics",
+    "email": "aryalg@pnw.edu",
+    "phone": "(219) 989-2701",
+    "room_number": "Hammond Campus, CLO 380",
+    "ongoing_research": [
+      "Statistical Modeling",
+      "Probability Distributions"
+    ],
+    "designation": [
+      "Professor of Statistics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/gokarna-aryal/",
+    "other_link": ""
+  },
+  {
+    "name": "Feng-Song Wang",
+    "department": "Biological Sciences",
+    "email": "wang73@pnw.edu",
+    "phone": "(219) 989-2152",
+    "room_number": "Hammond Campus, NILS 340H",
+    "ongoing_research": [
+      "Developmental Biology",
+      "Genetics"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/feng-song-wang/",
+    "other_link": ""
+  },
+  {
+    "name": "Lindsay M. Gielda",
+    "department": "Biological Sciences",
+    "email": "lgielda@pnw.edu",
+    "phone": "(219) 785-5318",
+    "room_number": "Westville Campus, TECH 285",
+    "ongoing_research": [
+      "Biological Sciences",
+      "Microbiology"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lindsay-m-gielda/",
+    "other_link": ""
+  },
+  {
+    "name": "Michael I. Zimmer",
+    "department": "Biological Sciences",
+    "email": "mzimmer@pnw.edu",
+    "phone": "(219) 989-2491",
+    "room_number": "Hammond, NILS 340L",
+    "ongoing_research": [
+      "Human Health",
+      "Clinical Research"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-i-zimmer/",
+    "other_link": ""
+  },
+  {
+    "name": "Michelle Spaulding",
+    "department": "Biological Sciences",
+    "email": "mspauldi@pnw.edu",
+    "phone": "(219) 785-5614",
+    "room_number": "Westville Campus, TECH 131A",
+    "ongoing_research": [
+      "Evolutionary Biology",
+      "Paleontology"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michelle-spaulding/",
+    "other_link": ""
+  },
+  {
+    "name": "Radmila Sarac Stanic",
+    "department": "Biological Sciences",
+    "email": "saracr@pnw.edu",
+    "phone": "(219) 989-2492",
+    "room_number": "Hammond Campus, NILS 340K",
+    "ongoing_research": [
+      "Cell Biology",
+      "Molecuar Biology"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/radmila-sarac-stanic/",
+    "other_link": ""
+  },
+  {
+    "name": "Scott T. Bates",
+    "department": "Biological Sciences",
+    "email": "bates43@pnw.edu",
+    "phone": "(219) 785-5577",
+    "room_number": "Westville Campus, TECH 290",
+    "ongoing_research": [
+      "Microbial Ecology",
+      "Bioinformatics",
+      "Mycology"
+    ],
+    "designation": [
+      "Associate Professor of Biological Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/scott-t-bates/",
+    "other_link": ""
+  },
+  {
+    "name": "Mitchell S. Alix",
+    "department": "Biological Sciences",
+    "email": "malix@pnw.edu",
+    "phone": "(219) 785-5295",
+    "room_number": "Westville Campus, TECH 289",
+    "ongoing_research": [
+      "Aquatic Botany",
+      "Ecology of Aquatic Plants",
+      "Conservation"
+    ],
+    "designation": [
+      "Associate Professor of Biology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mitchell-s-alix/",
+    "other_link": ""
+  },
+  {
+    "name": "Dawit Gizachew",
+    "department": "Chemistry and Physics",
+    "email": "dgizache@pnw.edu",
+    "phone": "(219) 989-2667",
+    "room_number": "Hammond Campus, GYTE 274",
+    "ongoing_research": [
+      "Analytical Chemistry",
+      "Spectroscopy"
+    ],
+    "designation": [
+      "Associate Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/dawit-gizachew/",
+    "other_link": ""
+  },
+  {
+    "name": "Libbie S. W. Pelter",
+    "department": "Chemistry and Physics",
+    "email": "pelterl@pnw.edu",
+    "phone": "(219) 989-2780",
+    "room_number": "Hammond Campus, Gyte 265",
+    "ongoing_research": [
+      "Physical Chemistry",
+      "Chemical Education"
+    ],
+    "designation": [
+      "Associate Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/libbie-s-w-pelter/",
+    "other_link": ""
+  },
+  {
+    "name": "Reynaldo D. Barreto",
+    "department": "Chemistry and Physics",
+    "email": "rbarreto@pnw.edu",
+    "phone": "(219) 785-5475",
+    "room_number": "Westville Campus, SWRZ 311B",
+    "ongoing_research": [
+      "Photocatalysis",
+      "Environmental Remediation"
+    ],
+    "designation": [
+      "Associate Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/reynaldo-d-barreto/",
+    "other_link": ""
+  },
+  {
+    "name": "Wubeshet Woldemariam",
+    "department": "Mechanical and Civil Engineering",
+    "email": "wwoldema@pnw.edu",
+    "phone": "(219) 989-2901",
+    "room_number": "Hammond Campus, PWRS 211H",
+    "ongoing_research": [
+      "Infrastructure Management",
+      "Transportation Planning"
+    ],
+    "designation": [
+      "Associate Professor of Civil Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/wubeshet-woldemariam/",
+    "other_link": ""
+  },
+  {
+    "name": "Ruijian Zhang",
+    "department": "Computer Science",
+    "email": "zhangrj@pnw.edu",
+    "phone": "(219) 989-2706",
+    "room_number": "Hammond Campus, CLO 372",
+    "ongoing_research": [
+      "Software Engineering",
+      "Databases"
+    ],
+    "designation": [
+      "Associate Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ruijian-zhang/",
+    "other_link": ""
+  },
+  {
+    "name": "Arash Asrari",
+    "department": "Electrical and Computer Engineering",
+    "email": "aasrari@pnw.edu",
+    "phone": "(219) 989-2763",
+    "room_number": "Hammond Campus, POTT 231",
+    "ongoing_research": [
+      "Power Systems",
+      "Smart Grids"
+    ],
+    "designation": [
+      "Associate Professor of Electrical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/arash-asrari/",
+    "other_link": ""
+  },
+  {
+    "name": "Khair Al Shamaileh",
+    "department": "Electrical and Computer Engineering",
+    "email": "kalshama@pnw.edu",
+    "phone": "(219) 989-8374",
+    "room_number": "Hammond Campus, POTT 331",
+    "ongoing_research": [
+      "Wireless Communications",
+      "Antenna Design"
+    ],
+    "designation": [
+      "Associate Professor of Electrical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/khair-al-shamaileh/",
+    "other_link": ""
+  },
+  {
+    "name": "Diana Underwood Gregg",
+    "department": "Mathematics and Statistics",
+    "email": "diana@pnw.edu",
+    "phone": "(219) 989-2274",
+    "room_number": "Hammond Campus, CLO 354",
+    "ongoing_research": [
+      "Mathematics Education",
+      "Assessment"
+    ],
+    "designation": [
+      "Associate Professor of Math Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/diana-underwood-gregg/",
+    "other_link": ""
+  },
+  {
+    "name": "Bir B. Kafle",
+    "department": "Mathematics and Statistics",
+    "email": "bkafle@pnw.edu",
+    "phone": "(219) 785-5774",
+    "room_number": "Hammond Campus, CLO 350",
+    "ongoing_research": [
+      "Number Theory",
+      "Algebra"
+    ],
+    "designation": [
+      "Associate Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/bir-b-kafle/",
+    "other_link": ""
+  },
+  {
+    "name": "Harshini Fernando",
+    "department": "Mathematics and Statistics",
+    "email": "hfernando@pnw.edu",
+    "phone": "(219) 785-5471",
+    "room_number": "Westville Campus, TECH 283",
+    "ongoing_research": [
+      "Statistics",
+      "Data Analysis"
+    ],
+    "designation": [
+      "Associate Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/harshini-fernando/",
+    "other_link": ""
+  },
+  {
+    "name": "Jeff Gregg",
+    "department": "Mathematics and Statistics",
+    "email": "gregg@pnw.edu",
+    "phone": "(219) 989-2705",
+    "room_number": "Hammond Campus, CLO 356",
+    "ongoing_research": [
+      "Mathematics Education",
+      "Pedagogy"
+    ],
+    "designation": [
+      "Associate Professor of Mathematics Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jeff-gregg/",
+    "other_link": ""
+  },
+  {
+    "name": "Hansung Kim",
+    "department": "Mechanical and Civil Engineering",
+    "email": "kim886@pnw.edu",
+    "phone": "(219) 989-2684",
+    "room_number": "Hammond Campus, PWRS 211C",
+    "ongoing_research": [
+      "Solid Mechanics",
+      "Materials Engineering"
+    ],
+    "designation": [
+      "Associate Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/hansung-kim/",
+    "other_link": ""
+  },
+  {
+    "name": "Nuri Zeytinoglu",
+    "department": "Mechanical and Civil Engineering",
+    "email": "nz@pnw.edu",
+    "phone": "(219) 785-5391",
+    "room_number": "Hammond Campus, Gyte 171",
+    "ongoing_research": [
+      "Thermodynamics",
+      "Energy Systems"
+    ],
+    "designation": [
+      "Associate Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nuri-zeytinoglu/",
+    "other_link": ""
+  },
+  {
+    "name": "Yun (Tom) Liu",
+    "department": "Mechanical and Civil Engineering",
+    "email": "liu739@pnw.edu",
+    "phone": "(219) 785-5381",
+    "room_number": "Hammond Campus, PWRS 211G",
+    "ongoing_research": [
+      "Mechatronics",
+      "Vibration Analysis"
+    ],
+    "designation": [
+      "Associate Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/yun-tom-liu/",
+    "other_link": ""
+  },
+  {
+    "name": "Aaron R. Warren",
+    "department": "Chemistry and Physics",
+    "email": "arwarren@pnw.edu",
+    "phone": "(219) 785-5659",
+    "room_number": "Westville Campus, SWRZ 309",
+    "ongoing_research": [
+      "Physics Education",
+      "Computational Physics"
+    ],
+    "designation": [
+      "Associate Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/aaron-r-warren/",
+    "other_link": ""
+  },
+  {
+    "name": "Glynn E. Bricker",
+    "department": "Chemistry and Physics",
+    "email": "gbricker@pnw.edu",
+    "phone": "(219) 785-5452",
+    "room_number": "Westville Campus, SWRZ 310",
+    "ongoing_research": [
+      "Physics Education",
+      "Applied Physics"
+    ],
+    "designation": [
+      "Associate Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/glynn-e-bricker/",
+    "other_link": ""
+  },
+  {
+    "name": "James W. Dolen",
+    "department": "Chemistry and Physics",
+    "email": "jdolen@pnw.edu",
+    "phone": "(219) 989-2260",
+    "room_number": "Hammond Campus, GYTE 259",
+    "ongoing_research": [
+      "Particle Physics",
+      "LHC Experiments"
+    ],
+    "designation": [
+      "Associate Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/james-w-dolen/",
+    "other_link": ""
+  },
+  {
+    "name": "Grethe Hystad",
+    "department": "Mathematics and Statistics",
+    "email": "ghystad@pnw.edu",
+    "phone": "(219) 989-2598",
+    "room_number": "Hammond Campus, CLO 364",
+    "ongoing_research": [
+      "Statistical Mineralogy",
+      "Data Science"
+    ],
+    "designation": [
+      "Associate Professor of Statistics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/grethe-hystad/",
+    "other_link": ""
+  },
+  {
+    "name": "Jonathan Kuhn",
+    "department": "Mathematics and Statistics",
+    "email": "jkuhn@pnw.edu",
+    "phone": "(219) 785-5563",
+    "room_number": "Hammond Campus, CLO 383",
+    "ongoing_research": [
+      "Applied Statistics",
+      "Biostatistics"
+    ],
+    "designation": [
+      "Associate Professor of Statistics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jonathan-kuhn/",
+    "other_link": ""
+  },
+  {
+    "name": "Quamar Niyaz",
+    "department": "Electrical and Computer Engineering",
+    "email": "qniyaz@pnw.edu",
+    "phone": "(219) 989-2685",
+    "room_number": "Hammond Campus, POTT 327",
+    "ongoing_research": [
+      "Network Security",
+      "Machine Learning"
+    ],
+    "designation": [
+      "Associate Professor, Electrical and Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/quamar-niyaz/",
+    "other_link": ""
+  },
+  {
+    "name": "Farai C. Gombedza",
+    "department": "Chemistry and Physics",
+    "email": "fgombedz@pnw.edu",
+    "phone": "(219) 989-2914",
+    "room_number": "Hammond Campus, GYTE 270",
+    "ongoing_research": [
+      "Biochemistry",
+      "Molecular Mechanisms"
+    ],
+    "designation": [
+      "Assistant Professor of Biochemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/farai-c-gombedza/",
+    "other_link": ""
+  },
+  {
+    "name": "Nicholas E. Ernst",
+    "department": "Chemistry and Physics",
+    "email": "neernst@pnw.edu",
+    "phone": "(219) 989-2282",
+    "room_number": "Hammond Campus, GYTE 268",
+    "ongoing_research": [
+      "Organic Chemistry",
+      "Synthesis"
+    ],
+    "designation": [
+      "Assistant Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nicholas-e-ernst/",
+    "other_link": ""
+  },
+  {
+    "name": "Sumedh Sharma",
+    "department": "Mechanical and Civil Engineering",
+    "email": "shar1270@pnw.edu",
+    "phone": "(219) 989-2709",
+    "room_number": "Hammond Campus, GYTE 171D",
+    "ongoing_research": [
+      "Transportation Engineering",
+      "Civil Infrastructure"
+    ],
+    "designation": [
+      "Assistant Professor of Civil Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sumedh-sharma/",
+    "other_link": ""
+  },
+  {
+    "name": "Mohsen Saffari",
+    "department": "Electrical and Computer Engineering",
+    "email": "msaffari@pnw.edu",
+    "phone": "(219) 989-2756",
+    "room_number": "Hammond Campus, POTT 225",
+    "ongoing_research": [
+      "Computer Architecture",
+      "VLSI Design"
+    ],
+    "designation": [
+      "Assistant Professor of Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mohsen-saffari/",
+    "other_link": ""
+  },
+  {
+    "name": "Sayanti Roy",
+    "department": "Computer Science",
+    "email": "sayantiroy@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond Campus, CLO 386",
+    "ongoing_research": [
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "designation": [
+      "Assistant Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sayanti-roy/",
+    "other_link": ""
+  },
+  {
+    "name": "Shafkat Islam",
+    "department": "Computer Science",
+    "email": "islam59@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond, CLO 370",
+    "ongoing_research": [
+      "Cybersecurity",
+      "Network Security"
+    ],
+    "designation": [
+      "Assistant Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shafkat-islam/",
+    "other_link": ""
+  },
+  {
+    "name": "Wei David Dai",
+    "department": "Computer Science",
+    "email": "weidai@pnw.edu",
+    "phone": "(219) 989-2105",
+    "room_number": "Hammond Campus, CLO 384",
+    "ongoing_research": [
+      "Machine Learning",
+      "Data Mining",
+      "Advanced Intelligence"
+    ],
+    "designation": [
+      "Assistant Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/wei-david-dai/",
+    "other_link": ""
+  },
+  {
+    "name": "Yang Ni",
+    "department": "Computer Science",
+    "email": "yangni@pnw.edu",
+    "phone": "(219) 989-2568",
+    "room_number": "Hammond Campus, CLO 384",
+    "ongoing_research": [
+      "Algorithms",
+      "Computational Methods"
+    ],
+    "designation": [
+      "Assistant Professor of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/yang-ni/",
+    "other_link": ""
+  },
+  {
+    "name": "Andrew Skibski",
+    "department": "Biological Sciences",
+    "email": "askibski@pnw.edu",
+    "phone": "(219) 989-5414",
+    "room_number": "Hammond Campus, NILS 340E",
+    "ongoing_research": [
+      "Integrative Human Health",
+      "Athletic Training"
+    ],
+    "designation": [
+      "Assistant Professor of Integrative Human Health"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/andrew-skibski/",
+    "other_link": ""
+  },
+  {
+    "name": "Matthew A. Ladwig",
+    "department": "Biological Sciences",
+    "email": "mladwig@pnw.edu",
+    "phone": "(219) 989-2738",
+    "room_number": "Hammond Campus, NILS 340B",
+    "ongoing_research": [
+      "Integrative Human Health",
+      "Kinesiology"
+    ],
+    "designation": [
+      "Assistant Professor of Integrative Human Health"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/matthew-a-ladwig/",
+    "other_link": ""
+  },
+  {
+    "name": "Thuyen T. Dang",
+    "department": "Mathematics and Statistics",
+    "email": "ttdang@pnw.edu",
+    "phone": "(219) 989-2270",
+    "room_number": "Hammond Campus, CLO 378",
+    "ongoing_research": [
+      "Applied Mathematics",
+      "Optimization"
+    ],
+    "designation": [
+      "Assistant Professor of Mathematics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/thuyen-t-dang/",
+    "other_link": ""
+  },
+  {
+    "name": "Aref Yadollahi",
+    "department": "Mechanical and Civil Engineering",
+    "email": "arefy@pnw.edu",
+    "phone": "(219) 989-2016",
+    "room_number": "Hammond Campus, PWRS 211L",
+    "ongoing_research": [
+      "Additive Manufacturing",
+      "Materials Characterization"
+    ],
+    "designation": [
+      "Assistant Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/aref-yadollahi/",
+    "other_link": ""
+  },
+  {
+    "name": "Prashant K. Sarswat",
+    "department": "Mechanical and Civil Engineering",
+    "email": "psarswat@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond Campus, Gyte 171H",
+    "ongoing_research": [
+      "Materials Science",
+      "Nanotechnology"
+    ],
+    "designation": [
+      "Assistant Professor of Mechanical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/prashant-k-sarswat/",
+    "other_link": ""
+  },
+  {
+    "name": "Edward Draper",
+    "department": "Biological Sciences",
+    "email": "emdraper@pnw.edu",
+    "phone": "(219) 989-2404",
+    "room_number": "Hammond Campus, NILS 340J",
+    "ongoing_research": [
+      "Molecular Biology",
+      "Genetics"
+    ],
+    "designation": [
+      "Assistant Professor of Molecular Biology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/edward-draper/",
+    "other_link": ""
+  },
+  {
+    "name": "Hassan Naji",
+    "department": "Biological Sciences",
+    "email": "hnaji@pnw.edu",
+    "phone": "219-989-3177",
+    "room_number": "Hammond Campus, NILS 340M",
+    "ongoing_research": [
+      "Biological Sciences Practice",
+      "Anatomy"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/hassan-naji/",
+    "other_link": ""
+  },
+  {
+    "name": "Kimia Mortezaei",
+    "department": "Mechanical and Civil Engineering",
+    "email": "kmorteza@pnw.edu",
+    "phone": "(219) 989-2123",
+    "room_number": "Hammond Campus, PWRS 211K",
+    "ongoing_research": [
+      "Civil Infrastructure",
+      "Structural Engineering"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kimia-mortezaei/",
+    "other_link": ""
+  },
+  {
+    "name": "Subbarao Venkata Majety",
+    "department": "Mechanical and Civil Engineering",
+    "email": "majety@pnw.edu",
+    "phone": "(219) 989-3232",
+    "room_number": "University Services Building, 31",
+    "ongoing_research": [
+      "Design Engineering",
+      "Manufacturing"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/subbarao-venkata-majety/",
+    "other_link": ""
+  },
+  {
+    "name": "Víctor Romero Gómez",
+    "department": "Mechanical and Civil Engineering",
+    "email": "vromerog@pnw.edu",
+    "phone": "(219) 989-2577",
+    "room_number": "Hammond Campus, PWRS 211B",
+    "ongoing_research": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/victor-romero-gomez/",
+    "other_link": ""
+  },
+  {
+    "name": "Ernest Talarico",
+    "department": "Biological Sciences",
+    "email": "etalaric@pnw.edu",
+    "phone": "(219) 989-2490",
+    "room_number": "Hammond Campus, NILS 340C",
+    "ongoing_research": [
+      "Anatomy",
+      "Physiology",
+      "Medical Education"
+    ],
+    "designation": [
+      "Assistant Professor of Practice in Anatomy & Physiology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ernest-talarico/",
+    "other_link": ""
+  },
+  {
+    "name": "Mitchell Howell",
+    "department": "Chemistry and Physics",
+    "email": "howell42@pnw.edu",
+    "phone": "(219) 989-2620",
+    "room_number": "Hammond Campus GYTE 267",
+    "ongoing_research": [
+      "Chemistry Education"
+    ],
+    "designation": [
+      "Visiting Assistant Professor of Chemistry"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mitchell-howell/",
+    "other_link": ""
+  },
+  {
+    "name": "Rehan Ahmad",
+    "department": "Electrical and Computer Engineering",
+    "email": "ahmad108@pnw.edu",
+    "phone": "(219) 989-8374",
+    "room_number": "Hammond Campus, POTT 331",
+    "ongoing_research": [
+      "Computer Engineering",
+      "Embedded Systems"
+    ],
+    "designation": [
+      "Visiting Assistant Professor of Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/rehan-ahmad/",
+    "other_link": ""
+  },
+  {
+    "name": "Khagendra Bhandari",
+    "department": "Chemistry and Physics",
+    "email": "kpbhanda@pnw.edu",
+    "phone": "(219) 989-2618",
+    "room_number": "Hammond Campus, GYTE 262",
+    "ongoing_research": [
+      "Materials Physics",
+      "Condensed Matter"
+    ],
+    "designation": [
+      "Visiting Assistant Professor of Physics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/khagendra-bhandari/",
+    "other_link": ""
+  },
+  {
+    "name": "Rand Abdallah",
+    "department": "Electrical and Computer Engineering",
+    "email": "rkabdall@pnw.edu",
+    "phone": "(219) 989-2681",
+    "room_number": "Hammond Campus, POTT 302",
+    "ongoing_research": [
+      "Engineering Education"
+    ],
+    "designation": [
+      "Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/rand-abdallah/",
+    "other_link": ""
+  },
+  {
+    "name": "Shukri Abotteen",
+    "department": "Computer Science",
+    "email": "sabottee@pnw.edu",
+    "phone": "(219) 989-5487",
+    "room_number": "Hammond Campus, CLO 385",
+    "ongoing_research": [
+      "Computer Science Education"
+    ],
+    "designation": [
+      "Lecturer of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shukri-abotteen/",
+    "other_link": ""
+  },
+  {
+    "name": "Victor Guo",
+    "department": "Computer Science",
+    "email": "",
+    "phone": "",
+    "room_number": "Hammond Campus, CLO 332",
+    "ongoing_research": [
+      "Computer Science Fundamentals"
+    ],
+    "designation": [
+      "Lecturer of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/victor-guo/",
+    "other_link": ""
+  },
+  {
+    "name": "Charles A. Steele",
+    "department": "Chemistry and Physics",
+    "email": "steele49@pnw.edu",
+    "phone": "(219) 989-3185",
+    "room_number": "Hammond Campus, GYTE 272",
+    "ongoing_research": [
+      "Forensic Science",
+      "Fingerprint Development"
+    ],
+    "designation": [
+      "Lecturer of Physical Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/charles-a-steele/",
+    "other_link": ""
+  },
+  {
+    "name": "Muhammed Tawfiq Chowdhury",
+    "department": "Computer Science",
+    "email": "mtawfiqc12@pnw.edu",
+    "phone": "(219) 989-2644",
+    "room_number": "Hammond Campus, CLO 330",
+    "ongoing_research": [
+      "Software Engineering",
+      "Systems"
+    ],
+    "designation": [
+      "Visiting Lecturer of Computer Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/muhammed-tawfiq-chowdhury/",
+    "other_link": ""
   }
 ]

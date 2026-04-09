@@ -1,19 +1,21 @@
 [
   {
-    "name": "Richard Sévère",
-    "department": "English",
-    "email": "rsevere@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond, CLO 315",
-    "ongoing_research": ["Medieval Literature", "Professional Writing", "Equity in Writing Education"]
-  },
-  {
     "name": "Kristin Novotny",
     "department": "Political Science",
     "email": "kmnovotn@pnw.edu",
     "phone": "(219) 989-2585",
     "room_number": "Hammond, CLO 314A",
-    "ongoing_research": ["Political Science", "Civic Engagement"]
+    "ongoing_research": [
+      "Political Science",
+      "Civic Engagement"
+    ],
+    "designation": [
+      "Associate Dean"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kristin-novotny/",
+    "other_link": ""
   },
   {
     "name": "Michael R. Lynn",
@@ -21,7 +23,37 @@
     "email": "mlynn@pnw.edu",
     "phone": "(219) 785-5380",
     "room_number": "Hammond, CLO 217A",
-    "ongoing_research": ["Enlightenment Europe", "History of Science"]
+    "ongoing_research": [
+      "Enlightenment Europe",
+      "History of Science"
+    ],
+    "designation": [
+      "Associate Dean",
+      "Interim Department Chair"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-r-lynn/",
+    "other_link": ""
+  },
+  {
+    "name": "Richard Sévère",
+    "department": "English",
+    "email": "rsevere@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond, CLO 315",
+    "ongoing_research": [
+      "Medieval Literature",
+      "Professional Writing",
+      "Equity in Writing Education"
+    ],
+    "designation": [
+      "Dean, College of Humanities, Education and Social Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/richard-severe/",
+    "other_link": ""
   },
   {
     "name": "David P. Nalbone",
@@ -29,167 +61,18 @@
     "email": "dnalbone@purdue.edu",
     "phone": "(219) 989-2712",
     "room_number": "Hammond, Porter 218B",
-    "ongoing_research": ["Political Attitudes", "Scholarship of Teaching and Learning (SoTL)", "Social Psychology"]
-  },
-  {
-    "name": "Brittney Autry",
-    "department": "Social Work",
-    "email": "bautryco@pnw.edu",
-    "phone": "(219) 989-2566",
-    "room_number": "Hammond Campus, Classroom Office Building, Room 328",
-    "ongoing_research": ["Social Work Practice", "Mental Health"]
-  },
-  {
-    "name": "Christopher K. Belous",
-    "department": "Couple & Family Therapy",
-    "email": "ckb@pnw.edu",
-    "phone": "(219) 989-2938",
-    "room_number": "Hammond, IBCC 1028",
-    "ongoing_research": ["Couple Therapy", "Family Systems"]
-  },
-  {
-    "name": "Shreya Bhandari",
-    "department": "Social Work",
-    "email": "bhanda15@pnw.edu",
-    "phone": "(219) 989-2902",
-    "room_number": "Hammond, Classroom Office Building (CLO) 394",
-    "ongoing_research": ["Social Work Policy", "Community Welfare"]
-  },
-  {
-    "name": "Josh Boe",
-    "department": "Couple & Family Therapy",
-    "email": "jlboe@pnw.edu",
-    "phone": "(219) 989-2587",
-    "room_number": "",
-    "ongoing_research": ["Family Dynamics", "Therapeutic Interventions"]
-  },
-  {
-    "name": "Anne B. Edwards",
-    "department": "Human Development & Family Science",
-    "email": "abedward@pnw.edu",
-    "phone": "(219) 989-8439",
-    "room_number": "Hammond, PORT 211C",
-    "ongoing_research": ["Human Development", "Family Science"]
-  },
-  {
-    "name": "Matthew Greife",
-    "department": "Criminal Justice",
-    "email": "mgreife@pnw.edu",
-    "phone": "(219) 989-4135",
-    "room_number": "Hammond Campus, CLO 296",
-    "ongoing_research": ["Criminal Justice System", "Law"]
-  },
-  {
-    "name": "Mialauni T. Griggs-Holke",
-    "department": "Couple and Family Therapy",
-    "email": "mtgriggs@pnw.edu",
-    "phone": "(219) 989-2101",
-    "room_number": "Hammond - IBCC 1030",
-    "ongoing_research": ["Family Therapy", "Counseling"]
-  },
-  {
-    "name": "Omeed S. Ilchi",
-    "department": "Criminal Justice",
-    "email": "oilchi@pnw.edu",
-    "phone": "219-989-2542",
-    "room_number": "Hammond, CLO 207",
-    "ongoing_research": ["Policing", "Criminology"]
-  },
-  {
-    "name": "Hubert Izienicki",
-    "department": "Sociology",
-    "email": "hizienic@pnw.edu",
-    "phone": "(219) 785-5658",
-    "room_number": "Hammond, Porter 216D",
-    "ongoing_research": ["Medical Sociology", "Social Inequality"]
-  },
-  {
-    "name": "Nicky Ali Jackson",
-    "department": "Criminal Justice",
-    "email": "fjackson@pnw.edu",
-    "phone": "(219) 989-2352",
-    "room_number": "CLO 205 (Hammond)",
-    "ongoing_research": ["Wrongful Convictions", "Victimology"]
-  },
-  {
-    "name": "Lee Michael Johnson",
-    "department": "Criminal Justice",
-    "email": "john2598@pnw.edu",
-    "phone": "(219) 989-2936",
-    "room_number": "Hammond, CLO 201",
-    "ongoing_research": ["Corrections", "Criminal Justice Policy"]
-  },
-  {
-    "name": "Alessandra Lembo",
-    "department": "Sociology",
-    "email": "alembo@pnw.edu",
-    "phone": "(219) 989-2863",
-    "room_number": "Hammond, PORT 216E",
-    "ongoing_research": ["Sociological Theory", "Cultural Sociology"]
-  },
-  {
-    "name": "Chun Liu",
-    "department": "Social Work",
-    "email": "liu3921@pnw.edu",
-    "phone": "(219) 989-3156",
-    "room_number": "Hammond, Classroom Office Building (CLO) 396",
-    "ongoing_research": ["Social Work Intervention", "Community Development"]
-  },
-  {
-    "name": "I-Hsuan Lin",
-    "department": "Social Work",
-    "email": "lin1994@pnw.edu",
-    "phone": "(219) 989-2622",
-    "room_number": "Hammond Campus, CLO 391",
-    "ongoing_research": ["Social Welfare", "Public Policy"]
-  },
-  {
-    "name": "Robin Miller",
-    "department": "Social Work",
-    "email": "millerrl@pnw.edu",
-    "phone": "(219) 785-5727",
-    "room_number": "CLO 388 (Hammond)",
-    "ongoing_research": ["Clinical Social Work", "Practicum Education"]
-  },
-  {
-    "name": "Josephine Nummi",
-    "department": "Sociology",
-    "email": "jnummi@pnw.edu",
-    "phone": "(219) 989-8145",
-    "room_number": "Hammond, PORT 216B",
-    "ongoing_research": ["Social Movements", "Race and Ethnicity"]
-  },
-  {
-    "name": "Patricia Rodda",
-    "department": "Human Development and Family Science",
-    "email": "rodda@pnw.edu",
-    "phone": "(219) 989-2219",
-    "room_number": "Hammond, Porter Building, 211F",
-    "ongoing_research": ["Child Development", "Family Education"]
-  },
-  {
-    "name": "Christabel L. Rogalin",
-    "department": "Sociology",
-    "email": "crogalin@pnw.edu",
-    "phone": "(219) 785-5222",
-    "room_number": "Westville, TECH-319",
-    "ongoing_research": ["Social Psychology", "Gender and Work"]
-  },
-  {
-    "name": "Nicole Rousseau",
-    "department": "Sociology",
-    "email": "nroussea@pnw.edu",
-    "phone": "(219) 989-2849",
-    "room_number": "Hammond, PORT 211D",
-    "ongoing_research": ["Historical Sociology", "Race, Class and Gender"]
-  },
-  {
-    "name": "Pamela Saylor",
-    "department": "Social Work",
-    "email": "psaylor@pnw.edu",
-    "phone": "(219) 785-5588",
-    "room_number": "Hammond, CLO 389",
-    "ongoing_research": ["Clinical Practice", "Social Work Education"]
+    "ongoing_research": [
+      "Political Attitudes",
+      "Scholarship of Teaching and Learning (SoTL)",
+      "Social Psychology"
+    ],
+    "designation": [
+      "Department Chair, Behavioral Sciences"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/david-p-nalbone/",
+    "other_link": ""
   },
   {
     "name": "Catherine M. Gillotti",
@@ -197,79 +80,18 @@
     "email": "gillotc@pnw.edu",
     "phone": "(219) 989-2009",
     "room_number": "Hammond, Porter Hall 118G",
-    "ongoing_research": ["Health Communication", "Interpersonal Communication", "Patient-Provider Interactions"]
-  },
-  {
-    "name": "Lee Artz",
-    "department": "Media Studies",
-    "email": "artz@pnw.edu",
-    "phone": "(219)-989-2393",
-    "room_number": "Hammond, Porter Hall 116D",
-    "ongoing_research": ["Media Studies", "Global Media", "Cultural Studies"]
-  },
-  {
-    "name": "Tyler Lennox Bush",
-    "department": "Communication and Creative Arts",
-    "email": "tbush@pnw.edu",
-    "phone": "(219) 669-2835",
-    "room_number": "Hammond, Porter 116E",
-    "ongoing_research": ["Film Production", "Media Arts"]
-  },
-  {
-    "name": "Frank Geiser",
-    "department": "Visual Communication and Design",
-    "email": "fgeiser@pnw.edu",
-    "phone": "(219) 989-2420",
-    "room_number": "Hammond, PORT 118B",
-    "ongoing_research": ["Graphic Design", "Visual Rhetoric"]
-  },
-  {
-    "name": "Toqa Hassan",
-    "department": "Digital Media",
-    "email": "toqa@pnw.edu",
-    "phone": "(219) 989-2627",
-    "room_number": "Hammond, Porter 114A",
-    "ongoing_research": ["Digital Media", "Interactive Narratives"]
-  },
-  {
-    "name": "Austin D. Hestdalen",
-    "department": "Communication",
-    "email": "ahestdal@pnw.edu",
-    "phone": "(219) 989-2355",
-    "room_number": "Hammond, Porter Hall E-114B",
-    "ongoing_research": ["Rhetorical Theory", "Civic Discourse"]
-  },
-  {
-    "name": "Erin Okamoto Protsman",
-    "department": "Communication and Creative Arts",
-    "email": "okamoto@pnw.edu",
-    "phone": "(219) 989-2880",
-    "room_number": "Hammond, Porter Hall 116B",
-    "ongoing_research": ["Interpersonal Communication", "Public Speaking"]
-  },
-  {
-    "name": "Thomas J. Roach",
-    "department": "Communication",
-    "email": "tjroach@pnw.edu",
-    "phone": "(219) 989-2508",
-    "room_number": "Hammond, Porter Hall 114C",
-    "ongoing_research": ["Organizational Communication", "Public Relations"]
-  },
-  {
-    "name": "Rhon Teruelle",
-    "department": "Mass Communication and Social Media",
-    "email": "rteruell@pnw.edu",
-    "phone": "(219) 989-2267",
-    "room_number": "Hammond, Porter Hall 116C",
-    "ongoing_research": ["Social Media", "Mass Communication Analysis"]
-  },
-  {
-    "name": "Dan S. Wilbur",
-    "department": "Communication",
-    "email": "dwilbur@pnw.edu",
-    "phone": "(219) 989-2508",
-    "room_number": "Hammond, Porter Hall 116E",
-    "ongoing_research": ["Media Effects", "Broadcasting"]
+    "ongoing_research": [
+      "Health Communication",
+      "Interpersonal Communication",
+      "Patient-Provider Interactions"
+    ],
+    "designation": [
+      "Department Chair, Communication & Creative Arts"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/catherine-m-gillotti/",
+    "other_link": ""
   },
   {
     "name": "Yu Ouyang",
@@ -277,327 +99,18 @@
     "email": "yuouyang@pnw.edu",
     "phone": "(219) 989-3143",
     "room_number": "Hammond, CLO 296",
-    "ongoing_research": ["American Presidency", "Public Opinion", "Political Science"]
-  },
-  {
-    "name": "Heather Augustyn",
-    "department": "Writing",
-    "email": "haugusty@pnw.edu",
-    "phone": "(219) 785-5327",
-    "room_number": "Westville, Tech 315",
-    "ongoing_research": ["Writing Studies", "Ska Music History"]
-  },
-  {
-    "name": "Geoffrey Ridley Barrow",
-    "department": "Spanish",
-    "email": "grbarrow@pnw.edu",
-    "phone": "(219) 989-2459",
-    "room_number": "Hammond Campus, CLO 272",
-    "ongoing_research": ["Spanish Literature", "Language Acquisition"]
-  },
-  {
-    "name": "José Castro-Urioste",
-    "department": "Spanish",
-    "email": "castrour@pnw.edu",
-    "phone": "(219) 989-2019",
-    "room_number": "Hammond, CLO 282",
-    "ongoing_research": ["Latin American Literature", "Spanish Transnational Cinema"]
-  },
-  {
-    "name": "Mita Choudhury",
-    "department": "English",
-    "email": "choudhur@pnw.edu",
-    "phone": "(219) 989-2262",
-    "room_number": "Hammond, CLO 276",
-    "ongoing_research": ["18th-Century British Literature", "Postcolonial Theory"]
-  },
-  {
-    "name": "Jesse S. Cohn",
-    "department": "English",
-    "email": "jcohn@pnw.edu",
-    "phone": "(219) 785-5328",
-    "room_number": "Hammond, CLO 203",
-    "ongoing_research": ["Literary Theory", "Anarchist Studies"]
-  },
-  {
-    "name": "Drue Denmon",
-    "department": "English and World Languages",
-    "email": "ddenmon@pnw.edu",
-    "phone": "(219) 989-2649",
-    "room_number": "Hammond, CLO 295",
-    "ongoing_research": ["Creative Writing", "Literature Analysis"]
-  },
-  {
-    "name": "Brandy Dieterle",
-    "department": "English - Professional Writing",
-    "email": "bdieterl@pnw.edu",
-    "phone": "(219) 989-2663",
-    "room_number": "Hammond Campus, CLO 291",
-    "ongoing_research": ["Professional Writing", "Rhetoric"]
-  },
-  {
-    "name": "Mohammed Errihani",
-    "department": "Linguistics and English",
-    "email": "errihani@pnw.edu",
-    "phone": "(219) 989-2657",
-    "room_number": "Hammond, CLO 264",
-    "ongoing_research": ["Linguistics", "Language Policy"]
-  },
-  {
-    "name": "Connie Farrell",
-    "department": "English and World Languages",
-    "email": "cfarrel@pnw.edu",
-    "phone": "(219) 989-2686",
-    "room_number": "Hammond, CLO 278",
-    "ongoing_research": ["English Composition"]
-  },
-  {
-    "name": "Colin Fewer",
-    "department": "English",
-    "email": "fewer@pnw.edu",
-    "phone": "(219) 989-2820",
-    "room_number": "Hammond, CLO 225",
-    "ongoing_research": ["Medieval Literature", "Chaucer"]
-  },
-  {
-    "name": "Amy Howard",
-    "department": "English and World Languages",
-    "email": "ahoward2@pnw.edu",
-    "phone": "(219) 989-2396",
-    "room_number": "Hammond Campus, CLO 293",
-    "ongoing_research": ["Writing Instruction", "Composition"]
-  },
-  {
-    "name": "Assen Kokalov",
-    "department": "Spanish",
-    "email": "akokalov@pnw.edu",
-    "phone": "(219) 989-2379",
-    "room_number": "Hammond, CLO 223",
-    "ongoing_research": ["Spanish Language", "Latin American Culture"]
-  },
-  {
-    "name": "Kathaleen M. Levenda-Smith",
-    "department": "English",
-    "email": "klevenda@pnw.edu",
-    "phone": "(219) 989-2654",
-    "room_number": "Hammond Campus, CLO 289",
-    "ongoing_research": ["English Education", "Literature"]
-  },
-  {
-    "name": "Jin Lu",
-    "department": "French",
-    "email": "lujin@pnw.edu",
-    "phone": "(219) 989-2292",
-    "room_number": "Hammond, CLO 286",
-    "ongoing_research": ["French Literature", "18th-Century Studies"]
-  },
-  {
-    "name": "Mark Mabrito",
-    "department": "English",
-    "email": "mmabrito@pnw.edu",
-    "phone": "(219) 989-2651",
-    "room_number": "Hammond, CLO 280",
-    "ongoing_research": ["Digital Rhetoric", "Workplace Communication"]
-  },
-  {
-    "name": "Sarah MacDonald",
-    "department": "English and World Languages",
-    "email": "snmacdon@purdue.edu",
-    "phone": "(219) 989-2364",
-    "room_number": "Hammond, CLO 213",
-    "ongoing_research": ["Writing Studies", "Literature"]
-  },
-  {
-    "name": "Colette Morrow",
-    "department": "English",
-    "email": "cmmorrow@pnw.edu",
-    "phone": "(219) 989-2256",
-    "room_number": "",
-    "ongoing_research": ["Feminist Theory", "American Literature"]
-  },
-  {
-    "name": "Justin Ness",
-    "department": "English and World Languages",
-    "email": "ness0@pnw.edu",
-    "phone": "(219) 989-2646",
-    "room_number": "Hammond, CLO 288",
-    "ongoing_research": ["Composition", "Literature Analysis"]
-  },
-  {
-    "name": "Matthew Praxmarer",
-    "department": "English and World Languages",
-    "email": "mpraxmar@pnw.edu",
-    "phone": "(219) 989-2259",
-    "room_number": "Hammond Campus, CLO 229",
-    "ongoing_research": ["Creative Writing", "Literature"]
-  },
-  {
-    "name": "Herlinda Ramírez-Barradas",
-    "department": "Spanish",
-    "email": "barradh@pnw.edu",
-    "phone": "(219) 989-2042",
-    "room_number": "Hammond, CLO 258",
-    "ongoing_research": ["Mexican Literature", "Latin American Studies"]
-  },
-  {
-    "name": "Lily Schaffer",
-    "department": "English and World Languages",
-    "email": "schaffl@pnw.edu",
-    "phone": "(219) 989-2973",
-    "room_number": "Hammond, CLO 270",
-    "ongoing_research": ["Writing Pedagogy"]
-  },
-  {
-    "name": "Cindy Torres",
-    "department": "English and World Languages",
-    "email": "cktorres@pnw.edu",
-    "phone": "(219) 989-2378",
-    "room_number": "Hammond, CLO 262",
-    "ongoing_research": ["Composition", "English Studies"]
-  },
-  {
-    "name": "Steffanie Triller",
-    "department": "Writing",
-    "email": "striller@pnw.edu",
-    "phone": "(219) 989-2258",
-    "room_number": "Hammond, CLO 268",
-    "ongoing_research": ["Writing Center Pedagogy", "Creative Writing"]
-  },
-  {
-    "name": "Sarah E. White",
-    "department": "Writing",
-    "email": "sewhite@pnw.edu",
-    "phone": "",
-    "room_number": "Classroom Office Building (CLO) 284 - Hammond Campus",
-    "ongoing_research": ["First-Year Writing", "Composition Pedagogy"]
-  },
-  {
-    "name": "Joseph T. Cochran",
-    "department": "History",
-    "email": "cochrajt@pnw.edu",
-    "phone": "(219) 989-8060",
-    "room_number": "Hammond Campus, CLO 248",
-    "ongoing_research": ["American History"]
-  },
-  {
-    "name": "Frank J. Colucci",
-    "department": "Political Science",
-    "email": "coluccif@pnw.edu",
-    "phone": "(219) 989-2488",
-    "room_number": "Westville, LSF 217",
-    "ongoing_research": ["Constitutional Law", "Supreme Court"]
-  },
-  {
-    "name": "Mary Beth Fraser Connolly",
-    "department": "History",
-    "email": "mbconnol@pnw.edu",
-    "phone": "(219) 785-5777",
-    "room_number": "Hammond, CLO 294",
-    "ongoing_research": ["U.S. Women's History", "Religious History"]
-  },
-  {
-    "name": "Michael J. Connolly",
-    "department": "History",
-    "email": "mconnoll@pnw.edu",
-    "phone": "(219) 785-5618",
-    "room_number": "Hammond, CLO 292",
-    "ongoing_research": ["19th Century U.S. History", "Economic History"]
-  },
-  {
-    "name": "Michael Hensley",
-    "department": "Economics",
-    "email": "mphensley@pnw.edu",
-    "phone": "(219) 989-2642",
-    "room_number": "CLO 252",
-    "ongoing_research": ["Economic Theory"]
-  },
-  {
-    "name": "James Hysell",
-    "department": "History",
-    "email": "jhysell@pnw.edu",
-    "phone": "(219) 989-2784",
-    "room_number": "Hammond, CLO 209",
-    "ongoing_research": ["Medieval History", "Military History"]
-  },
-  {
-    "name": "Kenneth Ralph Kincaid",
-    "department": "History",
-    "email": "kkincaid@pnw.edu",
-    "phone": "(219) 989-5244",
-    "room_number": "Hammond, CLO 246",
-    "ongoing_research": ["Latin American History", "Indigenous Peoples"]
-  },
-  {
-    "name": "Hoon Lee",
-    "department": "Philosophy",
-    "email": "lee2894@pnw.edu",
-    "phone": "(219) 989-2682",
-    "room_number": "CLO 227",
-    "ongoing_research": ["Asian Philosophy", "Ethics"]
-  },
-  {
-    "name": "Amlan Mitra",
-    "department": "Business Economics",
-    "email": "mitraa@pnw.edu",
-    "phone": "(219) 989-2313",
-    "room_number": "Hammond Campus, Classroom Office Building (CLO), Room 248",
-    "ongoing_research": ["Economic Development", "Quantitative Methods"]
-  },
-  {
-    "name": "Erica Nichols",
-    "department": "Philosophy",
-    "email": "denichol@pnw.edu",
-    "phone": "(219) 989-2645",
-    "room_number": "Hammond Campus, CLO 266",
-    "ongoing_research": ["Philosophical Theory"]
-  },
-  {
-    "name": "Meg Bergin Rincker",
-    "department": "Political Science",
-    "email": "mrincker@pnw.edu",
-    "phone": "(219) 989-2025",
-    "room_number": "Hammond, CLO 290",
-    "ongoing_research": ["Comparative Politics", "Gender and Politics"]
-  },
-  {
-    "name": "Richard Rupp",
-    "department": "Political Science",
-    "email": "rrupp@pnw.edu",
-    "phone": "(219) 989-2134",
-    "room_number": "CLO 254",
-    "ongoing_research": ["International Relations", "European Politics"]
-  },
-  {
-    "name": "Avik Sanyal",
-    "department": "Economics",
-    "email": "sanyal8@pnw.edu",
-    "phone": "(219) 989-3176",
-    "room_number": "CLO 256",
-    "ongoing_research": ["Macroeconomics", "Applied Economics"]
-  },
-  {
-    "name": "Wendy St. Jean",
-    "department": "History",
-    "email": "stjeanw@pnw.edu",
-    "phone": "(219) 989-4161",
-    "room_number": "Classroom Office Building 211",
-    "ongoing_research": ["Native American History", "Early American History"]
-  },
-  {
-    "name": "Kathleen A. Tobin",
-    "department": "History",
-    "email": "tobink@pnw.edu",
-    "phone": "(219) 989-3192",
-    "room_number": "Hammond Campus, CLO 250",
-    "ongoing_research": ["History of Medicine", "Gender History"]
-  },
-  {
-    "name": "Samuel Zinaich",
-    "department": "Philosophy",
-    "email": "Zinaich@pnw.edu",
-    "phone": "(219) 989-2132",
-    "room_number": "Hammond Campus, CLO-260",
-    "ongoing_research": ["Moral Philosophy", "Applied Ethics"]
+    "ongoing_research": [
+      "American Presidency",
+      "Public Opinion",
+      "Political Science"
+    ],
+    "designation": [
+      "Department Chair, History, Philosophy, Political Science and Economics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/yu-ouyang/",
+    "other_link": ""
   },
   {
     "name": "Gisele Casanova",
@@ -605,79 +118,53 @@
     "email": "gmcasano@pnw.edu",
     "phone": "(219) 989-2781",
     "room_number": "Porter Building 218D (Hammond)",
-    "ongoing_research": ["Clinical Psychology", "Multicultural Counseling"]
+    "ongoing_research": [
+      "Clinical Psychology",
+      "Multicultural Counseling"
+    ],
+    "designation": [
+      "Department Chair, Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/gisele-casanova/",
+    "other_link": ""
   },
   {
-    "name": "Carly L. Baetz",
-    "department": "Psychology",
-    "email": "clbaetz@pnw.edu",
-    "phone": "(219) 989-2819",
-    "room_number": "Hammond, Porter Hall 218D",
-    "ongoing_research": ["Forensic Psychology", "Clinical Training"]
+    "name": "Christopher K. Belous",
+    "department": "Couple & Family Therapy",
+    "email": "ckb@pnw.edu",
+    "phone": "(219) 989-2938",
+    "room_number": "Hammond, IBCC 1028",
+    "ongoing_research": [
+      "Couple Therapy",
+      "Family Systems"
+    ],
+    "designation": [
+      "Director of Couple & Family Therapy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/christopher-k-belous/",
+    "other_link": ""
   },
   {
-    "name": "Emily Brooks",
-    "department": "Psychology",
-    "email": "brook110@pnw.edu",
-    "phone": "(219) 989-2215",
-    "room_number": "Hammond, Porter 218E",
-    "ongoing_research": ["Psychological Research"]
-  },
-  {
-    "name": "Kimberly L. Brunt",
-    "department": "Psychology",
-    "email": "kbrunt@pnw.edu",
-    "phone": "(219) 989-5251",
-    "room_number": "Schwarz Hall 30G",
-    "ongoing_research": ["Clinical Psychology", "Psychological Assessment"]
-  },
-  {
-    "name": "Cheryl W. DeLeon",
-    "department": "Psychology",
-    "email": "cdeleon@pnw.edu",
-    "phone": "(219) 785-5728",
-    "room_number": "Porter 218C - Hammond Campus",
-    "ongoing_research": ["Developmental Psychology", "Educational Psychology"]
-  },
-  {
-    "name": "Robert Hallock",
-    "department": "Psychology",
-    "email": "rhallock@pnw.edu",
-    "phone": "(219) 989-2718",
-    "room_number": "Porter Hall 211B",
-    "ongoing_research": ["Biopsychology", "Sensation and Perception"]
-  },
-  {
-    "name": "Shelby Hunter",
-    "department": "Psychology",
-    "email": "hunter9@pnw.edu",
-    "phone": "(219) 989-2939",
-    "room_number": "Hammond Campus, PORT 209",
-    "ongoing_research": ["Experimental Psychology"]
-  },
-  {
-    "name": "Alicia M. January",
-    "department": "Psychology",
-    "email": "Alicia.january@pnw.edu",
-    "phone": "(219) 989-2576",
-    "room_number": "Hammond, Porter Hall Room: 218A",
-    "ongoing_research": ["Pediatric Psychology", "Rehabilitation Psychology"]
-  },
-  {
-    "name": "Heather Perkins",
-    "department": "Psychology",
-    "email": "hlperkin@pnw.edu",
-    "phone": "(219) 989-2710",
-    "room_number": "Hammond Campus, PORT 214E",
-    "ongoing_research": ["Quantitative Psychology", "STEM Education Research"]
-  },
-  {
-    "name": "John Michael Spores",
-    "department": "Psychology",
-    "email": "jspores@pnw.edu",
-    "phone": "(219) 989-5448",
-    "room_number": "Westville, LSF 55",
-    "ongoing_research": ["Forensic Psychology", "Law and Psychology"]
+    "name": "Robin Miller",
+    "department": "Social Work",
+    "email": "millerrl@pnw.edu",
+    "phone": "(219) 785-5727",
+    "room_number": "CLO 388 (Hammond)",
+    "ongoing_research": [
+      "Clinical Social Work",
+      "Practicum Education"
+    ],
+    "designation": [
+      "Director of Practicum Education and Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/robin-miller/",
+    "other_link": ""
   },
   {
     "name": "David Pratt",
@@ -685,23 +172,17 @@
     "email": "dmpratt@pnw.edu",
     "phone": "(219) 785-5578",
     "room_number": "Hammond, CLO 313A",
-    "ongoing_research": ["Educational Leadership", "Curriculum Design"]
-  },
-  {
-    "name": "Jelena Byers",
-    "department": "Education",
-    "email": "byers40@pnw.edu",
-    "phone": "(219) 989-2362",
-    "room_number": "Hammond, CLO 305",
-    "ongoing_research": ["Educational Methods"]
-  },
-  {
-    "name": "Oliver Camacho",
-    "department": "Counselor Education",
-    "email": "ocamacho@pnw.edu",
-    "phone": "(219) 989-2972",
-    "room_number": "Hammond, CLO 395",
-    "ongoing_research": ["Counselor Training", "Multicultural Counseling"]
+    "ongoing_research": [
+      "Educational Leadership",
+      "Curriculum Design"
+    ],
+    "designation": [
+      "Director, School of Education and Counseling"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/david-pratt/",
+    "other_link": ""
   },
   {
     "name": "Emily Hixon",
@@ -709,7 +190,341 @@
     "email": "hixone@pnw.edu",
     "phone": "(219) 989-2150",
     "room_number": "Hammond - Gyte 134",
-    "ongoing_research": ["Instructional Design", "Faculty Development"]
+    "ongoing_research": [
+      "Instructional Design",
+      "Faculty Development"
+    ],
+    "designation": [
+      "Executive Director, Center for Faculty Excellence"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/emily-hixon/",
+    "other_link": ""
+  },
+  {
+    "name": "Carly L. Baetz",
+    "department": "Psychology",
+    "email": "clbaetz@pnw.edu",
+    "phone": "(219) 989-2819",
+    "room_number": "Hammond, Porter Hall 218D",
+    "ongoing_research": [
+      "Forensic Psychology",
+      "Clinical Training"
+    ],
+    "designation": [
+      "Interim Director of Clinical Training"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/carly-l-baetz/",
+    "other_link": ""
+  },
+  {
+    "name": "Amlan Mitra",
+    "department": "Business Economics",
+    "email": "mitraa@pnw.edu",
+    "phone": "(219) 989-2313",
+    "room_number": "Hammond Campus, Classroom Office Building (CLO), Room 248",
+    "ongoing_research": [
+      "Economic Development",
+      "Quantitative Methods"
+    ],
+    "designation": [
+      "Professor of Business Economics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amlan-mitra/",
+    "other_link": ""
+  },
+  {
+    "name": "Lee Michael Johnson",
+    "department": "Criminal Justice",
+    "email": "john2598@pnw.edu",
+    "phone": "(219) 989-2936",
+    "room_number": "Hammond, CLO 201",
+    "ongoing_research": [
+      "Corrections",
+      "Criminal Justice Policy"
+    ],
+    "designation": [
+      "Professor of Criminal Justice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lee-michael-johnson/",
+    "other_link": ""
+  },
+  {
+    "name": "Nicky Ali Jackson",
+    "department": "Criminal Justice",
+    "email": "fjackson@pnw.edu",
+    "phone": "(219) 989-2352",
+    "room_number": "CLO 205 (Hammond)",
+    "ongoing_research": [
+      "Wrongful Convictions",
+      "Victimology"
+    ],
+    "designation": [
+      "Professor of Criminal Justice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nicky-ali-jackson/",
+    "other_link": ""
+  },
+  {
+    "name": "Colette Morrow",
+    "department": "English",
+    "email": "cmmorrow@pnw.edu",
+    "phone": "(219) 989-2256",
+    "room_number": "",
+    "ongoing_research": [
+      "Feminist Theory",
+      "American Literature"
+    ],
+    "designation": [
+      "Professor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/colette-morrow/",
+    "other_link": ""
+  },
+  {
+    "name": "Mark Mabrito",
+    "department": "English",
+    "email": "mmabrito@pnw.edu",
+    "phone": "(219) 989-2651",
+    "room_number": "Hammond, CLO 280",
+    "ongoing_research": [
+      "Digital Rhetoric",
+      "Workplace Communication"
+    ],
+    "designation": [
+      "Professor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mark-mabrito/",
+    "other_link": ""
+  },
+  {
+    "name": "Mita Choudhury",
+    "department": "English",
+    "email": "choudhur@pnw.edu",
+    "phone": "(219) 989-2262",
+    "room_number": "Hammond, CLO 276",
+    "ongoing_research": [
+      "18th-Century British Literature",
+      "Postcolonial Theory"
+    ],
+    "designation": [
+      "Professor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mita-choudhury/",
+    "other_link": ""
+  },
+  {
+    "name": "Jin Lu",
+    "department": "French",
+    "email": "lujin@pnw.edu",
+    "phone": "(219) 989-2292",
+    "room_number": "Hammond, CLO 286",
+    "ongoing_research": [
+      "French Literature",
+      "18th-Century Studies"
+    ],
+    "designation": [
+      "Professor of French"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jin-lu/",
+    "other_link": ""
+  },
+  {
+    "name": "Kathleen A. Tobin",
+    "department": "History",
+    "email": "tobink@pnw.edu",
+    "phone": "(219) 989-3192",
+    "room_number": "Hammond Campus, CLO 250",
+    "ongoing_research": [
+      "History of Medicine",
+      "Gender History"
+    ],
+    "designation": [
+      "Professor of History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kathleen-a-tobin/",
+    "other_link": ""
+  },
+  {
+    "name": "Michael J. Connolly",
+    "department": "History",
+    "email": "mconnoll@pnw.edu",
+    "phone": "(219) 785-5618",
+    "room_number": "Hammond, CLO 292",
+    "ongoing_research": [
+      "19th Century U.S. History",
+      "Economic History"
+    ],
+    "designation": [
+      "Professor of History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-j-connolly/",
+    "other_link": ""
+  },
+  {
+    "name": "Mohammed Errihani",
+    "department": "Linguistics and English",
+    "email": "errihani@pnw.edu",
+    "phone": "(219) 989-2657",
+    "room_number": "Hammond, CLO 264",
+    "ongoing_research": [
+      "Linguistics",
+      "Language Policy"
+    ],
+    "designation": [
+      "Professor of Linguistics and English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mohammed-errihani/",
+    "other_link": ""
+  },
+  {
+    "name": "Meg Bergin Rincker",
+    "department": "Political Science",
+    "email": "mrincker@pnw.edu",
+    "phone": "(219) 989-2025",
+    "room_number": "Hammond, CLO 290",
+    "ongoing_research": [
+      "Comparative Politics",
+      "Gender and Politics"
+    ],
+    "designation": [
+      "Professor of Political Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/meg-bergin-rincker/",
+    "other_link": ""
+  },
+  {
+    "name": "John Michael Spores",
+    "department": "Psychology",
+    "email": "jspores@pnw.edu",
+    "phone": "(219) 989-5448",
+    "room_number": "Westville, LSF 55",
+    "ongoing_research": [
+      "Forensic Psychology",
+      "Law and Psychology"
+    ],
+    "designation": [
+      "Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/john-michael-spores/",
+    "other_link": ""
+  },
+  {
+    "name": "Shreya Bhandari",
+    "department": "Social Work",
+    "email": "bhanda15@pnw.edu",
+    "phone": "(219) 989-2902",
+    "room_number": "Hammond, Classroom Office Building (CLO) 394",
+    "ongoing_research": [
+      "Social Work Policy",
+      "Community Welfare"
+    ],
+    "designation": [
+      "Professor of Social Work"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shreya-bhandari/",
+    "other_link": ""
+  },
+  {
+    "name": "Assen Kokalov",
+    "department": "Spanish",
+    "email": "akokalov@pnw.edu",
+    "phone": "(219) 989-2379",
+    "room_number": "Hammond, CLO 223",
+    "ongoing_research": [
+      "Spanish Language",
+      "Latin American Culture"
+    ],
+    "designation": [
+      "Professor of Spanish"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/assen-kokalov/",
+    "other_link": ""
+  },
+  {
+    "name": "Geoffrey Ridley Barrow",
+    "department": "Spanish",
+    "email": "grbarrow@pnw.edu",
+    "phone": "(219) 989-2459",
+    "room_number": "Hammond Campus, CLO 272",
+    "ongoing_research": [
+      "Spanish Literature",
+      "Language Acquisition"
+    ],
+    "designation": [
+      "Professor of Spanish"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/geoffrey-ridley-barrow/",
+    "other_link": ""
+  },
+  {
+    "name": "Herlinda Ramírez-Barradas",
+    "department": "Spanish",
+    "email": "barradh@pnw.edu",
+    "phone": "(219) 989-2042",
+    "room_number": "Hammond, CLO 258",
+    "ongoing_research": [
+      "Mexican Literature",
+      "Latin American Studies"
+    ],
+    "designation": [
+      "Professor of Spanish"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/herlinda-ramirez-barradas/",
+    "other_link": ""
+  },
+  {
+    "name": "José Castro-Urioste",
+    "department": "Spanish",
+    "email": "castrour@pnw.edu",
+    "phone": "(219) 989-2019",
+    "room_number": "Hammond, CLO 282",
+    "ongoing_research": [
+      "Latin American Literature",
+      "Spanish Transnational Cinema"
+    ],
+    "designation": [
+      "Professor of Spanish"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jose-castro-urioste/",
+    "other_link": ""
   },
   {
     "name": "Jessica T. Ivy",
@@ -717,31 +532,54 @@
     "email": "jtivy@pnw.edu",
     "phone": "(219) 989-2907",
     "room_number": "Hammond, CLO 321",
-    "ongoing_research": ["STEM Education", "Teacher Preparation"]
+    "ongoing_research": [
+      "STEM Education",
+      "Teacher Preparation"
+    ],
+    "designation": [
+      "Professor of STEM Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jessica-t-ivy/",
+    "other_link": ""
   },
   {
-    "name": "Patrick Keegan",
-    "department": "Education",
-    "email": "pjkeegan@pnw.edu",
-    "phone": "(219) 785-5473",
-    "room_number": "Hammond, CLO 303",
-    "ongoing_research": ["Civic Education", "Social Studies Pedagogy"]
+    "name": "Anne B. Edwards",
+    "department": "Human Development & Family Science",
+    "email": "abedward@pnw.edu",
+    "phone": "(219) 989-8439",
+    "room_number": "Hammond, PORT 211C",
+    "ongoing_research": [
+      "Human Development",
+      "Family Science"
+    ],
+    "designation": [
+      "Professor, Human Development & Family Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/anne-b-edwards/",
+    "other_link": ""
   },
   {
-    "name": "Terry Kolopanis",
-    "department": "Education",
-    "email": "tkolopan@pnw.edu",
-    "phone": "(219) 989-3226",
-    "room_number": "Hammond, CLO 329",
-    "ongoing_research": ["Educational Psychology"]
-  },
-  {
-    "name": "Joseph Passi",
-    "department": "Special Education",
-    "email": "jpassi@pnw.edu",
-    "phone": "(219) 989-2591",
-    "room_number": "Hammond, CLO 307",
-    "ongoing_research": ["Special Education", "Inclusive Practices"]
+    "name": "Lee Artz",
+    "department": "Media Studies",
+    "email": "artz@pnw.edu",
+    "phone": "(219)-989-2393",
+    "room_number": "Hammond, Porter Hall 116D",
+    "ongoing_research": [
+      "Media Studies",
+      "Global Media",
+      "Cultural Studies"
+    ],
+    "designation": [
+      "Professor, Media Studies"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lee-artz/",
+    "other_link": ""
   },
   {
     "name": "Shawn Patrick",
@@ -749,39 +587,305 @@
     "email": "sjpatric@pnw.edu",
     "phone": "(219) 989-2478",
     "room_number": "Hammond, CLO 393",
-    "ongoing_research": ["Counseling", "Mental Health"]
+    "ongoing_research": [
+      "Counseling",
+      "Mental Health"
+    ],
+    "designation": [
+      "Associate Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shawn-patrick/",
+    "other_link": ""
   },
   {
-    "name": "Grace Pigozzi",
-    "department": "Elementary and Early Literacy",
-    "email": "gpigozzi@pnw.edu",
-    "phone": "219-989-2796",
-    "room_number": "Hammond, CLO 323",
-    "ongoing_research": ["Literacy Education", "Early Childhood Reading"]
+    "name": "Dan S. Wilbur",
+    "department": "Communication",
+    "email": "dwilbur@pnw.edu",
+    "phone": "(219) 989-2508",
+    "room_number": "Hammond, Porter Hall 116E",
+    "ongoing_research": [
+      "Media Effects",
+      "Broadcasting"
+    ],
+    "designation": [
+      "Associate Professor of Communication"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/dan-s-wilbur/",
+    "other_link": ""
   },
   {
-    "name": "Suzanne Pfeiffer",
+    "name": "Thomas J. Roach",
+    "department": "Communication",
+    "email": "tjroach@pnw.edu",
+    "phone": "(219) 989-2508",
+    "room_number": "Hammond, Porter Hall 114C",
+    "ongoing_research": [
+      "Organizational Communication",
+      "Public Relations"
+    ],
+    "designation": [
+      "Associate Professor of Communication"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/thomas-j-roach/",
+    "other_link": ""
+  },
+  {
+    "name": "Patrick Keegan",
     "department": "Education",
-    "email": "pfeiffe9@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond, CLO 311",
-    "ongoing_research": ["Clinical Education Methods"]
+    "email": "pjkeegan@pnw.edu",
+    "phone": "(219) 785-5473",
+    "room_number": "Hammond, CLO 303",
+    "ongoing_research": [
+      "Civic Education",
+      "Social Studies Pedagogy"
+    ],
+    "designation": [
+      "Associate Professor of Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/patrick-keegan/",
+    "other_link": ""
   },
   {
-    "name": "Vanessa Qualls",
-    "department": "Counselor Education",
-    "email": "vqualls@pnw.edu",
-    "phone": "(219) 989-2564",
-    "room_number": "Hammond, CLO 397",
-    "ongoing_research": ["Counselor Education Theory"]
+    "name": "Jesse S. Cohn",
+    "department": "English",
+    "email": "jcohn@pnw.edu",
+    "phone": "(219) 785-5328",
+    "room_number": "Hammond, CLO 203",
+    "ongoing_research": [
+      "Literary Theory",
+      "Anarchist Studies"
+    ],
+    "designation": [
+      "Associate Professor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jesse-s-cohn/",
+    "other_link": ""
   },
   {
-    "name": "Danielle Starks",
-    "department": "Education",
-    "email": "starks15@pnw.edu",
-    "phone": "(219) 989-2316",
-    "room_number": "Hammond, CLO 397",
-    "ongoing_research": ["Educational Leadership Practices"]
+    "name": "Kenneth Ralph Kincaid",
+    "department": "History",
+    "email": "kkincaid@pnw.edu",
+    "phone": "(219) 989-5244",
+    "room_number": "Hammond, CLO 246",
+    "ongoing_research": [
+      "Latin American History",
+      "Indigenous Peoples"
+    ],
+    "designation": [
+      "Associate Professor of History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kenneth-ralph-kincaid/",
+    "other_link": ""
+  },
+  {
+    "name": "Wendy St. Jean",
+    "department": "History",
+    "email": "stjeanw@pnw.edu",
+    "phone": "(219) 989-4161",
+    "room_number": "Classroom Office Building 211",
+    "ongoing_research": [
+      "Native American History",
+      "Early American History"
+    ],
+    "designation": [
+      "Associate Professor of History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/wendy-st-jean/",
+    "other_link": ""
+  },
+  {
+    "name": "Samuel Zinaich",
+    "department": "Philosophy",
+    "email": "Zinaich@pnw.edu",
+    "phone": "(219) 989-2132",
+    "room_number": "Hammond Campus, CLO-260",
+    "ongoing_research": [
+      "Moral Philosophy",
+      "Applied Ethics"
+    ],
+    "designation": [
+      "Associate Professor of Philosophy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/samuel-zinaich/",
+    "other_link": ""
+  },
+  {
+    "name": "Frank J. Colucci",
+    "department": "Political Science",
+    "email": "coluccif@pnw.edu",
+    "phone": "(219) 989-2488",
+    "room_number": "Westville, LSF 217",
+    "ongoing_research": [
+      "Constitutional Law",
+      "Supreme Court"
+    ],
+    "designation": [
+      "Associate Professor of Political Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/frank-j-colucci/",
+    "other_link": ""
+  },
+  {
+    "name": "Richard Rupp",
+    "department": "Political Science",
+    "email": "rrupp@pnw.edu",
+    "phone": "(219) 989-2134",
+    "room_number": "CLO 254",
+    "ongoing_research": [
+      "International Relations",
+      "European Politics"
+    ],
+    "designation": [
+      "Associate Professor of Political Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/richard-rupp/",
+    "other_link": ""
+  },
+  {
+    "name": "Alicia M. January",
+    "department": "Psychology",
+    "email": "Alicia.january@pnw.edu",
+    "phone": "(219) 989-2576",
+    "room_number": "Hammond, Porter Hall Room: 218A",
+    "ongoing_research": [
+      "Pediatric Psychology",
+      "Rehabilitation Psychology"
+    ],
+    "designation": [
+      "Associate Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/alicia-m-january/",
+    "other_link": ""
+  },
+  {
+    "name": "Cheryl W. DeLeon",
+    "department": "Psychology",
+    "email": "cdeleon@pnw.edu",
+    "phone": "(219) 785-5728",
+    "room_number": "Porter 218C - Hammond Campus",
+    "ongoing_research": [
+      "Developmental Psychology",
+      "Educational Psychology"
+    ],
+    "designation": [
+      "Associate Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/cheryl-w-deleon/",
+    "other_link": ""
+  },
+  {
+    "name": "Robert Hallock",
+    "department": "Psychology",
+    "email": "rhallock@pnw.edu",
+    "phone": "(219) 989-2718",
+    "room_number": "Porter Hall 211B",
+    "ongoing_research": [
+      "Biopsychology",
+      "Sensation and Perception"
+    ],
+    "designation": [
+      "Associate Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/robert-hallock/",
+    "other_link": ""
+  },
+  {
+    "name": "Christabel L. Rogalin",
+    "department": "Sociology",
+    "email": "crogalin@pnw.edu",
+    "phone": "(219) 785-5222",
+    "room_number": "Westville, TECH-319",
+    "ongoing_research": [
+      "Social Psychology",
+      "Gender and Work"
+    ],
+    "designation": [
+      "Associate Professor of Sociology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/christabel-l-rogalin/",
+    "other_link": ""
+  },
+  {
+    "name": "Hubert Izienicki",
+    "department": "Sociology",
+    "email": "hizienic@pnw.edu",
+    "phone": "(219) 785-5658",
+    "room_number": "Hammond, Porter 216D",
+    "ongoing_research": [
+      "Medical Sociology",
+      "Social Inequality"
+    ],
+    "designation": [
+      "Associate Professor of Sociology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/hubert-izienicki/",
+    "other_link": ""
+  },
+  {
+    "name": "Colin Fewer",
+    "department": "English",
+    "email": "fewer@pnw.edu",
+    "phone": "(219) 989-2820",
+    "room_number": "Hammond, CLO 225",
+    "ongoing_research": [
+      "Medieval Literature",
+      "Chaucer"
+    ],
+    "designation": [
+      "Associate Professor, English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/colin-fewer/",
+    "other_link": ""
+  },
+  {
+    "name": "Kimberly L. Brunt",
+    "department": "Psychology",
+    "email": "kbrunt@pnw.edu",
+    "phone": "(219) 989-5251",
+    "room_number": "Schwarz Hall 30G",
+    "ongoing_research": [
+      "Clinical Psychology",
+      "Psychological Assessment"
+    ],
+    "designation": [
+      "Clinical Associate Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kimberly-l-brunt/",
+    "other_link": ""
   },
   {
     "name": "Melanie M Walski",
@@ -789,6 +893,886 @@
     "email": "mwalski@pnw.edu",
     "phone": "(219) 989-2161",
     "room_number": "Hammond, CLO 327",
-    "ongoing_research": ["Literacy Development", "Teacher Education"]
+    "ongoing_research": [
+      "Literacy Development",
+      "Teacher Education"
+    ],
+    "designation": [
+      "Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/melanie-m-walski/",
+    "other_link": ""
+  },
+  {
+    "name": "Austin D. Hestdalen",
+    "department": "Communication",
+    "email": "ahestdal@pnw.edu",
+    "phone": "(219) 989-2355",
+    "room_number": "Hammond, Porter Hall E-114B",
+    "ongoing_research": [
+      "Rhetorical Theory",
+      "Civic Discourse"
+    ],
+    "designation": [
+      "Assistant Professor of Communication"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/austin-d-hestdalen/",
+    "other_link": ""
+  },
+  {
+    "name": "Oliver Camacho",
+    "department": "Counselor Education",
+    "email": "ocamacho@pnw.edu",
+    "phone": "(219) 989-2972",
+    "room_number": "Hammond, CLO 395",
+    "ongoing_research": [
+      "Counselor Training",
+      "Multicultural Counseling"
+    ],
+    "designation": [
+      "Assistant Professor of Counselor Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/oliver-camacho/",
+    "other_link": ""
+  },
+  {
+    "name": "Matthew Greife",
+    "department": "Criminal Justice",
+    "email": "mgreife@pnw.edu",
+    "phone": "(219) 989-4135",
+    "room_number": "Hammond Campus, CLO 296",
+    "ongoing_research": [
+      "Criminal Justice System",
+      "Law"
+    ],
+    "designation": [
+      "Assistant Professor of Criminal Justice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/matthew-greife/",
+    "other_link": ""
+  },
+  {
+    "name": "Omeed S. Ilchi",
+    "department": "Criminal Justice",
+    "email": "oilchi@pnw.edu",
+    "phone": "219-989-2542",
+    "room_number": "Hammond, CLO 207",
+    "ongoing_research": [
+      "Policing",
+      "Criminology"
+    ],
+    "designation": [
+      "Assistant Professor of Criminal Justice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/omeed-s-ilchi/",
+    "other_link": ""
+  },
+  {
+    "name": "Toqa Hassan",
+    "department": "Digital Media",
+    "email": "toqa@pnw.edu",
+    "phone": "(219) 989-2627",
+    "room_number": "Hammond, Porter 114A",
+    "ongoing_research": [
+      "Digital Media",
+      "Interactive Narratives"
+    ],
+    "designation": [
+      "Assistant Professor of Digital Media"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/toqa-hassan/",
+    "other_link": ""
+  },
+  {
+    "name": "Grace Pigozzi",
+    "department": "Elementary and Early Literacy",
+    "email": "gpigozzi@pnw.edu",
+    "phone": "219-989-2796",
+    "room_number": "Hammond, CLO 323",
+    "ongoing_research": [
+      "Literacy Education",
+      "Early Childhood Reading"
+    ],
+    "designation": [
+      "Assistant Professor of Elementary and Early Literacy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/grace-pigozzi/",
+    "other_link": ""
+  },
+  {
+    "name": "Brandy Dieterle",
+    "department": "English - Professional Writing",
+    "email": "bdieterl@pnw.edu",
+    "phone": "(219) 989-2663",
+    "room_number": "Hammond Campus, CLO 291",
+    "ongoing_research": [
+      "Professional Writing",
+      "Rhetoric"
+    ],
+    "designation": [
+      "Assistant Professor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/brandy-dieterle/",
+    "other_link": ""
+  },
+  {
+    "name": "Rhon Teruelle",
+    "department": "Mass Communication and Social Media",
+    "email": "rteruell@pnw.edu",
+    "phone": "(219) 989-2267",
+    "room_number": "Hammond, Porter Hall 116C",
+    "ongoing_research": [
+      "Social Media",
+      "Mass Communication Analysis"
+    ],
+    "designation": [
+      "Assistant Professor of Mass Communication"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/rhon-teruelle/",
+    "other_link": ""
+  },
+  {
+    "name": "Sarah E. White",
+    "department": "Writing",
+    "email": "sewhite@pnw.edu",
+    "phone": "",
+    "room_number": "Classroom Office Building (CLO) 284 - Hammond Campus",
+    "ongoing_research": [
+      "First-Year Writing",
+      "Composition Pedagogy"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sarah-e-white/",
+    "other_link": ""
+  },
+  {
+    "name": "Steffanie Triller",
+    "department": "Writing",
+    "email": "striller@pnw.edu",
+    "phone": "(219) 989-2258",
+    "room_number": "Hammond, CLO 268",
+    "ongoing_research": [
+      "Writing Center Pedagogy",
+      "Creative Writing"
+    ],
+    "designation": [
+      "Assistant Professor of Practice"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/steffanie-triller/",
+    "other_link": ""
+  },
+  {
+    "name": "Frank Geiser",
+    "department": "Visual Communication and Design",
+    "email": "fgeiser@pnw.edu",
+    "phone": "(219) 989-2420",
+    "room_number": "Hammond, PORT 118B",
+    "ongoing_research": [
+      "Graphic Design",
+      "Visual Rhetoric"
+    ],
+    "designation": [
+      "Assistant Professor of Practice in Visual Communication and Design"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/frank-geiser/",
+    "other_link": ""
+  },
+  {
+    "name": "Heather Augustyn",
+    "department": "Writing",
+    "email": "haugusty@pnw.edu",
+    "phone": "(219) 785-5327",
+    "room_number": "Westville, Tech 315",
+    "ongoing_research": [
+      "Writing Studies",
+      "Ska Music History"
+    ],
+    "designation": [
+      "Assistant Professor of Practice in Writing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/heather-augustyn/",
+    "other_link": ""
+  },
+  {
+    "name": "Heather Perkins",
+    "department": "Psychology",
+    "email": "hlperkin@pnw.edu",
+    "phone": "(219) 989-2710",
+    "room_number": "Hammond Campus, PORT 214E",
+    "ongoing_research": [
+      "Quantitative Psychology",
+      "STEM Education Research"
+    ],
+    "designation": [
+      "Assistant Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/heather-perkins/",
+    "other_link": ""
+  },
+  {
+    "name": "Shelby Hunter",
+    "department": "Psychology",
+    "email": "hunter9@pnw.edu",
+    "phone": "(219) 989-2939",
+    "room_number": "Hammond Campus, PORT 209",
+    "ongoing_research": [
+      "Experimental Psychology"
+    ],
+    "designation": [
+      "Assistant Professor of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shelby-hunter/",
+    "other_link": ""
+  },
+  {
+    "name": "Chun Liu",
+    "department": "Social Work",
+    "email": "liu3921@pnw.edu",
+    "phone": "(219) 989-3156",
+    "room_number": "Hammond, Classroom Office Building (CLO) 396",
+    "ongoing_research": [
+      "Social Work Intervention",
+      "Community Development"
+    ],
+    "designation": [
+      "Assistant Professor of Social Work"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chun-liu/",
+    "other_link": ""
+  },
+  {
+    "name": "I-Hsuan Lin",
+    "department": "Social Work",
+    "email": "lin1994@pnw.edu",
+    "phone": "(219) 989-2622",
+    "room_number": "Hammond Campus, CLO 391",
+    "ongoing_research": [
+      "Social Welfare",
+      "Public Policy"
+    ],
+    "designation": [
+      "Assistant Professor of Social Work"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/i-hsuan-lin/",
+    "other_link": ""
+  },
+  {
+    "name": "Josephine Nummi",
+    "department": "Sociology",
+    "email": "jnummi@pnw.edu",
+    "phone": "(219) 989-8145",
+    "room_number": "Hammond, PORT 216B",
+    "ongoing_research": [
+      "Social Movements",
+      "Race and Ethnicity"
+    ],
+    "designation": [
+      "Assistant Professor of Sociology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/josephine-nummi/",
+    "other_link": ""
+  },
+  {
+    "name": "Joseph Passi",
+    "department": "Special Education",
+    "email": "jpassi@pnw.edu",
+    "phone": "(219) 989-2591",
+    "room_number": "Hammond, CLO 307",
+    "ongoing_research": [
+      "Special Education",
+      "Inclusive Practices"
+    ],
+    "designation": [
+      "Assistant Professor of Special Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/joseph-passi/",
+    "other_link": ""
+  },
+  {
+    "name": "Josh Boe",
+    "department": "Couple & Family Therapy",
+    "email": "jlboe@pnw.edu",
+    "phone": "(219) 989-2587",
+    "room_number": "",
+    "ongoing_research": [
+      "Family Dynamics",
+      "Therapeutic Interventions"
+    ],
+    "designation": [
+      "Assistant Professor, Couple & Family Therapy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/josh-boe/",
+    "other_link": ""
+  },
+  {
+    "name": "Mialauni T. Griggs-Holke",
+    "department": "Couple and Family Therapy",
+    "email": "mtgriggs@pnw.edu",
+    "phone": "(219) 989-2101",
+    "room_number": "Hammond - IBCC 1030",
+    "ongoing_research": [
+      "Family Therapy",
+      "Counseling"
+    ],
+    "designation": [
+      "Assistant Professor, Couple and Family Therapy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mialauni-t-griggs-holke/",
+    "other_link": ""
+  },
+  {
+    "name": "Brittney Autry",
+    "department": "Social Work",
+    "email": "bautryco@pnw.edu",
+    "phone": "(219) 989-2566",
+    "room_number": "Hammond Campus, Classroom Office Building, Room 328",
+    "ongoing_research": [
+      "Social Work Practice",
+      "Mental Health"
+    ],
+    "designation": [
+      "Assistant Professor, Social Work"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/brittney-autry/",
+    "other_link": ""
+  },
+  {
+    "name": "Pamela Saylor",
+    "department": "Social Work",
+    "email": "psaylor@pnw.edu",
+    "phone": "(219) 785-5588",
+    "room_number": "Hammond, CLO 389",
+    "ongoing_research": [
+      "Clinical Practice",
+      "Social Work Education"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/pamela-saylor/",
+    "other_link": ""
+  },
+  {
+    "name": "Suzanne Pfeiffer",
+    "department": "Education",
+    "email": "pfeiffe9@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond, CLO 311",
+    "ongoing_research": [
+      "Clinical Education Methods"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/suzanne-pfeiffer/",
+    "other_link": ""
+  },
+  {
+    "name": "Danielle Starks",
+    "department": "Education",
+    "email": "starks15@pnw.edu",
+    "phone": "(219) 989-2316",
+    "room_number": "Hammond, CLO 397",
+    "ongoing_research": [
+      "Educational Leadership Practices"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/danielle-starks/",
+    "other_link": ""
+  },
+  {
+    "name": "Cindy Torres",
+    "department": "English and World Languages",
+    "email": "cktorres@pnw.edu",
+    "phone": "(219) 989-2378",
+    "room_number": "Hammond, CLO 262",
+    "ongoing_research": [
+      "Composition",
+      "English Studies"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/cindy-torres/",
+    "other_link": ""
+  },
+  {
+    "name": "Connie Farrell",
+    "department": "English and World Languages",
+    "email": "cfarrel@pnw.edu",
+    "phone": "(219) 989-2686",
+    "room_number": "Hammond, CLO 278",
+    "ongoing_research": [
+      "English Composition"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/connie-farrell/",
+    "other_link": ""
+  },
+  {
+    "name": "Erin Okamoto Protsman",
+    "department": "Communication and Creative Arts",
+    "email": "okamoto@pnw.edu",
+    "phone": "(219) 989-2880",
+    "room_number": "Hammond, Porter Hall 116B",
+    "ongoing_research": [
+      "Interpersonal Communication",
+      "Public Speaking"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/erin-okamoto-protsman/",
+    "other_link": ""
+  },
+  {
+    "name": "Justin Ness",
+    "department": "English and World Languages",
+    "email": "ness0@pnw.edu",
+    "phone": "(219) 989-2646",
+    "room_number": "Hammond, CLO 288",
+    "ongoing_research": [
+      "Composition",
+      "Literature Analysis"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/justin-ness/",
+    "other_link": ""
+  },
+  {
+    "name": "Matthew Praxmarer",
+    "department": "English and World Languages",
+    "email": "mpraxmar@pnw.edu",
+    "phone": "(219) 989-2259",
+    "room_number": "Hammond Campus, CLO 229",
+    "ongoing_research": [
+      "Creative Writing",
+      "Literature"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/matthew-praxmarer/",
+    "other_link": ""
+  },
+  {
+    "name": "Mary Beth Fraser Connolly",
+    "department": "History",
+    "email": "mbconnol@pnw.edu",
+    "phone": "(219) 785-5777",
+    "room_number": "Hammond, CLO 294",
+    "ongoing_research": [
+      "U.S. Women's History",
+      "Religious History"
+    ],
+    "designation": [
+      "Continuing Lecturer in History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mary-beth-fraser-connolly/",
+    "other_link": ""
+  },
+  {
+    "name": "Hoon Lee",
+    "department": "Philosophy",
+    "email": "lee2894@pnw.edu",
+    "phone": "(219) 989-2682",
+    "room_number": "CLO 227",
+    "ongoing_research": [
+      "Asian Philosophy",
+      "Ethics"
+    ],
+    "designation": [
+      "Continuing Lecturer of Philosophy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/hoon-lee/",
+    "other_link": ""
+  },
+  {
+    "name": "James Hysell",
+    "department": "History",
+    "email": "jhysell@pnw.edu",
+    "phone": "(219) 989-2784",
+    "room_number": "Hammond, CLO 209",
+    "ongoing_research": [
+      "Medieval History",
+      "Military History"
+    ],
+    "designation": [
+      "Continuing Lecturer, History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/james-hysell/",
+    "other_link": ""
+  },
+  {
+    "name": "Sarah MacDonald",
+    "department": "English and World Languages",
+    "email": "snmacdon@purdue.edu",
+    "phone": "(219) 989-2364",
+    "room_number": "Hammond, CLO 213",
+    "ongoing_research": [
+      "Writing Studies",
+      "Literature"
+    ],
+    "designation": [
+      "Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sarah-macdonald/",
+    "other_link": ""
+  },
+  {
+    "name": "Tyler Lennox Bush",
+    "department": "Communication and Creative Arts",
+    "email": "tbush@pnw.edu",
+    "phone": "(219) 669-2835",
+    "room_number": "Hammond, Porter 116E",
+    "ongoing_research": [
+      "Film Production",
+      "Media Arts"
+    ],
+    "designation": [
+      "Lecturer of Communication and Creative Arts"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/tyler-lennox-bush/",
+    "other_link": ""
+  },
+  {
+    "name": "Avik Sanyal",
+    "department": "Economics",
+    "email": "sanyal8@pnw.edu",
+    "phone": "(219) 989-3176",
+    "room_number": "CLO 256",
+    "ongoing_research": [
+      "Macroeconomics",
+      "Applied Economics"
+    ],
+    "designation": [
+      "Lecturer of Economics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/avik-sanyal/",
+    "other_link": ""
+  },
+  {
+    "name": "Michael Hensley",
+    "department": "Economics",
+    "email": "mphensley@pnw.edu",
+    "phone": "(219) 989-2642",
+    "room_number": "CLO 252",
+    "ongoing_research": [
+      "Economic Theory"
+    ],
+    "designation": [
+      "Lecturer of Economics"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-hensley/",
+    "other_link": ""
+  },
+  {
+    "name": "Erica Nichols",
+    "department": "Philosophy",
+    "email": "denichol@pnw.edu",
+    "phone": "(219) 989-2645",
+    "room_number": "Hammond Campus, CLO 266",
+    "ongoing_research": [
+      "Philosophical Theory"
+    ],
+    "designation": [
+      "Lecturer of Philosophy"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/erica-nichols/",
+    "other_link": ""
+  },
+  {
+    "name": "Emily Brooks",
+    "department": "Psychology",
+    "email": "brook110@pnw.edu",
+    "phone": "(219) 989-2215",
+    "room_number": "Hammond, Porter 218E",
+    "ongoing_research": [
+      "Psychological Research"
+    ],
+    "designation": [
+      "Lecturer of Psychology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/emily-brooks/",
+    "other_link": ""
+  },
+  {
+    "name": "Patricia Rodda",
+    "department": "Human Development and Family Science",
+    "email": "rodda@pnw.edu",
+    "phone": "(219) 989-2219",
+    "room_number": "Hammond, Porter Building, 211F",
+    "ongoing_research": [
+      "Child Development",
+      "Family Education"
+    ],
+    "designation": [
+      "Lecturer, Human Development and Family Science"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/patricia-rodda/",
+    "other_link": ""
+  },
+  {
+    "name": "Nicole Rousseau",
+    "department": "Sociology",
+    "email": "nroussea@pnw.edu",
+    "phone": "(219) 989-2849",
+    "room_number": "Hammond, PORT 211D",
+    "ongoing_research": [
+      "Historical Sociology",
+      "Race, Class and Gender"
+    ],
+    "designation": [
+      "Visiting Faculty (Sociology)"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/nicole-rousseau/",
+    "other_link": ""
+  },
+  {
+    "name": "Amy Howard",
+    "department": "English and World Languages",
+    "email": "ahoward2@pnw.edu",
+    "phone": "(219) 989-2396",
+    "room_number": "Hammond Campus, CLO 293",
+    "ongoing_research": [
+      "Writing Instruction",
+      "Composition"
+    ],
+    "designation": [
+      "Visiting Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amy-howard/",
+    "other_link": ""
+  },
+  {
+    "name": "Drue Denmon",
+    "department": "English and World Languages",
+    "email": "ddenmon@pnw.edu",
+    "phone": "(219) 989-2649",
+    "room_number": "Hammond, CLO 295",
+    "ongoing_research": [
+      "Creative Writing",
+      "Literature Analysis"
+    ],
+    "designation": [
+      "Visiting Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/drue-denmon/",
+    "other_link": ""
+  },
+  {
+    "name": "Lily Schaffer",
+    "department": "English and World Languages",
+    "email": "schaffl@pnw.edu",
+    "phone": "(219) 989-2973",
+    "room_number": "Hammond, CLO 270",
+    "ongoing_research": [
+      "Writing Pedagogy"
+    ],
+    "designation": [
+      "Visiting Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lily-schaffer/",
+    "other_link": ""
+  },
+  {
+    "name": "Vanessa Qualls",
+    "department": "Counselor Education",
+    "email": "vqualls@pnw.edu",
+    "phone": "(219) 989-2564",
+    "room_number": "Hammond, CLO 397",
+    "ongoing_research": [
+      "Counselor Education Theory"
+    ],
+    "designation": [
+      "Visiting Instructor of Counselor Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/vanessa-qualls/",
+    "other_link": ""
+  },
+  {
+    "name": "Jelena Byers",
+    "department": "Education",
+    "email": "byers40@pnw.edu",
+    "phone": "(219) 989-2362",
+    "room_number": "Hammond, CLO 305",
+    "ongoing_research": [
+      "Educational Methods"
+    ],
+    "designation": [
+      "Visiting Instructor of Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jelena-byers/",
+    "other_link": ""
+  },
+  {
+    "name": "Terry Kolopanis",
+    "department": "Education",
+    "email": "tkolopan@pnw.edu",
+    "phone": "(219) 989-3226",
+    "room_number": "Hammond, CLO 329",
+    "ongoing_research": [
+      "Educational Psychology"
+    ],
+    "designation": [
+      "Visiting Instructor of Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/terry-kolopanis/",
+    "other_link": ""
+  },
+  {
+    "name": "Kathaleen M. Levenda-Smith",
+    "department": "English",
+    "email": "klevenda@pnw.edu",
+    "phone": "(219) 989-2654",
+    "room_number": "Hammond Campus, CLO 289",
+    "ongoing_research": [
+      "English Education",
+      "Literature"
+    ],
+    "designation": [
+      "Visiting Instructor of English"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kathaleen-m-levenda-smith/",
+    "other_link": ""
+  },
+  {
+    "name": "Joseph T. Cochran",
+    "department": "History",
+    "email": "cochrajt@pnw.edu",
+    "phone": "(219) 989-8060",
+    "room_number": "Hammond Campus, CLO 248",
+    "ongoing_research": [
+      "American History"
+    ],
+    "designation": [
+      "Visiting Instructor of History"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/joseph-t-cochran/",
+    "other_link": ""
+  },
+  {
+    "name": "Alessandra Lembo",
+    "department": "Sociology",
+    "email": "alembo@pnw.edu",
+    "phone": "(219) 989-2863",
+    "room_number": "Hammond, PORT 216E",
+    "ongoing_research": [
+      "Sociological Theory",
+      "Cultural Sociology"
+    ],
+    "designation": [
+      "Visiting Instructor of Sociology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/alessandra-lembo/",
+    "other_link": ""
   }
 ]

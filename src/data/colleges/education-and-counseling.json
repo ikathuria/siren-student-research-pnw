@@ -8,18 +8,14 @@
     "ongoing_research": [
       "Educational Leadership",
       "Curriculum Design"
-    ]
-  },
-  {
-    "name": "Anne E. Gregory",
-    "department": "Education",
-    "email": "",
-    "phone": "",
-    "room_number": "",
-    "ongoing_research": [
-      "Special Education",
-      "Inclusive Practices"
-    ]
+    ],
+    "designation": [
+      "Director, School of Education and Counseling"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/david-pratt/",
+    "other_link": ""
   },
   {
     "name": "Emily Hixon",
@@ -30,7 +26,14 @@
     "ongoing_research": [
       "Instructional Technology",
       "Teacher Professional Development"
-    ]
+    ],
+    "designation": [
+      "Executive Director, Center for Faculty Excellence"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/emily-hixon/",
+    "other_link": ""
   },
   {
     "name": "Jessica T. Ivy",
@@ -41,6 +44,29 @@
     "ongoing_research": [
       "Educational Psychology",
       "Student Motivation"
-    ]
+    ],
+    "designation": [
+      "Professor of STEM Education"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jessica-t-ivy/",
+    "other_link": ""
+  },
+  {
+    "name": "Anne E. Gregory",
+    "department": "Education",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Special Education",
+      "Inclusive Practices"
+    ],
+    "designation": [],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/anne-e-gregory/",
+    "other_link": ""
   }
 ]

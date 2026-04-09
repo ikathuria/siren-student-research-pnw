@@ -8,18 +8,14 @@
     "ongoing_research": [
       "Digital Signal Processing",
       "Control Systems"
-    ]
-  },
-  {
-    "name": "Khair Al Shamaileh",
-    "department": "Electrical and Computer Engineering",
-    "email": "",
-    "phone": "",
-    "room_number": "",
-    "ongoing_research": [
-      "Wireless Communications",
-      "Antenna Design"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Electrical and Computer Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lizhe-tan/",
+    "other_link": ""
   },
   {
     "name": "Arash Asrari",
@@ -30,6 +26,31 @@
     "ongoing_research": [
       "Power Systems",
       "Smart Grids"
-    ]
+    ],
+    "designation": [
+      "Associate Professor of Electrical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/arash-asrari/",
+    "other_link": ""
+  },
+  {
+    "name": "Khair Al Shamaileh",
+    "department": "Electrical and Computer Engineering",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Wireless Communications",
+      "Antenna Design"
+    ],
+    "designation": [
+      "Associate Professor of Electrical Engineering"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/khair-al-shamaileh/",
+    "other_link": ""
   }
 ]

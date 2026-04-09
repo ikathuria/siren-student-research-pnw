@@ -27,7 +27,7 @@
         {
           "title": "Meet and Greet",
           "paragraphs": [
-            "Kick off the year with SIREN: meet faculty mentors, find your people, and see what research at PNW can look like for you—whether you’re brand new or coming back for more.",
+            "Kick off the year with SIREN: meet faculty mentors, find your people, and see what research at PNW can look like for you, whether you’re brand new or coming back for more.",
             "Casual conversation, real connections, and light refreshments so you can focus on the ideas and friendships that make this club feel like home."
           ]
         },
@@ -35,20 +35,20 @@
           "title": "Workshop series - Coding basics",
           "paragraphs": [
             "Build confidence with the skills researchers use every day: read and shape data, visualize what matters, and use Python-style workflows that transfer to labs, internships, and capstone work.",
-            "Beginner-friendly, hands-on sessions—leave with something working, not just slides."
+            "Beginner-friendly, hands-on sessions, leave with something working, not just slides."
           ]
         },
         {
           "title": "Workshop series - Vibecoding",
           "paragraphs": [
-            "Turn ideas into working software faster than you thought possible—modern tools, creative prompts, and a playful, low-pressure vibe that rewards experimentation.",
+            "Turn ideas into working software faster than you thought possible, modern tools, creative prompts, and a playful, low-pressure vibe that rewards experimentation.",
             "Perfect if you want to prototype boldly, collaborate loudly, and learn how builders actually ship in the real world."
           ]
         },
         {
           "title": "Travel series - go to research lab",
           "paragraphs": [
-            "Step off campus and into a working research or innovation space—see how teams run experiments, use equipment, and turn questions into results.",
+            "Step off campus and into a working research or innovation space, see how teams run experiments, use equipment, and turn questions into results.",
             "An eye-opening day trip built for curiosity: ask bold questions, picture yourself in that world, and bring inspiration back to PNW."
           ]
         }
@@ -60,7 +60,7 @@
         {
           "title": "Meet and Greet",
           "paragraphs": [
-            "Welcome back—or welcome for the first time. Meet mentors, compare notes with peers, and map out how SIREN can support your goals this semester.",
+            "Welcome back, or welcome for the first time. Meet mentors, compare notes with peers, and map out how SIREN can support your goals this semester.",
             "Relaxed networking and refreshments so conversations flow naturally and you leave with names, not just handouts."
           ]
         },
@@ -68,28 +68,28 @@
           "title": "Lecture series - how to do research",
           "paragraphs": [
             "Go from “I’m curious” to “I have a plan.” Walk through how strong questions are born, how literature shapes your thinking, and how methods and writing fit together in real projects.",
-            "Designed for undergrads who want research to feel doable—not mysterious—with practical takeaways you can use in courses, UR programs, and beyond."
+            "Designed for undergrads who want research to feel doable, not mysterious, with practical takeaways you can use in courses, UR programs, and beyond."
           ]
         },
         {
           "title": "Lecture series - poster presentation",
           "paragraphs": [
-            "Make your work impossible to ignore: layout, story, and delivery for posters and short talks—so judges, classmates, and future employers actually understand what you did and why it matters.",
+            "Make your work impossible to ignore: layout, story, and delivery for posters and short talks, so judges, classmates, and future employers actually understand what you did and why it matters.",
             "Tailored energy for PNW Days of Discovery and any conference-style moment where your research gets its spotlight."
           ]
         },
         {
           "title": "Travel series - go to research lab",
           "paragraphs": [
-            "Visit a professional lab or innovation hub where research isn’t abstract—it’s on the bench, on the screen, and in the conversation.",
-            "A focused day away from campus: tours, Q&A, and space to imagine your own path in research—without the spreadsheet energy."
+            "Visit a professional lab or innovation hub where research isn’t abstract, it’s on the bench, on the screen, and in the conversation.",
+            "A focused day away from campus: tours, Q&A, and space to imagine your own path in research, without the spreadsheet energy."
           ]
         },
         {
           "title": "One Day App Development Challenge",
           "paragraphs": [
-            "Our headline event: one day, one team, one problem worth solving. Ideate, build, debug, and demo—then celebrate what you shipped when the clock runs out.",
-            "High-energy, multidisciplinary, and a little chaotic in the best way—the kind of day you’ll still be talking about at graduation."
+            "Our headline event: one day, one team, one problem worth solving. Ideate, build, debug, and demo, then celebrate what you shipped when the clock runs out.",
+            "High-energy, multidisciplinary, and a little chaotic in the best way, the kind of day you’ll still be talking about at graduation."
           ],
           "route": "/odadc"
         }

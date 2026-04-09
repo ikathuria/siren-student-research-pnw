@@ -1,7 +1,24 @@
 [
   {
+    "name": "Chynisse Browder",
+    "department": "Hospitality and Tourism Management",
+    "email": "browder@pnw.edu",
+    "phone": "219-989-2588",
+    "room_number": "Hammond, HTMB 191",
+    "ongoing_research": [
+      "Student Advising",
+      "Academic Success"
+    ],
+    "designation": [
+      "Academic and Student Success Advisor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chynisse-browder/",
+    "other_link": ""
+  },
+  {
     "name": "Kuan-Chou Chen",
-    "title": "Interim Director of White Lodging School of Hospitality and Tourism Management",
     "department": "Hospitality and Tourism Management",
     "email": "kchen@pnw.edu",
     "phone": "(219) 989-2336",
@@ -9,11 +26,53 @@
     "ongoing_research": [
       "Hospitality Management",
       "Tourism Technology"
-    ]
+    ],
+    "designation": [
+      "Interim Director of White Lodging School of Hospitality and Tourism Management"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kuan-chou-chen/",
+    "other_link": ""
+  },
+  {
+    "name": "Pitparnee Stompor",
+    "department": "Hospitality and Tourism Management",
+    "email": "pitparnee.stompor@pnw.edu",
+    "phone": "(219) 989-8305",
+    "room_number": "Hammond, HTMB 134",
+    "ongoing_research": [
+      "Hospitality Operations",
+      "Tourism Analytics"
+    ],
+    "designation": [
+      "Clinical Professor of HTM"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/pitparnee-stompor/",
+    "other_link": ""
+  },
+  {
+    "name": "Ezra Mutai",
+    "department": "Hospitality and Tourism Management",
+    "email": "emutai@pnw.edu",
+    "phone": "(219) 989-2615",
+    "room_number": "Hammond, HTMB 125",
+    "ongoing_research": [
+      "Food Science",
+      "Nutritional Studies"
+    ],
+    "designation": [
+      "Assistant Professor of Food and Nutrition"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ezra-mutai/",
+    "other_link": ""
   },
   {
     "name": "Matthew J. Bauman",
-    "title": "Assistant Professor of Hospitality and Tourism Management",
     "department": "Hospitality and Tourism Management",
     "email": "mjbauman@pnw.edu",
     "phone": "(219) 989-8304",
@@ -22,23 +81,17 @@
       "Consumer Behavior",
       "Wine Marketing",
       "Food and Beverage Management"
-    ]
-  },
-  {
-    "name": "Chynisse Browder",
-    "title": "Academic and Student Success Advisor",
-    "department": "Hospitality and Tourism Management",
-    "email": "browder@pnw.edu",
-    "phone": "219-989-2588",
-    "room_number": "Hammond, HTMB 191",
-    "ongoing_research": [
-      "Student Advising",
-      "Academic Success"
-    ]
+    ],
+    "designation": [
+      "Assistant Professor of Hospitality and Tourism Management"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/matthew-j-bauman/",
+    "other_link": ""
   },
   {
     "name": "Sarala Morrow",
-    "title": "Visiting Instructor",
     "department": "Hospitality and Tourism Management",
     "email": "symorrow@pnw.edu",
     "phone": "(219) 989-2383",
@@ -46,30 +99,13 @@
     "ongoing_research": [
       "Hospitality Education",
       "Event Planning"
-    ]
-  },
-  {
-    "name": "Ezra Mutai",
-    "title": "Assistant Professor of Food and Nutrition",
-    "department": "Hospitality and Tourism Management",
-    "email": "emutai@pnw.edu",
-    "phone": "(219) 989-2615",
-    "room_number": "Hammond, HTMB 125",
-    "ongoing_research": [
-      "Food Science",
-      "Nutritional Studies"
-    ]
-  },
-  {
-    "name": "Pitparnee Stompor",
-    "title": "Clinical Professor of HTM",
-    "department": "Hospitality and Tourism Management",
-    "email": "pitparnee.stompor@pnw.edu",
-    "phone": "(219) 989-8305",
-    "room_number": "Hammond, HTMB 134",
-    "ongoing_research": [
-      "Hospitality Operations",
-      "Tourism Analytics"
-    ]
+    ],
+    "designation": [
+      "Visiting Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sarala-morrow/",
+    "other_link": ""
   }
 ]

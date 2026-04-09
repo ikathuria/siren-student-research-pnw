@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-/** GitHub Pages project URL — keep in sync with repo name / Pages settings. */
+/** GitHub Pages project URL, keep in sync with repo name / Pages settings. */
 const BASE = '/siren-student-research-pnw/'
 
 /** Prefix favicon path with Vite `base` for GitHub Pages subpath deploys. */

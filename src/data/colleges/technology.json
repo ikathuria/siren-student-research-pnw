@@ -1,7 +1,6 @@
 [
   {
     "name": "Mohammad A. Zahraee",
-    "department": "Mechanical Engineering Technology",
     "email": "zahraee@pnw.edu",
     "phone": "(219) 989-3251",
     "room_number": "Hammond, Anderson 202A",
@@ -9,11 +8,18 @@
       "Bulk Solids Handling",
       "Product Design",
       "Engineering Education"
-    ]
+    ],
+    "designation": [
+      "Interim Dean, College of Technology",
+      "Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "https://www.linkedin.com/in/mohammad-zahraee-9295a71a/",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mohammad-a-zahraee/",
+    "other_link": ""
   },
   {
     "name": "Ge Jin",
-    "department": "Computer Graphics and Information Technology",
     "email": "ge.jin@pnw.edu",
     "phone": "(219) 989-2131",
     "room_number": "Hammond, Anderson Building 238 & 232",
@@ -22,22 +28,36 @@
       "Computer Animation",
       "Serious Games",
       "Cybersecurity Education"
-    ]
+    ],
+    "designation": [
+      "Associate Dean, Graduate Studies, College of Technology",
+      "Professor, Computer Information Technology and Graphics"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ge-jin-20802521/",
+    "google_scholar": "https://scholar.google.com/citations?user=roXoJyEAAAAJ&hl=en",
+    "pnw_link": "https://www.pnw.edu/people/ge-jin/",
+    "other_link": ""
   },
   {
     "name": "Afshin Zahraee",
-    "department": "Construction Science and Organizational Leadership",
     "email": "azahraee@pnw.edu",
     "phone": "(219) 785-5522",
     "room_number": "Hammond, Anderson Building 212A",
     "ongoing_research": [
       "Construction Management",
       "Organizational Leadership"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Construction Science and Organizational Leadership",
+      "Associate Professor, Construction Management Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/afshin-zahraee/",
+    "other_link": ""
   },
   {
     "name": "Keyuan Jiang",
-    "department": "Computer Information Technology and Graphics",
     "email": "kjiang@pnw.edu",
     "phone": "(219) 989-2498",
     "room_number": "Hammond, Anderson Building 145A",
@@ -45,11 +65,18 @@
       "Health Informatics",
       "AI in Medicine",
       "Computational Linguistics"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Computer Information Technology and Graphics",
+      "Professor, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/keyuan-jiang/",
+    "other_link": ""
   },
   {
     "name": "Maged Mikhail",
-    "department": "Engineering Technology",
     "email": "mmikhail@pnw.edu",
     "phone": "(219) 989-2280",
     "room_number": "Hammond, Anderson Building 143A",
@@ -57,320 +84,487 @@
       "Control Automation",
       "Robotics",
       "Advanced Manufacturing Systems"
-    ]
+    ],
+    "designation": [
+      "Department Chair, Engineering Technology",
+      "Professor, Mechatronics Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/maged-mikhail/",
+    "other_link": ""
   },
   {
-    "name": "Ali Alavizadeh",
-    "department": "Industrial Engineering Technology",
-    "email": "aalaviza@pnw.edu",
-    "phone": "(219) 989-3162",
-    "room_number": "Hammond, Anderson Building 231",
+    "name": "Michael Tu",
+    "email": "Michael.Tu@pnw.edu",
+    "phone": "(219) 989-2634",
+    "room_number": "Hammond, Anderson Building 235",
     "ongoing_research": [
-      "System Simulation",
-      "Process Improvement"
-    ]
-  },
-  {
-    "name": "Ricardo A. Calix",
-    "department": "Computer Information Technology",
-    "email": "rcalix@pnw.edu",
-    "phone": "(219) 989-2013",
-    "room_number": "Hammond, Anderson Building 238",
-    "ongoing_research": [
-      "Machine Learning",
-      "Cybersecurity"
-    ]
+      "Cyber Physical Systems",
+      "Retrieval-Augmented Generation (RAG)"
+    ],
+    "designation": [
+      "Professor, Computer Information Technology",
+      "Director, The Center for Cybersecurity"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-tu/",
+    "other_link": "https://www.pnw.edu/cybersecurity/"
   },
   {
     "name": "Magesh Chandramouli",
-    "department": "Computer Graphics Technology",
     "email": "magesh@pnw.edu",
     "phone": "(219) 989-3195",
     "room_number": "Hammond, Anderson Building 208F",
     "ongoing_research": [
-      "Computer Graphics",
       "Virtual Reality",
-      "Fulbright Research"
-    ]
+      "AR/MR",
+      "Immersive Browser experiences",
+      "UI/HCI"
+    ],
+    "designation": [
+      "Professor, Computer Graphics Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "https://scholar.google.com/citations?user=wdDjaj4AAAAJ&hl=en",
+    "pnw_link": "https://www.pnw.edu/people/magesh-chandramouli/",
+    "other_link": ""
   },
   {
-    "name": "Joy Colwell",
-    "department": "Graduate Studies",
-    "email": "colwell@pnw.edu",
-    "phone": "(219) 989-2545",
-    "room_number": "Hammond, Lawshe 212",
+    "name": "Ricardo A. Calix",
+    "email": "rcalix@pnw.edu",
+    "phone": "(219) 989-2013",
+    "room_number": "Hammond, Anderson Building 238",
     "ongoing_research": [
-      "Legal Studies",
-      "Technology Ethics"
-    ]
-  },
-  {
-    "name": "Chuck DeCastro",
-    "department": "Computer Information Technology",
-    "email": "rdecastr@pnw.edu",
-    "phone": "(219) 989-2741",
-    "room_number": "Hammond, Potter 223",
-    "ongoing_research": [
-      "Information Technology Education"
-    ]
-  },
-  {
-    "name": "Jesus De La Cruz",
-    "department": "Engineering Technology",
-    "email": "delacruz@pnw.edu",
-    "phone": "(219) 989-3225",
-    "room_number": "Hammond, Potter 223",
-    "ongoing_research": [
-      "Engineering Technology Education"
-    ]
-  },
-  {
-    "name": "Thomas J. Dobrowski",
-    "department": "Construction Management Engineering Technology",
-    "email": "tdobrows@pnw.edu",
-    "phone": "(219) 785-5724",
-    "room_number": "Hammond, Anderson Building 208P",
-    "ongoing_research": [
-      "Construction Management",
-      "Project Planning"
-    ]
-  },
-  {
-    "name": "Shaun Doyle",
-    "department": "Computer Information Technology",
-    "email": "stdoyle@pnw.edu",
-    "phone": "(219) 989-8060",
-    "room_number": "Hammond, Potter 230",
-    "ongoing_research": [
-      "Information Technology Education"
-    ]
-  },
-  {
-    "name": "Donald Duncan",
-    "department": "Construction Management Engineering Technology",
-    "email": "daduncan@pnw.edu",
-    "phone": "(219) 989-2688",
-    "room_number": "Hammond, ANDR 208N",
-    "ongoing_research": [
-      "Construction Management"
-    ]
-  },
-  {
-    "name": "Masoud Fathizadeh",
-    "department": "Electrical Engineering Technology",
-    "email": "fathiz@pnw.edu",
-    "phone": "(219) 989-2757",
-    "room_number": "Hammond, Anderson Building 208H",
-    "ongoing_research": [
-      "Power Systems",
-      "Electrical Engineering"
-    ]
-  },
-  {
-    "name": "James B. Higley",
-    "department": "Mechanical Engineering Technology",
-    "email": "Jbhigley@pnw.edu",
-    "phone": "(219) 989-2584",
-    "room_number": "Hammond, Anderson Building 208C",
-    "ongoing_research": [
-      "Manufacturing",
-      "Mechanical Engineering"
-    ]
-  },
-  {
-    "name": "Jean Jiang",
-    "department": "Electrical and Computer Engineering Technology",
-    "email": "jjiang@pnw.edu",
-    "phone": "(219) 785-5372",
-    "room_number": "Hammond, Potter 229",
-    "ongoing_research": [
-      "Electrical Engineering",
-      "Computer Engineering"
-    ]
-  },
-  {
-    "name": "Suryeon Kim",
-    "department": "Construction Management Engineering Technology",
-    "email": "kim3242@pnw.edu",
-    "phone": "(219) 785-5457",
-    "room_number": "Hammond Campus, ANDR 208L",
-    "ongoing_research": [
-      "Construction Management",
-      "Built Environment"
-    ]
+      "Time Series GPT",
+      "Neural Input Optimization"
+    ],
+    "designation": [
+      "Professor, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ricardo-a-calix/",
+    "other_link": ""
   },
   {
     "name": "Tae-Hoon Kim",
-    "department": "Computer Information Technology",
     "email": "taehoon.kim@pnw.edu",
     "phone": "(219) 989-3138",
     "room_number": "Hammond, Anderson Building 236",
     "ongoing_research": [
       "Information Technology",
       "Systems Administration"
-    ]
+    ],
+    "designation": [
+      "Professor, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/tae-hoon-kim/",
+    "other_link": ""
   },
   {
     "name": "Athula Kulatunga",
-    "department": "Electrical Engineering Technology",
     "email": "nkulatun@pnw.edu",
     "phone": "(219) 989-2614",
     "room_number": "Hammond, Potter 227",
     "ongoing_research": [
       "Energy Management",
       "Electrical Engineering"
-    ]
+    ],
+    "designation": [
+      "Professor, Electrical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/athula-kulatunga/",
+    "other_link": ""
   },
   {
-    "name": "Ying Luo",
-    "department": "Computer Information Technology",
-    "email": "ying.luo@pnw.edu",
-    "phone": "(219) 989-2421",
-    "room_number": "Hammond, Anderson Building 237",
+    "name": "Masoud Fathizadeh",
+    "email": "fathiz@pnw.edu",
+    "phone": "(219) 989-2757",
+    "room_number": "Hammond, Anderson Building 208H",
     "ongoing_research": [
-      "Information Systems",
-      "Computer Science Education"
-    ]
+      "Power Systems",
+      "Electrical Engineering"
+    ],
+    "designation": [
+      "Professor, Electrical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/masoud-fathizadeh/",
+    "other_link": ""
   },
   {
-    "name": "AmirHossein MajidiRad",
-    "department": "Mechanical Engineering Technology",
-    "email": "amajidir@pnw.edu",
-    "phone": "(219) 785-5337",
-    "room_number": "Hammond, Anderson Building 233",
+    "name": "James B. Higley",
+    "email": "Jbhigley@pnw.edu",
+    "phone": "(219) 989-2584",
+    "room_number": "Hammond, Anderson Building 208C",
     "ongoing_research": [
-      "Mechanical Design",
-      "Engineering Technology"
-    ]
+      "Manufacturing",
+      "Mechanical Engineering"
+    ],
+    "designation": [
+      "Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/james-b-higley/",
+    "other_link": ""
   },
   {
     "name": "Lash Mapa",
-    "department": "Mechanical Engineering Technology",
     "email": "lmapa@pnw.edu",
     "phone": "(219) 989-2574",
     "room_number": "Hammond, Anderson Building 234",
     "ongoing_research": [
       "Mechanical Engineering",
       "Manufacturing Systems"
-    ]
-  },
-  {
-    "name": "Rex R. Mudge",
-    "department": "Technology Lecturer",
-    "email": "rmudge@pnw.edu",
-    "phone": "(219) 989-2639",
-    "room_number": "Hammond, Potter 233",
-    "ongoing_research": [
-      "Engineering Technology Education"
-    ]
-  },
-  {
-    "name": "Lance Natonski",
-    "department": "Computer Information Technology",
-    "email": "lnatonsk@pnw.edu",
-    "phone": "(219) 785-5214",
-    "room_number": "Hammond, Potter 230",
-    "ongoing_research": [
-      "Information Technology Education"
-    ]
-  },
-  {
-    "name": "Ralph Ocon",
-    "department": "Organizational Leadership and Supervision",
-    "email": "rocon@pnw.edu",
-    "phone": "(219) 989-2571",
-    "room_number": "Hammond, Anderson Building 240",
-    "ongoing_research": [
-      "Organizational Leadership",
-      "Legal Issues in Technology"
-    ]
-  },
-  {
-    "name": "José A. Peña",
-    "department": "Civil Engineering Technology",
-    "email": "penaj@pnw.edu",
-    "phone": "(219) 989-2409",
-    "room_number": "Hammond, Anderson Building 208G",
-    "ongoing_research": [
-      "Civil Engineering",
-      "Infrastructure"
-    ]
-  },
-  {
-    "name": "Ashok Vardhan Raja",
-    "department": "Cybersecurity",
-    "email": "raja22@pnw.edu",
-    "phone": "(219) 989-8062",
-    "room_number": "Hammond, Anderson Building 239",
-    "ongoing_research": [
-      "Cybersecurity",
-      "Information Assurance"
-    ]
-  },
-  {
-    "name": "Michael Alden Roller",
-    "department": "Computer Graphics Technology",
-    "email": "rollerm@pnw.edu",
-    "phone": "(219) 989-2354",
-    "room_number": "Hammond, Anderson Building 208J",
-    "ongoing_research": [
-      "Computer Graphics",
-      "Animation"
-    ]
-  },
-  {
-    "name": "George Stefanek",
-    "department": "Computer Information Technology",
-    "email": "stefanek@pnw.edu",
-    "phone": "(219) 785-5212",
-    "room_number": "Hammond, ANDR 208K",
-    "ongoing_research": [
-      "Software Development",
-      "Information Systems"
-    ]
+    ],
+    "designation": [
+      "Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lash-mapa/",
+    "other_link": ""
   },
   {
     "name": "Sham Tickoo",
-    "department": "Mechanical Engineering Technology",
     "email": "Stickoo@pnw.edu",
     "phone": "(219) 989-2525",
     "room_number": "Hammond, Anderson Building 208E",
     "ongoing_research": [
       "CAD/CAM",
       "Mechanical Design Software"
-    ]
+    ],
+    "designation": [
+      "Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sham-tickoo/",
+    "other_link": ""
   },
   {
-    "name": "Michael Tu",
-    "department": "Computer Information Technology",
-    "email": "Michael.Tu@pnw.edu",
-    "phone": "(219) 989-2634",
-    "room_number": "Hammond, Anderson Building 235",
+    "name": "Ralph Ocon",
+    "email": "rocon@pnw.edu",
+    "phone": "(219) 989-2571",
+    "room_number": "Hammond, Anderson Building 240",
     "ongoing_research": [
-      "Cybersecurity",
-      "Network Security"
-    ]
+      "Organizational Leadership",
+      "Legal Issues in Technology"
+    ],
+    "designation": [
+      "Professor, Organizational Leadership and Supervision"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ralph-ocon/",
+    "other_link": ""
+  },
+  {
+    "name": "José A. Peña",
+    "email": "penaj@pnw.edu",
+    "phone": "(219) 989-2409",
+    "room_number": "Hammond, Anderson Building 208G",
+    "ongoing_research": [
+      "Civil Engineering",
+      "Infrastructure"
+    ],
+    "designation": [
+      "Associate Professor, Civil Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jose-a-pena/",
+    "other_link": ""
+  },
+  {
+    "name": "Michael Alden Roller",
+    "email": "rollerm@pnw.edu",
+    "phone": "(219) 989-2354",
+    "room_number": "Hammond, Anderson Building 208J",
+    "ongoing_research": [
+      "Computer Graphics",
+      "Animation"
+    ],
+    "designation": [
+      "Associate Professor, Computer Graphics Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michael-alden-roller/",
+    "other_link": ""
+  },
+  {
+    "name": "George Stefanek",
+    "email": "stefanek@pnw.edu",
+    "phone": "(219) 785-5212",
+    "room_number": "Hammond, ANDR 208K",
+    "ongoing_research": [
+      "Software Development",
+      "Information Systems"
+    ],
+    "designation": [
+      "Associate Professor, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/george-stefanek/",
+    "other_link": ""
+  },
+  {
+    "name": "Ying Luo",
+    "email": "ying.luo@pnw.edu",
+    "phone": "(219) 989-2421",
+    "room_number": "Hammond, Anderson Building 237",
+    "ongoing_research": [
+      "Information Systems",
+      "Computer Science Education"
+    ],
+    "designation": [
+      "Associate Professor, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ying-luo/",
+    "other_link": ""
+  },
+  {
+    "name": "Thomas J. Dobrowski",
+    "email": "tdobrows@pnw.edu",
+    "phone": "(219) 785-5724",
+    "room_number": "Hammond, Anderson Building 208P",
+    "ongoing_research": [
+      "Construction Management",
+      "Project Planning"
+    ],
+    "designation": [
+      "Associate Professor, Construction Management Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/thomas-j-dobrowski/",
+    "other_link": ""
+  },
+  {
+    "name": "Jean Jiang",
+    "email": "jjiang@pnw.edu",
+    "phone": "(219) 785-5372",
+    "room_number": "Hammond, Potter 229",
+    "ongoing_research": [
+      "Electrical Engineering",
+      "Computer Engineering"
+    ],
+    "designation": [
+      "Associate Professor, Electrical and Computer Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jean-jiang/",
+    "other_link": ""
+  },
+  {
+    "name": "Ali Alavizadeh",
+    "email": "aalaviza@pnw.edu",
+    "phone": "(219) 989-3162",
+    "room_number": "Hammond, Anderson Building 231",
+    "ongoing_research": [
+      "System Simulation",
+      "Process Improvement"
+    ],
+    "designation": [
+      "Associate Professor, Industrial Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ali-alavizadeh/",
+    "other_link": ""
   },
   {
     "name": "Edward M. Vavrek",
-    "department": "Mechanical Engineering Technology",
     "email": "evavrek@pnw.edu",
     "phone": "(219) 785-5245",
     "room_number": "Hammond, Anderson Building 208D",
     "ongoing_research": [
       "Mechanical Engineering",
       "Thermodynamics"
-    ]
+    ],
+    "designation": [
+      "Associate Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/edward-m-vavrek/",
+    "other_link": ""
   },
   {
     "name": "Cheng Zhang",
-    "department": "Construction Management Engineering Technology",
     "email": "zhan4168@pnw.edu",
     "phone": "(219) 785-5704",
     "room_number": "Hammond, Anderson Building 208M",
     "ongoing_research": [
       "Construction Management",
       "Building Information Modeling"
-    ]
+    ],
+    "designation": [
+      "Assistant Professor, Construction Management Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/cheng-zhang/",
+    "other_link": ""
+  },
+  {
+    "name": "Suryeon Kim",
+    "email": "kim3242@pnw.edu",
+    "phone": "(219) 785-5457",
+    "room_number": "Hammond Campus, ANDR 208L",
+    "ongoing_research": [
+      "Construction Management",
+      "Built Environment"
+    ],
+    "designation": [
+      "Assistant Professor, Construction Management Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/suryeon-kim/",
+    "other_link": ""
+  },
+  {
+    "name": "Ashok Vardhan Raja",
+    "email": "raja22@pnw.edu",
+    "phone": "(219) 989-8062",
+    "room_number": "Hammond, Anderson Building 239",
+    "ongoing_research": [
+      "Cybersecurity",
+      "Information Assurance"
+    ],
+    "designation": [
+      "Assistant Professor, Cybersecurity"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/ashok-vardhan-raja/",
+    "other_link": ""
+  },
+  {
+    "name": "AmirHossein MajidiRad",
+    "email": "amajidir@pnw.edu",
+    "phone": "(219) 785-5337",
+    "room_number": "Hammond, Anderson Building 233",
+    "ongoing_research": [
+      "Mechanical Design",
+      "Engineering Technology"
+    ],
+    "designation": [
+      "Assistant Professor, Mechanical Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amirhossein-majidirad/",
+    "other_link": ""
+  },
+  {
+    "name": "Rex R. Mudge",
+    "email": "rmudge@pnw.edu",
+    "phone": "(219) 989-2639",
+    "room_number": "Hammond, Potter 233",
+    "ongoing_research": [
+      "Engineering Technology Education"
+    ],
+    "designation": [
+      "Continuing Lecturer"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/rex-r-mudge/",
+    "other_link": ""
+  },
+  {
+    "name": "Chuck DeCastro",
+    "email": "rdecastr@pnw.edu",
+    "phone": "(219) 989-2741",
+    "room_number": "Hammond, Potter 223",
+    "ongoing_research": [
+      "Information Technology Education"
+    ],
+    "designation": [
+      "Lecturer, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/chuck-decastro/",
+    "other_link": ""
+  },
+  {
+    "name": "Lance Natonski",
+    "email": "lnatonsk@pnw.edu",
+    "phone": "(219) 785-5214",
+    "room_number": "Hammond, Potter 230",
+    "ongoing_research": [
+      "Information Technology Education"
+    ],
+    "designation": [
+      "Lecturer, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/lance-natonski/",
+    "other_link": ""
+  },
+  {
+    "name": "Shaun Doyle",
+    "email": "stdoyle@pnw.edu",
+    "phone": "(219) 989-8060",
+    "room_number": "Hammond, Potter 230",
+    "ongoing_research": [
+      "Information Technology Education"
+    ],
+    "designation": [
+      "Lecturer, Computer Information Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/shaun-doyle/",
+    "other_link": ""
+  },
+  {
+    "name": "Donald Duncan",
+    "email": "daduncan@pnw.edu",
+    "phone": "(219) 989-2688",
+    "room_number": "Hammond, ANDR 208N",
+    "ongoing_research": [
+      "Construction Management"
+    ],
+    "designation": [
+      "Lecturer, Construction Management Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/donald-duncan/",
+    "other_link": ""
+  },
+  {
+    "name": "Jesus De La Cruz",
+    "email": "delacruz@pnw.edu",
+    "phone": "(219) 989-3225",
+    "room_number": "Hammond, Potter 223",
+    "ongoing_research": [
+      "Engineering Technology Education"
+    ],
+    "designation": [
+      "Lecturer, Engineering Technology"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jesus-de-la-cruz/",
+    "other_link": ""
   }
 ]

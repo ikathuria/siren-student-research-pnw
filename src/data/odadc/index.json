@@ -1,19 +1,19 @@
 {
   "title": "One Day App Development Challenge",
   "shortName": "ODADC",
-  "tagline": "Build something real in one day — teams, mentors, and a campus-wide showcase.",
+  "tagline": "Build something real in one day, teams, mentors, and a campus-wide showcase.",
   "about": "The One Day App Development Challenge (ODADC) is SIREN’s annual flagship event. Participants form teams, scope an idea, and deliver an app or prototype in a single day. We plan to run ODADC every year and grow the showcase of student projects on this site.",
   "years": [
     {
       "year": 2026,
       "title": "ODADC 2026",
-      "summary": "Second annual challenge — rules, resources, posters, and project showcase.",
+      "summary": "Second annual challenge, rules, resources, posters, and project showcase.",
       "heroImage": "odadc/2026/posters/poster_square.jpg"
     },
     {
       "year": 2025,
       "title": "ODADC 2025",
-      "summary": "Inaugural year — event photo gallery and project showcase.",
+      "summary": "Inaugural year, event photo gallery and project showcase.",
       "heroImage": "odadc/2025/1.jpeg"
     }
   ]

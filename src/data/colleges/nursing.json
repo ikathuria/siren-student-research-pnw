@@ -1,19 +1,22 @@
 [
   {
-    "name": "Amy Fry",
-    "department": "Nursing",
-    "email": "fryal@pnw.edu",
-    "phone": "(219) 989-2834",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Administration", "Nursing Education"]
-  },
-  {
     "name": "Taryn Y. Eastland",
     "department": "Nursing",
     "email": "teastlan@pnw.edu",
     "phone": "(219) 989-2117",
     "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Health Disparities", "Prostate Cancer", "Nursing Workforce Diversity"]
+    "ongoing_research": [
+      "Health Disparities",
+      "Prostate Cancer",
+      "Nursing Workforce Diversity"
+    ],
+    "designation": [
+      "Associate Dean, Graduate Studies"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/taryn-y-eastland/",
+    "other_link": ""
   },
   {
     "name": "Marianne Schallmo",
@@ -21,7 +24,35 @@
     "email": "mschallm@pnw.edu",
     "phone": "219-989-8059",
     "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Education", "Palliative Care"]
+    "ongoing_research": [
+      "Nursing Education",
+      "Palliative Care"
+    ],
+    "designation": [
+      "Associate Dean, Undergraduate Studies"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/marianne-schallmo/",
+    "other_link": ""
+  },
+  {
+    "name": "Amy Fry",
+    "department": "Nursing",
+    "email": "fryal@pnw.edu",
+    "phone": "(219) 989-2834",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Administration",
+      "Nursing Education"
+    ],
+    "designation": [
+      "Dean, College of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amy-fry/",
+    "other_link": ""
   },
   {
     "name": "Barbara Pudelek",
@@ -29,255 +60,17 @@
     "email": "bpudelek@pnw.edu",
     "phone": "(219) 989-2399",
     "room_number": "Hammond, NILS 225",
-    "ongoing_research": ["Online Nursing Education", "Nursing Programs"]
-  },
-  {
-    "name": "Jodi Allen",
-    "department": "Nursing",
-    "email": "jgallen@pnw.edu",
-    "phone": "(219) 989-2871",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Healthcare for Vulnerable Populations", "Homelessness", "FNP Education"]
-  },
-  {
-    "name": "Audra Bair",
-    "department": "Nursing",
-    "email": "baira@pnw.edu",
-    "phone": "(219) 989-2759",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing Practice"]
-  },
-  {
-    "name": "Manisa Baker",
-    "department": "Nursing",
-    "email": "baker417@pnw.edu",
-    "phone": "(219) 989-2563",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Critical Care Nursing"]
-  },
-  {
-    "name": "Sarah Ann Berkland",
-    "department": "Nursing",
-    "email": "sdunlea@pnw.edu",
-    "phone": "(219) 989-2905",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing Practice"]
-  },
-  {
-    "name": "Heather Bowers",
-    "department": "Nursing",
-    "email": "bowersh@pnw.edu",
-    "phone": "(219) 989-2928",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Education", "Math Competencies", "Pediatric Nursing"]
-  },
-  {
-    "name": "Annette Coates",
-    "department": "Nursing",
-    "email": "acoates@pnw.edu",
-    "phone": "219-785-5224",
-    "room_number": "Westville Campus, TECH 373",
-    "ongoing_research": ["Pediatric Nursing"]
-  },
-  {
-    "name": "Janet H. Davis",
-    "department": "Nursing",
-    "email": "janet.davis@pnw.edu",
-    "phone": "(219) 989-2835",
-    "room_number": "Westville, TECH 381",
-    "ongoing_research": ["Nursing Education", "Healthcare Administration"]
-  },
-  {
-    "name": "Joan Dorman",
-    "department": "Nursing",
-    "email": "dormanj@pnw.edu",
-    "phone": "(219) 989-2817",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Emergency Nursing"]
-  },
-  {
-    "name": "Melissa Evers",
-    "department": "Nursing",
-    "email": "mevers@pnw.edu",
-    "phone": "(219) 989-2840",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Family Nursing Practice"]
-  },
-  {
-    "name": "Cari Furst",
-    "department": "Nursing",
-    "email": "cfurst@pnw.edu",
-    "phone": "(219) 989-8450",
-    "room_number": "Remote",
-    "ongoing_research": ["Clinical Nursing Instruction"]
-  },
-  {
-    "name": "Jenni Guzzo",
-    "department": "Nursing",
-    "email": "jsguzzo@pnw.edu",
-    "phone": "(219) 989-2814",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Instruction"]
-  },
-  {
-    "name": "Dianne Hoekstra",
-    "department": "Nursing",
-    "email": "dhoekstr@pnw.edu",
-    "phone": "219-989-3234",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing Education"]
-  },
-  {
-    "name": "Maria V. Hughes",
-    "department": "Nursing",
-    "email": "brewer74@pnw.edu",
-    "phone": "(219) 989-2828",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Leadership", "Healthcare Administration"]
-  },
-  {
-    "name": "Kelly Kallas",
-    "department": "Nursing",
-    "email": "knightin@pnw.edu",
-    "phone": "(219) 989-2814",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Critical Care Nursing"]
-  },
-  {
-    "name": "Susanne Kinsella",
-    "department": "Nursing",
-    "email": "smkinsel@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Healthcare Law", "Nursing Ethics"]
-  },
-  {
-    "name": "Karen Klosinski",
-    "department": "Nursing",
-    "email": "kklosinski@pnw.edu",
-    "phone": "219-785-5351",
-    "room_number": "Westville Campus, TECH 375",
-    "ongoing_research": ["Nursing Education", "Clinical Practice"]
-  },
-  {
-    "name": "Jamie Kozel",
-    "department": "Nursing",
-    "email": "jlsweene@pnw.edu",
-    "phone": "219-785-5358",
-    "room_number": "Westville Campus, TECH 376",
-    "ongoing_research": ["Pediatric Nursing", "Healthcare Simulation"]
-  },
-  {
-    "name": "Amanda Kratovil-Mailhiot",
-    "department": "Nursing",
-    "email": "akratovi@pnw.edu",
-    "phone": "219-989-2821",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Education", "Patient Care"]
-  },
-  {
-    "name": "Patti Ludwig-Beymer",
-    "department": "Nursing",
-    "email": "pludwigb@pnw.edu",
-    "phone": "(219) 989-3248",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Transcultural Nursing", "Quality and Patient Safety"]
-  },
-  {
-    "name": "Michelle M. Mason",
-    "department": "Nursing",
-    "email": "mason140@pnw.edu",
-    "phone": "(219) 989-2814",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing Practice"]
-  },
-  {
-    "name": "Meghan McGonigal-Kenney",
-    "department": "Nursing",
-    "email": "mcgoniga@pnw.edu",
-    "phone": "219-989-8450",
-    "room_number": "Remote",
-    "ongoing_research": ["Nursing Instruction", "Clinical Practice"]
-  },
-  {
-    "name": "Mary Moell",
-    "department": "Nursing",
-    "email": "mmoell@pnw.edu",
-    "phone": "(219) 989-2684",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing"]
-  },
-  {
-    "name": "Guadalupe Navarro",
-    "department": "Nursing",
-    "email": "ggnavarr@pnw.edu",
-    "phone": "(219) 989-2839",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Family Nursing Practice", "Primary Care"]
-  },
-  {
-    "name": "Sherri Newman",
-    "department": "Nursing",
-    "email": "newma131@pnw.edu",
-    "phone": "",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Clinical Nursing"]
-  },
-  {
-    "name": "Laurie G. Parpart",
-    "department": "Nursing",
-    "email": "lparpart@pnw.edu",
-    "phone": "(219) 989-2609",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Education"]
-  },
-  {
-    "name": "Paige Peters",
-    "department": "Nursing",
-    "email": "papeters@pnw.edu",
-    "phone": "(219) 989-2814",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Instruction"]
-  },
-  {
-    "name": "Carole Rance",
-    "department": "Nursing",
-    "email": "cmrance@pnw.edu",
-    "phone": "(219) 989-2846",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Critical Care Nursing"]
-  },
-  {
-    "name": "Cindy Robbins",
-    "department": "Nursing",
-    "email": "clrobbin@pnw.edu",
-    "phone": "(219) 989-2867",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Adult Gerontology", "Critical Care", "Advanced Practice Nursing"]
-  },
-  {
-    "name": "Julia L. Rogers",
-    "department": "Nursing",
-    "email": "jlrogers@pnw.edu",
-    "phone": "(219) 989-2981",
-    "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Advanced Practice Nursing", "Family Practice"]
-  },
-  {
-    "name": "Angela M. Schooley",
-    "department": "Nursing",
-    "email": "aschool@pnw.edu",
-    "phone": "(219) 785-5695",
-    "room_number": "Westville Campus, TECH 383",
-    "ongoing_research": ["Nursing Education", "Clinical Teaching"]
-  },
-  {
-    "name": "Diane Spoljoric",
-    "department": "Nursing",
-    "email": "dianes@pnw.edu",
-    "phone": "219-785-5388",
-    "room_number": "Westville Campus, TECH 391",
-    "ongoing_research": ["Family Nursing Practice", "Primary Care"]
+    "ongoing_research": [
+      "Online Nursing Education",
+      "Nursing Programs"
+    ],
+    "designation": [
+      "Director of Online Programs"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/barbara-pudelek/",
+    "other_link": ""
   },
   {
     "name": "Beth Vottero",
@@ -285,6 +78,561 @@
     "email": "bethvottero@pnw.edu",
     "phone": "(219) 989-2833",
     "room_number": "Hammond Campus, NILS 225",
-    "ongoing_research": ["Nursing Education", "Evidence-Based Practice"]
+    "ongoing_research": [
+      "Nursing Education",
+      "Evidence-Based Practice"
+    ],
+    "designation": [
+      "Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/beth-vottero/",
+    "other_link": ""
+  },
+  {
+    "name": "Patti Ludwig-Beymer",
+    "department": "Nursing",
+    "email": "pludwigb@pnw.edu",
+    "phone": "(219) 989-3248",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Transcultural Nursing",
+      "Quality and Patient Safety"
+    ],
+    "designation": [
+      "Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/patti-ludwig-beymer/",
+    "other_link": ""
+  },
+  {
+    "name": "Diane Spoljoric",
+    "department": "Nursing",
+    "email": "dianes@pnw.edu",
+    "phone": "219-785-5388",
+    "room_number": "Westville Campus, TECH 391",
+    "ongoing_research": [
+      "Family Nursing Practice",
+      "Primary Care"
+    ],
+    "designation": [
+      "Associate Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/diane-spoljoric/",
+    "other_link": ""
+  },
+  {
+    "name": "Amanda Kratovil-Mailhiot",
+    "department": "Nursing",
+    "email": "akratovi@pnw.edu",
+    "phone": "219-989-2821",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Education",
+      "Patient Care"
+    ],
+    "designation": [
+      "Associate Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/amanda-kratovil-mailhiot/",
+    "other_link": ""
+  },
+  {
+    "name": "Angela M. Schooley",
+    "department": "Nursing",
+    "email": "aschool@pnw.edu",
+    "phone": "(219) 785-5695",
+    "room_number": "Westville Campus, TECH 383",
+    "ongoing_research": [
+      "Nursing Education",
+      "Clinical Teaching"
+    ],
+    "designation": [
+      "Associate Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/angela-m-schooley/",
+    "other_link": ""
+  },
+  {
+    "name": "Janet H. Davis",
+    "department": "Nursing",
+    "email": "janet.davis@pnw.edu",
+    "phone": "(219) 989-2835",
+    "room_number": "Westville, TECH 381",
+    "ongoing_research": [
+      "Nursing Education",
+      "Healthcare Administration"
+    ],
+    "designation": [
+      "Associate Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/janet-h-davis/",
+    "other_link": ""
+  },
+  {
+    "name": "Julia L. Rogers",
+    "department": "Nursing",
+    "email": "jlrogers@pnw.edu",
+    "phone": "(219) 989-2981",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Advanced Practice Nursing",
+      "Family Practice"
+    ],
+    "designation": [
+      "Associate Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/julia-l-rogers/",
+    "other_link": ""
+  },
+  {
+    "name": "Joan Dorman",
+    "department": "Nursing",
+    "email": "dormanj@pnw.edu",
+    "phone": "(219) 989-2817",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Emergency Nursing"
+    ],
+    "designation": [
+      "Clinical Associate Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/joan-dorman/",
+    "other_link": ""
+  },
+  {
+    "name": "Annette Coates",
+    "department": "Nursing",
+    "email": "acoates@pnw.edu",
+    "phone": "219-785-5224",
+    "room_number": "Westville Campus, TECH 373",
+    "ongoing_research": [
+      "Pediatric Nursing"
+    ],
+    "designation": [
+      "Clinical Associate Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/annette-coates/",
+    "other_link": ""
+  },
+  {
+    "name": "Manisa Baker",
+    "department": "Nursing",
+    "email": "baker417@pnw.edu",
+    "phone": "(219) 989-2563",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Critical Care Nursing"
+    ],
+    "designation": [
+      "Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/manisa-baker/",
+    "other_link": ""
+  },
+  {
+    "name": "Maria V. Hughes",
+    "department": "Nursing",
+    "email": "brewer74@pnw.edu",
+    "phone": "(219) 989-2828",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Leadership",
+      "Healthcare Administration"
+    ],
+    "designation": [
+      "Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/maria-v-hughes/",
+    "other_link": ""
+  },
+  {
+    "name": "Audra Bair",
+    "department": "Nursing",
+    "email": "baira@pnw.edu",
+    "phone": "(219) 989-2759",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing Practice"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/audra-bair/",
+    "other_link": ""
+  },
+  {
+    "name": "Carole Rance",
+    "department": "Nursing",
+    "email": "cmrance@pnw.edu",
+    "phone": "(219) 989-2846",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Critical Care Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/carole-rance/",
+    "other_link": ""
+  },
+  {
+    "name": "Dianne Hoekstra",
+    "department": "Nursing",
+    "email": "dhoekstr@pnw.edu",
+    "phone": "219-989-3234",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing Education"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/dianne-hoekstra/",
+    "other_link": ""
+  },
+  {
+    "name": "Heather Bowers",
+    "department": "Nursing",
+    "email": "bowersh@pnw.edu",
+    "phone": "(219) 989-2928",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Education",
+      "Math Competencies",
+      "Pediatric Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/heather-bowers/",
+    "other_link": ""
+  },
+  {
+    "name": "Jamie Kozel",
+    "department": "Nursing",
+    "email": "jlsweene@pnw.edu",
+    "phone": "219-785-5358",
+    "room_number": "Westville Campus, TECH 376",
+    "ongoing_research": [
+      "Pediatric Nursing",
+      "Healthcare Simulation"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jamie-kozel/",
+    "other_link": ""
+  },
+  {
+    "name": "Karen Klosinski",
+    "department": "Nursing",
+    "email": "kklosinski@pnw.edu",
+    "phone": "219-785-5351",
+    "room_number": "Westville Campus, TECH 375",
+    "ongoing_research": [
+      "Nursing Education",
+      "Clinical Practice"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/karen-klosinski/",
+    "other_link": ""
+  },
+  {
+    "name": "Kelly Kallas",
+    "department": "Nursing",
+    "email": "knightin@pnw.edu",
+    "phone": "(219) 989-2814",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Critical Care Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/kelly-kallas/",
+    "other_link": ""
+  },
+  {
+    "name": "Laurie G. Parpart",
+    "department": "Nursing",
+    "email": "lparpart@pnw.edu",
+    "phone": "(219) 989-2609",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Education"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/laurie-g-parpart/",
+    "other_link": ""
+  },
+  {
+    "name": "Mary Moell",
+    "department": "Nursing",
+    "email": "mmoell@pnw.edu",
+    "phone": "(219) 989-2684",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/mary-moell/",
+    "other_link": ""
+  },
+  {
+    "name": "Melissa Evers",
+    "department": "Nursing",
+    "email": "mevers@pnw.edu",
+    "phone": "(219) 989-2840",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Family Nursing Practice"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/melissa-evers/",
+    "other_link": ""
+  },
+  {
+    "name": "Michelle M. Mason",
+    "department": "Nursing",
+    "email": "mason140@pnw.edu",
+    "phone": "(219) 989-2814",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing Practice"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/michelle-m-mason/",
+    "other_link": ""
+  },
+  {
+    "name": "Sarah Ann Berkland",
+    "department": "Nursing",
+    "email": "sdunlea@pnw.edu",
+    "phone": "(219) 989-2905",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing Practice"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sarah-ann-berkland/",
+    "other_link": ""
+  },
+  {
+    "name": "Sherri Newman",
+    "department": "Nursing",
+    "email": "newma131@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Clinical Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/sherri-newman/",
+    "other_link": ""
+  },
+  {
+    "name": "Cindy Robbins",
+    "department": "Nursing",
+    "email": "clrobbin@pnw.edu",
+    "phone": "(219) 989-2867",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Adult Gerontology",
+      "Critical Care",
+      "Advanced Practice Nursing"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/cindy-robbins/",
+    "other_link": ""
+  },
+  {
+    "name": "Guadalupe Navarro",
+    "department": "Nursing",
+    "email": "ggnavarr@pnw.edu",
+    "phone": "(219) 989-2839",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Family Nursing Practice",
+      "Primary Care"
+    ],
+    "designation": [
+      "Clinical Assistant Professor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/guadalupe-navarro/",
+    "other_link": ""
+  },
+  {
+    "name": "Jodi Allen",
+    "department": "Nursing",
+    "email": "jgallen@pnw.edu",
+    "phone": "(219) 989-2871",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Healthcare for Vulnerable Populations",
+      "Homelessness",
+      "FNP Education"
+    ],
+    "designation": [
+      "FNP Program Coordinator and Assistant Professor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jodi-allen/",
+    "other_link": ""
+  },
+  {
+    "name": "Jenni Guzzo",
+    "department": "Nursing",
+    "email": "jsguzzo@pnw.edu",
+    "phone": "(219) 989-2814",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Instruction"
+    ],
+    "designation": [
+      "Visiting Instructor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/jenni-guzzo/",
+    "other_link": ""
+  },
+  {
+    "name": "Paige Peters",
+    "department": "Nursing",
+    "email": "papeters@pnw.edu",
+    "phone": "(219) 989-2814",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Nursing Instruction"
+    ],
+    "designation": [
+      "Visiting Instructor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/paige-peters/",
+    "other_link": ""
+  },
+  {
+    "name": "Susanne Kinsella",
+    "department": "Nursing",
+    "email": "smkinsel@pnw.edu",
+    "phone": "",
+    "room_number": "Hammond Campus, NILS 225",
+    "ongoing_research": [
+      "Healthcare Law",
+      "Nursing Ethics"
+    ],
+    "designation": [
+      "Visiting Instructor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/susanne-kinsella/",
+    "other_link": ""
+  },
+  {
+    "name": "Meghan McGonigal-Kenney",
+    "department": "Nursing",
+    "email": "mcgoniga@pnw.edu",
+    "phone": "219-989-8450",
+    "room_number": "Remote",
+    "ongoing_research": [
+      "Nursing Instruction",
+      "Clinical Practice"
+    ],
+    "designation": [
+      "Clinical/Professional Instructor"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/meghan-mcgonigal-kenney/",
+    "other_link": ""
+  },
+  {
+    "name": "Cari Furst",
+    "department": "Nursing",
+    "email": "cfurst@pnw.edu",
+    "phone": "(219) 989-8450",
+    "room_number": "Remote",
+    "ongoing_research": [
+      "Clinical Nursing Instruction"
+    ],
+    "designation": [
+      "Professional/Clinical Instructor of Nursing"
+    ],
+    "linkedin": "",
+    "google_scholar": "",
+    "pnw_link": "https://www.pnw.edu/people/cari-furst/",
+    "other_link": ""
   }
 ]
