@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="odadc-ph-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="55%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+    <linearGradient id="odadc-ph-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c28e0e" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#0d9488" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#1e4a8a" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#odadc-ph-bg)"/>
+  <rect x="48" y="72" width="304" height="220" rx="16" fill="#fff" fill-opacity="0.85" stroke="#0c1929" stroke-opacity="0.12"/>
+  <rect x="48" y="72" width="304" height="40" rx="16" fill="url(#odadc-ph-accent)" fill-opacity="0.25"/>
+  <rect x="64" y="84" width="56" height="16" rx="4" fill="#0c1929" fill-opacity="0.12"/>
+  <rect x="64" y="136" width="200" height="10" rx="3" fill="#0c1929" fill-opacity="0.1"/>
+  <rect x="64" y="158" width="160" height="10" rx="3" fill="#0c1929" fill-opacity="0.07"/>
+  <rect x="64" y="180" width="176" height="10" rx="3" fill="#0c1929" fill-opacity="0.07"/>
+  <rect x="64" y="214" width="120" height="36" rx="8" fill="#0d9488" fill-opacity="0.2" stroke="#0d9488" stroke-opacity="0.35"/>
+  <circle cx="292" cy="178" r="40" fill="#0d9488" fill-opacity="0.12" stroke="#0d9488" stroke-opacity="0.25"/>
+  <path d="M276 178l12 12 24-28" stroke="#0d9488" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5"/>
+</svg>
