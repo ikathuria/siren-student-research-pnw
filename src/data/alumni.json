@@ -1,0 +1,15 @@
+{
+  "intro": "Alumni who have volunteered to be points of contact for current students. Reach out respectfully; responses are informal peer guidance, not official university advising.",
+  "volunteerNote": "If you are a PNW alum and want to be listed—or offer occasional mentorship—use the form below. Only name, class year, degree, and how you would like to help are required; choose whether your public listing should use email or a LinkedIn profile URL. The SIREN team will confirm before anything is published.",
+  "alumni": [
+    {
+      "name": "Karthisri Meghana Guntupalli",
+      "classOf": "2024",
+      "degree": "M.S., Computer Science",
+      "focus": "Applied AI, Drones",
+      "contact": "https://www.linkedin.com/in/karthisriguntupalli/",
+      "contactType": "linkedin",
+      "contactLabel": "LinkedIn"
+    }
+  ]
+}

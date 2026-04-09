@@ -6,7 +6,7 @@ export default function SirenPage() {
   return (
     <div className="page page--siren">
       <header className="page-hero page-hero--siren">
-        <div className="page-hero__content">
+        <div className="page-hero__content page-hero__content--wide">
           <img
             className="siren-logo"
             src={publicUrl('siren/logo.png')}
@@ -41,7 +41,7 @@ export default function SirenPage() {
         </div>
       </header>
 
-      <main className="page-main">
+      <main className="page-main page-main--wide">
         <section className="content-section">
           <h2>Mission</h2>
           <ul className="mission-list">

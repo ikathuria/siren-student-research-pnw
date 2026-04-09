@@ -7,14 +7,14 @@ export default function NewslettersPage() {
   return (
     <div className="page page--newsletters">
       <header className="page-hero page-hero--newsletters">
-        <div className="page-hero__content">
+        <div className="page-hero__content page-hero__content--wide">
           <p className="page-hero__eyebrow">SIREN</p>
           <h1 className="page-hero__title">The SIREN Brief</h1>
           <p className="page-hero__tagline">{newsletters.intro}</p>
         </div>
       </header>
 
-      <main className="page-main">
+      <main className="page-main page-main--wide">
         <section className="content-section">
           {issues.length > 0 && (
             <h2>Past issues</h2>

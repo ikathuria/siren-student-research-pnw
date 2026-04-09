@@ -6,7 +6,7 @@ export default function OdadcHubPage() {
   return (
     <div className="page page--odadc">
       <header className="page-hero page-hero--odadc">
-        <div className="page-hero__content">
+        <div className="page-hero__content page-hero__content--wide">
           <p className="page-hero__eyebrow">SIREN · Annual event</p>
           <h1 className="page-hero__title">{odadc.title}</h1>
           <p className="page-hero__lead">{odadc.shortName}</p>
@@ -14,7 +14,7 @@ export default function OdadcHubPage() {
         </div>
       </header>
 
-      <main className="page-main">
+      <main className="page-main page-main--wide">
         <section className="content-section">
           <p className="prose">{odadc.about}</p>
         </section>

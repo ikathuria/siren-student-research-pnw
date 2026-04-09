@@ -77,7 +77,7 @@ export default function OdadcYearPage() {
   if (!data) {
     return (
       <div className="page page--odadc">
-        <main className="page-main content-section">
+        <main className="page-main page-main--wide content-section">
           <h1>Year not found</h1>
           <p>We do not have an archive page for <strong>{year}</strong> yet.</p>
           <Link to="/odadc" className="inline-link">Back to ODADC</Link>
@@ -125,7 +125,7 @@ export default function OdadcYearPage() {
   return (
     <div className="page page--odadc">
       <header className="page-hero page-hero--odadc page-hero--compact">
-        <div className="page-hero__content">
+        <div className="page-hero__content page-hero__content--wide">
           <p className="page-hero__eyebrow">
             <Link to="/odadc" className="page-hero__crumb">ODADC</Link>
             {' · '}
@@ -136,7 +136,7 @@ export default function OdadcYearPage() {
         </div>
       </header>
 
-      <main className="page-main">
+      <main className="page-main page-main--wide">
         <section className="content-section">
           <h2>Projects</h2>
           {!projects.length && (
