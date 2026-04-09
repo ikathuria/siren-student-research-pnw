@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom'
 import App from './App.jsx'
 import './index.css'
 
-/** Match Vite `base` (e.g. /PNWResearchRadar/); React Router wants no trailing slash. */
+/** Match Vite `base` (e.g. /siren-student-research-pnw/); React Router wants no trailing slash. */
 const routerBasename =
   import.meta.env.BASE_URL === '/' ? undefined : import.meta.env.BASE_URL.replace(/\/$/, '')
 
